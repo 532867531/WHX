@@ -1,0 +1,41 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000104835	SARS2	SARS2	protein_coding_seryl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17697]	2943	1.914591908454895	-0.068970256	Yes	
+row_1	ENSG00000179988	PSTK	PSTK	protein_coding_phosphoseryl-tRNA kinase [Source:HGNC Symbol;Acc:HGNC:28578]	4229	1.5298737287521362	-0.072968274	Yes	
+row_2	ENSG00000139131	YARS2	YARS2	protein_coding_tyrosyl-tRNA synthetase 2 [Source:HGNC Symbol;Acc:HGNC:24249]	5036	1.3340389728546143	-0.061383072	Yes	
+row_3	ENSG00000116874	WARS2	WARS2	protein_coding_tryptophanyl tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12730]	6896	1.0943186283111572	-0.10928021	Yes	
+row_4	ENSG00000115866	DARS	DARS	protein_coding_aspartyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:2678]	7465	1.0320794582366943	-0.097654775	Yes	
+row_5	ENSG00000172053	QARS	QARS	protein_coding_glutaminyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:9751]	8102	0.969016432762146	-0.0916614	Yes	
+row_6	ENSG00000065427	KARS	KARS	protein_coding_lysyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:6215]	8538	0.929349422454834	-0.077529	Yes	
+row_7	ENSG00000133706	LARS	LARS	protein_coding_leucyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:6512]	8816	0.903619110584259	-0.0567936	Yes	
+row_8	ENSG00000112855	HARS2	HARS2	protein_coding_histidyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4817]	10202	0.8579031229019165	-0.09087445	Yes	
+row_9	ENSG00000145982	FARS2	FARS2	protein_coding_phenylalanyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21062]	10261	0.8511692881584167	-0.061618555	Yes	
+row_10	ENSG00000113643	RARS	RARS	protein_coding_arginyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:9870]	10938	0.7960532903671265	-0.06405177	Yes	
+row_11	ENSG00000146282	RARS2	RARS2	protein_coding_arginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21406]	11026	0.7910767793655396	-0.03844725	Yes	
+row_12	ENSG00000143374	TARS2	TARS2	protein_coding_threonyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30740]	11378	0.7673097848892212	-0.026388193	Yes	
+row_13	ENSG00000124608	AARS2	AARS2	protein_coding_alanyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21022]	12075	0.7175333499908447	-0.03273505	Yes	
+row_14	ENSG00000170445	HARS	HARS	protein_coding_histidyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:4816]	12675	0.6740699410438538	-0.036069464	Yes	
+row_15	ENSG00000185418	TARSL2	TARSL2	protein_coding_threonyl-tRNA synthetase like 2 [Source:HGNC Symbol;Acc:HGNC:24728]	12916	0.6590936183929443	-0.022764167	Yes	
+row_16	ENSG00000134905	CARS2	CARS2	protein_coding_cysteinyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25695]	12934	0.657580554485321	0.0011704018	Yes	
+row_17	ENSG00000179115	FARSA	FARSA	protein_coding_phenylalanyl-tRNA synthetase alpha subunit [Source:HGNC Symbol;Acc:HGNC:3592]	13065	0.6460868716239929	0.019257395	Yes	
+row_18	ENSG00000113407	TARS	TARS	protein_coding_threonyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:11572]	13542	0.611089289188385	0.019446783	Yes	
+row_19	ENSG00000137411	VARS2	VARS2	protein_coding_valyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21642]	14014	0.5831288695335388	0.018823432	Yes	
+row_20	ENSG00000110619	CARS	CARS	protein_coding_cysteinyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:1493]	14066	0.578779935836792	0.03816291	Yes	
+row_21	ENSG00000011376	LARS2	LARS2	protein_coding_leucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17095]	14250	0.5647632479667664	0.05064937	Yes	
+row_22	ENSG00000117593	DARS2	DARS2	protein_coding_aspartyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25538]	14251	0.5646836757659912	0.071902245	Yes	
+row_23	ENSG00000031698	SARS	SARS	protein_coding_seryl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:10537]	14728	0.528062641620636	0.068966776	Yes	
+row_24	ENSG00000109618	SEPSECS	SEPSECS	protein_coding_Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase [Source:HGNC Symbol;Acc:HGNC:30605]	15160	0.5011707544326782	0.0671756	Yes	
+row_25	ENSG00000136628	EPRS	EPRS	protein_coding_glutamyl-prolyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:3418]	15275	0.48975300788879395	0.08014541	Yes	
+row_26	ENSG00000137513	NARS2	NARS2	protein_coding_asparaginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:26274]	15391	0.48125848174095154	0.09274761	Yes	
+row_27	ENSG00000103356	EARS2	EARS2	protein_coding_glutamyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29419]	15455	0.47641170024871826	0.10765923	Yes	
+row_28	ENSG00000134684	YARS	YARS	protein_coding_tyrosyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:12840]	15685	0.4523999094963074	0.11371236	Yes	
+row_29	ENSG00000067704	IARS2	IARS2	protein_coding_isoleucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29685]	15728	0.4475423991680145	0.12854376	Yes	
+row_30	ENSG00000196305	IARS	IARS	protein_coding_isoleucyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:5330]	16832	0.39073291420936584	0.09039365	No	
+row_31	ENSG00000204394	VARS	VARS	protein_coding_valyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:12651]	16834	0.39045122265815735	0.10504105	No	
+row_32	ENSG00000116120	FARSB	FARSB	protein_coding_phenylalanyl-tRNA synthetase beta subunit [Source:HGNC Symbol;Acc:HGNC:17800]	17100	0.3653389811515808	0.10609236	No	
+row_33	ENSG00000103707	MTFMT	MTFMT	protein_coding_mitochondrial methionyl-tRNA formyltransferase [Source:HGNC Symbol;Acc:HGNC:29666]	17116	0.36250439286231995	0.11901706	No	
+row_34	ENSG00000134440	NARS	NARS	protein_coding_asparaginyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:7643]	17326	0.3489629328250885	0.122135565	No	
+row_35	ENSG00000162396	PARS2	PARS2	protein_coding_prolyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30563]	17591	0.32171058654785156	0.12159277	No	
+row_36	ENSG00000247626	MARS2	MARS2	protein_coding_methionyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25133]	18161	0.2870246469974518	0.105128825	No	
+row_37	ENSG00000106105	GARS	GARS	protein_coding_glycyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:4162]	18277	0.27053356170654297	0.1098	No	
+row_38	ENSG00000166986	MARS	MARS	protein_coding_methionyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:6898]	18678	0.22280889749526978	0.09901771	No	
+row_39	ENSG00000140105	WARS	WARS	protein_coding_tryptophanyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:12729]	18965	0.20587797462940216	0.0930611	No	

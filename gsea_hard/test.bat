@@ -1,0 +1,31 @@
+java -Xmx512m -cp gsea-3.0.jar xtools.gsea.Gsea ^
+-gmx ensembeld_c1_all_subset_kegg_v6_1_entrez.gmt ^
+-res T1_C1.txt ^
+-cls ClassA_vs_ClassB.cls#ClassA_versus_ClassB ^
+-collapse false ^
+-mode Max_probe ^
+-norm meandiv ^
+-nperm 1000 ^
+-permute gene_set ^
+-rnd_type no_balance ^
+-scoring_scheme weighted ^
+-rpt_label my_analysis_WHX ^
+-metric Ratio_of_Classes ^
+-sort real ^
+-order descending ^
+-chip chip_human.chip ^
+-create_gcts false ^
+-create_svgs false ^
+-include_only_symbols true ^
+-make_sets true ^
+-median false ^
+-num 100 ^
+-plot_top_x 50 ^
+-rnd_seed timestamp ^
+-save_rnd_lists true ^
+-set_max 100000000 ^
+-set_min 15 ^
+-zip_report false ^
+-out jun26 ^
+-gui false
+REM --help false

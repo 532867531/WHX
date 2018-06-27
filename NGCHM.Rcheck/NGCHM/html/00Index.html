@@ -1,0 +1,536 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>R: Utilities for Creating Next Generation Clustered Heat Maps</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+<h1> Utilities for Creating Next Generation Clustered Heat Maps
+<img class="toplogo" src="../../../doc/html/Rlogo.svg" alt="[R logo]" />
+</h1>
+<hr/>
+<div style="text-align: center;">
+<a href="../../../doc/html/packages.html"><img class="arrow" src="../../../doc/html/left.jpg" alt="[Up]" /></a>
+<a href="../../../doc/html/index.html"><img class="arrow" src="../../../doc/html/up.jpg" alt="[Top]" /></a>
+</div><h2>Documentation for package &lsquo;NGCHM&rsquo; version 0.11.13</h2>
+
+<ul><li><a href="../DESCRIPTION">DESCRIPTION file</a>.</li>
+</ul>
+
+<h2>Help Pages</h2>
+
+
+<p style="text-align: center;">
+<a href="# "> </a>
+<a href="#C">C</a>
+<a href="#G">G</a>
+<a href="#N">N</a>
+<a href="#O">O</a>
+<a href="#P">P</a>
+<a href="#R">R</a>
+<a href="#S">S</a>
+<a href="#T">T</a>
+<a href="#V">V</a>
+<a href="#W">W</a>
+<a href="#misc">misc</a>
+</p>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="NGCHM-package.html">NGCHM-package</a></td>
+<td>Next Generation Clustered Heat Map (NGCHM) Construction Library</td></tr>
+</table>
+
+<h2><a name="C">-- C --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="chmAdd-method.html">chmAdd</a></td>
+<td>Add a list of objects to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAdd-method.html">chmAdd-method</a></td>
+<td>Add a list of objects to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddAxisType-method.html">chmAddAxisType</a></td>
+<td>Add an axis type to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddAxisType-method.html">chmAddAxisType-method</a></td>
+<td>Add an axis type to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddColormap-method.html">chmAddColormap</a></td>
+<td>Add a colormap to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddColormap-method.html">chmAddColormap-method</a></td>
+<td>Add a colormap to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddCovariate-method.html">chmAddCovariate</a></td>
+<td>Add a covariate to an auxiliary dataset.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddCovariate-method.html">chmAddCovariate-method</a></td>
+<td>Add a covariate to an auxiliary dataset.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddCovariateBar-method.html">chmAddCovariateBar</a></td>
+<td>Add a covariate bar to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddCovariateBar-method.html">chmAddCovariateBar-method</a></td>
+<td>Add a covariate bar to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddCSS-method.html">chmAddCSS</a></td>
+<td>Add custom CSS to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddCSS-method.html">chmAddCSS-method</a></td>
+<td>Add custom CSS to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddDataset-method.html">chmAddDataset</a></td>
+<td>Add an auxiliary dataset to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddDataset-method.html">chmAddDataset-method</a></td>
+<td>Add an auxiliary dataset to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddDialog-method.html">chmAddDialog</a></td>
+<td>Add an extra dialog to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddDialog-method.html">chmAddDialog-method</a></td>
+<td>Add an extra dialog to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddLayer-method.html">chmAddLayer</a></td>
+<td>Add a Layer to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddLayer-method.html">chmAddLayer-method</a></td>
+<td>Add a Layer to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddMenuItem-method.html">chmAddMenuItem</a></td>
+<td>Add a menu entry to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddMenuItem-method.html">chmAddMenuItem-method</a></td>
+<td>Add a menu entry to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddMetaData-method.html">chmAddMetaData</a></td>
+<td>Add meta data.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddMetaData-method.html">chmAddMetaData-method</a></td>
+<td>Add meta data.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddOverview-method.html">chmAddOverview</a></td>
+<td>Generate an overview image of the NGCHM when making it.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddOverview-method.html">chmAddOverview-method</a></td>
+<td>Generate an overview image of the NGCHM when making it.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddProperty-method.html">chmAddProperty</a></td>
+<td>Add custom property to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddProperty-method.html">chmAddProperty-method</a></td>
+<td>Add custom property to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddRelated-method.html">chmAddRelated</a></td>
+<td>Add a link to related information to the NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddRelated-method.html">chmAddRelated-method</a></td>
+<td>Add a link to related information to the NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddRelatedGroup-method.html">chmAddRelatedGroup</a></td>
+<td>Add a group of related links to the NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddRelatedGroup-method.html">chmAddRelatedGroup-method</a></td>
+<td>Add a group of related links to the NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddSpecificAxisTypeFunction-method.html">chmAddSpecificAxisTypeFunction</a></td>
+<td>Add a CHM-specific axis type function to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddSpecificAxisTypeFunction-method.html">chmAddSpecificAxisTypeFunction-method</a></td>
+<td>Add a CHM-specific axis type function to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddTag-method.html">chmAddTag</a></td>
+<td>Add tags to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddTag-method.html">chmAddTag-method</a></td>
+<td>Add tags to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddTemplate-method.html">chmAddTemplate</a></td>
+<td>Add a file template to the NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddTemplate-method.html">chmAddTemplate-method</a></td>
+<td>Add a file template to the NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddToolboxR-method.html">chmAddToolboxR</a></td>
+<td>Add standard toolbox to an axis</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddToolboxR-method.html">chmAddToolboxR-method</a></td>
+<td>Add standard toolbox to an axis</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddToolboxR2-method.html">chmAddToolboxR2</a></td>
+<td>Add standard toolbox to an element</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddToolboxR2-method.html">chmAddToolboxR2-method</a></td>
+<td>Add standard toolbox to an element</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddToolboxRC-method.html">chmAddToolboxRC</a></td>
+<td>Add standard toolbox to an element</td></tr>
+<tr><td style="width: 25%;"><a href="chmAddToolboxRC-method.html">chmAddToolboxRC-method</a></td>
+<td>Add standard toolbox to an element</td></tr>
+<tr><td style="width: 25%;"><a href="chmAxis.html">chmAxis</a></td>
+<td>Create a new Axis for adding to an NG-CHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmAxisType.html">chmAxisType</a></td>
+<td>Create a new AxisType for adding to an ngchmAxis.</td></tr>
+<tr><td style="width: 25%;"><a href="chmBindFunction-method.html">chmBindFunction</a></td>
+<td>Bind values to an existing JS function.</td></tr>
+<tr><td style="width: 25%;"><a href="chmBindFunction-method.html">chmBindFunction-method</a></td>
+<td>Bind values to an existing JS function.</td></tr>
+<tr><td style="width: 25%;"><a href="chmBrowse.html">chmBrowse</a></td>
+<td>Browse the NGCHMs on the specified server in the viewer.</td></tr>
+<tr><td style="width: 25%;"><a href="chmColOrder-method.html">chmColOrder&lt;-</a></td>
+<td>Set the column order of data shown in a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmColOrder-method.html">chmColOrder&lt;--method</a></td>
+<td>Set the column order of data shown in a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmCreateCollection.html">chmCreateCollection</a></td>
+<td>Create a new collection</td></tr>
+<tr><td style="width: 25%;"><a href="chmCreateManagedServer.html">chmCreateManagedServer</a></td>
+<td>Create an ngchmServer object for a managed NG-CHM server</td></tr>
+<tr><td style="width: 25%;"><a href="chmCreateServer.html">chmCreateServer</a></td>
+<td>Create an ngchmServer object from a specification.</td></tr>
+<tr><td style="width: 25%;"><a href="chmCurrentCollection.html">chmCurrentCollection</a></td>
+<td>Get the user's current collection</td></tr>
+<tr><td style="width: 25%;"><a href="chmCurrentServer.html">chmCurrentServer</a></td>
+<td>Get the user's current server</td></tr>
+<tr><td style="width: 25%;"><a href="chmDefaultColOrder.html">chmDefaultColOrder</a></td>
+<td>Return default column order of an NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="chmDefaultRowOrder.html">chmDefaultRowOrder</a></td>
+<td>Return default row order of an NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="chmDeployServer-method.html">chmDeployServer</a></td>
+<td>Get the name of a NGCHM server.</td></tr>
+<tr><td style="width: 25%;"><a href="chmDeployServer-method.html">chmDeployServer-method</a></td>
+<td>Get the name of a NGCHM server.</td></tr>
+<tr><td style="width: 25%;"><a href="chmExportToFile-method.html">chmExportToFile</a></td>
+<td>Export a standalone NGCHM to a file.</td></tr>
+<tr><td style="width: 25%;"><a href="chmExportToPDF-method.html">chmExportToPDF</a></td>
+<td>Export a PDF of the NGCHM to a file.</td></tr>
+<tr><td style="width: 25%;"><a href="chmFieldAccessFunction.html">chmFieldAccessFunction</a></td>
+<td>Get Javascript function name for accessing a specific string field in each element of string vector.</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetDataset-method.html">chmGetDataset</a></td>
+<td>Get the dataset from an NG-CHM object</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetDataset-method.html">chmGetDataset-method</a></td>
+<td>Get the dataset from an NG-CHM object</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetDeployServerConfig.html">chmGetDeployServerConfig</a></td>
+<td>Get per-user configuration for a specific deploy Server.</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetFunction.html">chmGetFunction</a></td>
+<td>Get a predefined Javascript function for use in NGCHM menus</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetOverview.html">chmGetOverview</a></td>
+<td>Get the file path to the specified overview file.</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetProperty-method.html">chmGetProperty</a></td>
+<td>Get a property value from an NG-CHM object</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetProperty-method.html">chmGetProperty-method</a></td>
+<td>Get a property value from an NG-CHM object</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetTypeInfo.html">chmGetTypeInfo</a></td>
+<td>Get information about a type name.</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetURL-method.html">chmGetURL</a></td>
+<td>Get the URL for an installed NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmGetURL-method.html">chmGetURL-method</a></td>
+<td>Get the URL for an installed NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmHasProperty-method.html">chmHasProperty</a></td>
+<td>Determine if the NG-CHM has the given property.</td></tr>
+<tr><td style="width: 25%;"><a href="chmHasProperty-method.html">chmHasProperty-method</a></td>
+<td>Determine if the NG-CHM has the given property.</td></tr>
+<tr><td style="width: 25%;"><a href="chmInstall-method.html">chmInstall</a></td>
+<td>Add an NG-CHM to an NG-CHM collection.</td></tr>
+<tr><td style="width: 25%;"><a href="chmInstall-method.html">chmInstall-method</a></td>
+<td>Add an NG-CHM to an NG-CHM collection.</td></tr>
+<tr><td style="width: 25%;"><a href="chmListFunctions.html">chmListFunctions</a></td>
+<td>List the predefined Javascript functions available for use in NGCHM menus.</td></tr>
+<tr><td style="width: 25%;"><a href="chmListServers.html">chmListServers</a></td>
+<td>Return the names of the NGCHM servers defined to date in this session.</td></tr>
+<tr><td style="width: 25%;"><a href="chmListTypes.html">chmListTypes</a></td>
+<td>List known axis types.</td></tr>
+<tr><td style="width: 25%;"><a href="chmLoadCHM-method.html">chmLoadCHM</a></td>
+<td>Load CHM from NG-CHM server</td></tr>
+<tr><td style="width: 25%;"><a href="chmLoadCHM-method.html">chmLoadCHM-method</a></td>
+<td>Load CHM from NG-CHM server</td></tr>
+<tr><td style="width: 25%;"><a href="chmMake-method.html">chmMake</a></td>
+<td>Compile a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmMake-method.html">chmMake-method</a></td>
+<td>Compile a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmMakePrivate-method.html">chmMakePrivate</a></td>
+<td>Make an installed NGCHM private.</td></tr>
+<tr><td style="width: 25%;"><a href="chmMakePrivate-method.html">chmMakePrivate-method</a></td>
+<td>Make an installed NGCHM private.</td></tr>
+<tr><td style="width: 25%;"><a href="chmMakePublic-method.html">chmMakePublic</a></td>
+<td>Make an installed NGCHM public.</td></tr>
+<tr><td style="width: 25%;"><a href="chmMakePublic-method.html">chmMakePublic-method</a></td>
+<td>Make an installed NGCHM public.</td></tr>
+<tr><td style="width: 25%;"><a href="chmManager.html">chmManager</a></td>
+<td>Manage the NGCHMs on the specified server in the viewer.</td></tr>
+<tr><td style="width: 25%;"><a href="chmName-method.html">chmName</a></td>
+<td>Get the name of a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmName-method.html">chmName-method</a></td>
+<td>Get the name of a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmNew.html">chmNew</a></td>
+<td>Create a new NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmNewColorMap.html">chmNewColorMap</a></td>
+<td>Create a new Color Map for use in constructing a NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="chmNewCovariate.html">chmNewCovariate</a></td>
+<td>Create a new Covariate for adding to an NGCHM auxilary dataset.</td></tr>
+<tr><td style="width: 25%;"><a href="chmNewCovariateBar.html">chmNewCovariateBar</a></td>
+<td>Create a new covariate Bar for a NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="chmNewDataLayer.html">chmNewDataLayer</a></td>
+<td>Create a new Data Layer for a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmNewDataset.html">chmNewDataset</a></td>
+<td>Create a new Dataset for a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmNewDialog.html">chmNewDialog</a></td>
+<td>Create a new Dialog for a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmNewFunction.html">chmNewFunction</a></td>
+<td>Create a new Javascript function for adding to a NGCHM menu.</td></tr>
+<tr><td style="width: 25%;"><a href="chmNewProperty.html">chmNewProperty</a></td>
+<td>Create a new Property for adding to a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmNewServer.html">chmNewServer</a></td>
+<td>Create a new object representing a NGCHM server.</td></tr>
+<tr><td style="width: 25%;"><a href="chmOriginalColOrder.html">chmOriginalColOrder</a></td>
+<td>Return original column order of an NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="chmOriginalRowOrder.html">chmOriginalRowOrder</a></td>
+<td>Return original row order of an NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="chmProperties.html">chmProperties</a></td>
+<td>Create a list of NGCHM properties.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRandomColOrder.html">chmRandomColOrder</a></td>
+<td>Return random column order of an NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="chmRandomRowOrder.html">chmRandomRowOrder</a></td>
+<td>Return random row order of an NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="chmRegisterAxisFunction.html">chmRegisterAxisFunction</a></td>
+<td>Register a predefined Javascript function for use in NGCHM Axis menus.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRegisterFunction.html">chmRegisterFunction</a></td>
+<td>Register a predefined Javascript function for use in NGCHM menus.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRegisterGetMetadataFunction.html">chmRegisterGetMetadataFunction</a></td>
+<td>Define and register a Javascript function for obtaining a specific metadata value.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRegisterMatrixFunction.html">chmRegisterMatrixFunction</a></td>
+<td>Register a predefined Javascript function for use in NGCHM Matrix menus.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRegisterToolboxFunction.html">chmRegisterToolboxFunction</a></td>
+<td>Register a Javascript function for use in the NGCHM toolbox.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRegisterType.html">chmRegisterType</a></td>
+<td>Register a type name.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRegisterTypeMapper.html">chmRegisterTypeMapper</a></td>
+<td>Register a predefined Javascript function for converting values from one type to another.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRegisterTypeSplitter.html">chmRegisterTypeSplitter</a></td>
+<td>Define and register a Javascript function for converting a lists of type values into single values.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRowOrder-method.html">chmRowOrder&lt;-</a></td>
+<td>Set the row order of data shown in a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmRowOrder-method.html">chmRowOrder&lt;--method</a></td>
+<td>Set the row order of data shown in a NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmServer.html">chmServer</a></td>
+<td>Get a registered ngchmServer object for use in making and installing NGCHMs</td></tr>
+<tr><td style="width: 25%;"><a href="chmSetCollection.html">chmSetCollection</a></td>
+<td>Set the user's current server and/or collection</td></tr>
+<tr><td style="width: 25%;"><a href="chmSetCredentials-method.html">chmSetCredentials</a></td>
+<td>Set access credentials.</td></tr>
+<tr><td style="width: 25%;"><a href="chmSetCredentials-method.html">chmSetCredentials-method</a></td>
+<td>Set access credentials.</td></tr>
+<tr><td style="width: 25%;"><a href="chmSetDeployServerConfig.html">chmSetDeployServerConfig</a></td>
+<td>Specify per-user configuration for a specific deploy Server.</td></tr>
+<tr><td style="width: 25%;"><a href="chmStringopFunction.html">chmStringopFunction</a></td>
+<td>Get Javascript function name for performing a specific string operation on each element of a string vector.</td></tr>
+<tr><td style="width: 25%;"><a href="chmUninstall-method.html">chmUninstall</a></td>
+<td>Remove an installed NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmUninstall-method.html">chmUninstall-method</a></td>
+<td>Remove an installed NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="chmUrlBase-method.html">chmUrlBase</a></td>
+<td>Get the base URL for a NGCHM installed on a NGCHM server.</td></tr>
+<tr><td style="width: 25%;"><a href="chmUrlBase-method.html">chmUrlBase-method</a></td>
+<td>Get the base URL for a NGCHM installed on a NGCHM server.</td></tr>
+<tr><td style="width: 25%;"><a href="chmUserDendrogramToShaid.html">chmUserDendrogramToShaid</a></td>
+<td>Convert a user specified dendrogram to a shaid</td></tr>
+<tr><td style="width: 25%;"><a href="chmUserLabelsToShaid.html">chmUserLabelsToShaid</a></td>
+<td>Convert user specified labels to a shaid</td></tr>
+<tr><td style="width: 25%;"><a href="chmWriteCustomJS.html">chmWriteCustomJS</a></td>
+<td>Output Javascript code required to customize an NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="cos.dist1.html">cos.dist1</a></td>
+<td>Compute cosine (angular) distance matrix</td></tr>
+</table>
+
+<h2><a name="G">-- G --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="gitHashObject.html">gitHashObject</a></td>
+<td>Obtain the git hash of an existing file.</td></tr>
+</table>
+
+<h2><a name="N">-- N --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="NGCHM-package.html">NGCHM</a></td>
+<td>Next Generation Clustered Heat Map (NGCHM) Construction Library</td></tr>
+<tr><td style="width: 25%;"><a href="ngchm-class.html">ngchm-class</a></td>
+<td>Class representing a Next Generation Clustered Heat Map (NGCHM) under construction.</td></tr>
+<tr><td style="width: 25%;"><a href="NGCHM-functions.html">NGCHM-functions</a></td>
+<td>Javascript extensions for the Next Generation Clustered Heat Map (NGCHM) Construction Library</td></tr>
+<tr><td style="width: 25%;"><a href="NGCHM-initialization.html">NGCHM-initialization</a></td>
+<td>Initialization of the NGCHM library.</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmAddDatasetBlob.html">ngchmAddDatasetBlob</a></td>
+<td>Add a data file to a local shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmAddMatrixToCollection.html">ngchmAddMatrixToCollection</a></td>
+<td>Add a matrix reference to a collection</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmAddObjectToCollection.html">ngchmAddObjectToCollection</a></td>
+<td>Add an object reference to a collection</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmAxis-class.html">ngchmAxis-class</a></td>
+<td>Class representing an axis of a Next Generation Clustered Heat Map (NG-CHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmAxisFunction-class.html">ngchmAxisFunction-class</a></td>
+<td>Class representing an axis function for Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmAxisType-class.html">ngchmAxisType-class</a></td>
+<td>Class representing a type attached to an axis in a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmBar-class.html">ngchmBar-class</a></td>
+<td>Class representing a Covariate Bar on a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmCollectionInCollection.html">ngchmCollectionInCollection</a></td>
+<td>Recursively determine if collection uuid is contained in collection A collecton always contains itself.</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmCollectionTree.html">ngchmCollectionTree</a></td>
+<td>Create a recursive description of a collection</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmColormap-class.html">ngchmColormap-class</a></td>
+<td>Class representing a Color Map on a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmCovariate-class.html">ngchmCovariate-class</a></td>
+<td>Class representing a Covariate attached to a Dataset</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmCreateServerProtocol.html">ngchmCreateServerProtocol</a></td>
+<td>Create and register an NGCHM server protocol implementation.</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmCSS-class.html">ngchmCSS-class</a></td>
+<td>Class representing custom CSS for a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmDataset-class.html">ngchmDataset-class</a></td>
+<td>Class representing a Dataset attached to a NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmDialog-class.html">ngchmDialog-class</a></td>
+<td>Class representing an addon dialog</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmFindRepo.html">ngchmFindRepo</a></td>
+<td>Find a repository, if any, that contains the requested shaid</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmGetDataFileShaid.html">ngchmGetDataFileShaid</a></td>
+<td>Compute shaid for a data file</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmGetEnv.html">ngchmGetEnv</a></td>
+<td>Get the ngchm environment (for debugging only).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmGetHandleHTTR.html">ngchmGetHandleHTTR</a></td>
+<td>Get a HTTR handle for the server's view/WS URL</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmGetLabels.html">ngchmGetLabels</a></td>
+<td>Get the axis labels of a shaidy dataset or dendrogram</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmGetLabelsStr.html">ngchmGetLabelsStr</a></td>
+<td>Get the axis labels of a shaidy dataset or dendrogram</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmGetProtoParam.html">ngchmGetProtoParam</a></td>
+<td>Get a server protocol parameter</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmGetServerProtocol.html">ngchmGetServerProtocol</a></td>
+<td>Lookup a Server Protocol</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmInitShaidyRepository.html">ngchmInitShaidyRepository</a></td>
+<td>Create a shaidy repository for NG-CHMS</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmJS-class.html">ngchmJS-class</a></td>
+<td>Class representing a custom Javascript function for a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmLayer-class.html">ngchmLayer-class</a></td>
+<td>Class representing a Layer on a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmListServerProtocols.html">ngchmListServerProtocols</a></td>
+<td>List defined server protocols</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmLoadDatasetBlob.html">ngchmLoadDatasetBlob</a></td>
+<td>Load a data matrix from a local shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmMakeFormat.original.html">ngchmMakeFormat.original</a></td>
+<td>Make an original format NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmMakeFormat.shaidy.html">ngchmMakeFormat.shaidy</a></td>
+<td>Make a shaidy format NGCHM.</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmMatrixFunction-class.html">ngchmMatrixFunction-class</a></td>
+<td>Class representing a matrix function for Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmMenuItem-class.html">ngchmMenuItem-class</a></td>
+<td>Class representing a Menu Item for a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmMetaData-class.html">ngchmMetaData-class</a></td>
+<td>Class representing meta data attached to an NG-CHM</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmNewBar.html">ngchmNewBar</a></td>
+<td>Create a new Classification Bar for a NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmNewCollection.html">ngchmNewCollection</a></td>
+<td>Create a new collection in a local shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmOverview-class.html">ngchmOverview-class</a></td>
+<td>Class representing an overview of a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmProperty-class.html">ngchmProperty-class</a></td>
+<td>Class representing a Generic Property for a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmProtoParamCheck.html">ngchmProtoParamCheck</a></td>
+<td>Check that all required parameters are specified, and all specified parameters are either required or optional.</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmPushSourceRepository.html">ngchmPushSourceRepository</a></td>
+<td>Push a shaidy repository onto the stack of source repositories</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmPushTempRepository.html">ngchmPushTempRepository</a></td>
+<td>Push a shaidy repository onto the stack of temporary repositories</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmRegisterServer.html">ngchmRegisterServer</a></td>
+<td>Register an ngchmServer.</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmRelated-class.html">ngchmRelated-class</a></td>
+<td>Class representing a link related to a NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmRelatedGroup-class.html">ngchmRelatedGroup-class</a></td>
+<td>Class representing a group of related links to a NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmRenderChm.html">ngchmRenderChm</a></td>
+<td>Render a shaidy NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmResponseJSON.html">ngchmResponseJSON</a></td>
+<td>Return response content interpreted as JSON</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmRowCenter.html">ngchmRowCenter</a></td>
+<td>Row center a shaidy dataset</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmSaveAsDatasetBlob.html">ngchmSaveAsDatasetBlob</a></td>
+<td>Save a numeric matrix as a blob in a shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmSaveAsDendrogramBlob.html">ngchmSaveAsDendrogramBlob</a></td>
+<td>Save a dendrogram as a blob in a shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmSaveChmAsBlob.html">ngchmSaveChmAsBlob</a></td>
+<td>Save an NGCHM as a shaidy blob</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmServer-class.html">ngchmServer-class</a></td>
+<td>Class representing a Next Generation Clustered Heat Map (NGCHM) server.</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmServerProtocol-class.html">ngchmServerProtocol-class</a></td>
+<td>Class representing a deployment method for a Next Generation Clustered Heat Map (NGCHM) server.</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmShaidyInit.html">ngchmShaidyInit</a></td>
+<td>Initialize shaidy subsystem for NGCHMs</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmTemplate-class.html">ngchmTemplate-class</a></td>
+<td>Class representing a Template attached to a NGCHM</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmTileDataset.html">ngchmTileDataset</a></td>
+<td>Get the tiles for a shaidy dataset</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmTypeMapper-class.html">ngchmTypeMapper-class</a></td>
+<td>Class representing a type mapper function for Next Generation Clustered Heat Map (NGCHM).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmUnregisterServer.html">ngchmUnregisterServer</a></td>
+<td>Unregister ngchmServer(s).</td></tr>
+<tr><td style="width: 25%;"><a href="ngchmValueProp-class.html">ngchmValueProp-class</a></td>
+<td>Class representing the properties of a data point in a Next Generation Clustered Heat Map (NGCHM).</td></tr>
+</table>
+
+<h2><a name="O">-- O --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="optDendrogram-class.html">optDendrogram-class</a></td>
+<td>Optional Dendrogram</td></tr>
+</table>
+
+<h2><a name="P">-- P --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="plot.ngchmVersion2.html">plot.ngchmVersion2</a></td>
+<td>Open the NG-CHM on the specified server in the viewer.</td></tr>
+<tr><td style="width: 25%;"><a href="print.ngchm.type.info.html">print.ngchm.type.info</a></td>
+<td>Pretty print the result returned by chmGetTypeInfo.</td></tr>
+<tr><td style="width: 25%;"><a href="print.shaidyRepo.html">print.shaidyRepo</a></td>
+<td>Print a shaidy repository</td></tr>
+</table>
+
+<h2><a name="R">-- R --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="readTile.html">readTile</a></td>
+<td>Read a binary viewer tile as a matrix</td></tr>
+</table>
+
+<h2><a name="S">-- S --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="shaid-class.html">shaid-class</a></td>
+<td>Class representing the shaid of an object</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyAddFileBlob.html">shaidyAddFileBlob</a></td>
+<td>Add data file(s) and properties to a local shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyBlobExists.html">shaidyBlobExists</a></td>
+<td>Determine if one more blobs exist in a shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyCopyBlob.html">shaidyCopyBlob</a></td>
+<td>Copy a blob from one repository to another</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyCreateProtoBlob.html">shaidyCreateProtoBlob</a></td>
+<td>Create a prototype blob in a shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyFinalizeProtoBlob.html">shaidyFinalizeProtoBlob</a></td>
+<td>Finalize a prototype blob</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyFindRepo.html">shaidyFindRepo</a></td>
+<td>Find the first repository, if any, that contains the requested shaid</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyGetComponents-method.html">shaidyGetComponents</a></td>
+<td>Get an object's component shaids</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyGetComponents-method.html">shaidyGetComponents-method</a></td>
+<td>Get an object's component shaids</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyGetShaid-method.html">shaidyGetShaid</a></td>
+<td>Get shaid for an object</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyGetShaid-method.html">shaidyGetShaid-method</a></td>
+<td>Get shaid for an object</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyHashProtoBlob.html">shaidyHashProtoBlob</a></td>
+<td>Compute the shaid to assign a protoblob</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyInit.html">shaidyInit</a></td>
+<td>Initialize the shaidy subsystem</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyInitRepository.html">shaidyInitRepository</a></td>
+<td>Create and initialize a local shaidy repository.</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyLoadProvenanceDB.html">shaidyLoadProvenanceDB</a></td>
+<td>Load the provid -&gt; shaid DB for a local shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyLoadProvidDB.html">shaidyLoadProvidDB</a></td>
+<td>Load the provid -&gt; labels DB for a local shaidy repository.</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyLoadRepository.html">shaidyLoadRepository</a></td>
+<td>Load a shaidy repository</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyNewCache.html">shaidyNewCache</a></td>
+<td>Create in memory shaid cache</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyProvenance.html">shaidyProvenance</a></td>
+<td>Create a provid from a list of label values</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyRegisterRepoAPI.html">shaidyRegisterRepoAPI</a></td>
+<td>Set the methods for the repository API called api</td></tr>
+<tr><td style="width: 25%;"><a href="shaidyRepoAPI.html">shaidyRepoAPI</a></td>
+<td>Get the methods for the repository API called api</td></tr>
+</table>
+
+<h2><a name="T">-- T --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="TCGA.GBM.EXPR.html">TCGA.GBM.EXPR</a></td>
+<td>Sample dataset containing RNA expression data from Affymetrix U133A chips for TCGA Glioblastoma Multiforme samples.</td></tr>
+</table>
+
+<h2><a name="V">-- V --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="validateNewLayer.html">validateNewLayer</a></td>
+<td>Check that the specified layer can be added to the specificed NGCHM.</td></tr>
+</table>
+
+<h2><a name="W">-- W --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="writeTile.html">writeTile</a></td>
+<td>Write a matrix as a binary viewer tile</td></tr>
+</table>
+
+<h2><a name="misc">-- misc --</a></h2>
+
+<table width="100%">
+<tr><td style="width: 25%;"><a href="cash-.shaidyRepo.html">$.shaidyRepo</a></td>
+<td>Provide a simpler method for accessing repo methods</td></tr>
+</table>
+</body></html>

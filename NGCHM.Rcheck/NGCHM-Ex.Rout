@@ -1,0 +1,300 @@
+
+R version 3.4.1 (2017-06-30) -- "Single Candle"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> pkgname <- "NGCHM"
+> source(file.path(R.home("share"), "R", "examples-header.R"))
+> options(warn = 1)
+> options(pager = "console")
+> base::assign(".ExTimings", "NGCHM-Ex.timings", pos = 'CheckExEnv')
+> base::cat("name\tuser\tsystem\telapsed\n", file=base::get(".ExTimings", pos = 'CheckExEnv'))
+> base::assign(".format_ptime",
++ function(x) {
++   if(!is.na(x[4L])) x[1L] <- x[1L] + x[4L]
++   if(!is.na(x[5L])) x[2L] <- x[2L] + x[5L]
++   options(OutDec = '.')
++   format(x[1L:3L], digits = 7L)
++ },
++ pos = 'CheckExEnv')
+> 
+> ### * </HEADER>
+> library('NGCHM')
+> 
+> base::assign(".oldSearch", base::search(), pos = 'CheckExEnv')
+> cleanEx()
+> nameEx("NGCHM-initialization")
+> ### * NGCHM-initialization
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: NGCHM-initialization
+> ### Title: Initialization of the NGCHM library.
+> ### Aliases: NGCHM-initialization
+> 
+> ### ** Examples
+> 
+> ## Not run: 
+> ##D #/usr/local/ngchm/conf.d/00-servers.txt :
+> ##D [servers]
+> ##D my-server = /usr/local/ngchm/my-server
+> ## End(Not run)
+> ## Not run: 
+> ##D #/usr/local/ngchm/my-server/config.txt :
+> ##D serverProtocol = manual
+> ## End(Not run)
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("NGCHM-initialization", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> cleanEx()
+> nameEx("NGCHM-package")
+> ### * NGCHM-package
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: NGCHM
+> ### Title: Next Generation Clustered Heat Map (NGCHM) Construction Library
+> ### Aliases: NGCHM NGCHM-package
+> 
+> ### ** Examples
+> 
+> data(TCGA.GBM.EXPR)
+> chm1 <- chmNew('gbm', TCGA.GBM.EXPR[1:50,1:50], rowAxisType='bio.gene.hugo', colAxisType='bio.tcga.barcode.sample.vial.portion.analyte.aliquot');
+> ## Not run: 
+> ##D chmExportToFile(chm1, 'gbm.ngchm');
+> ##D chmExportToPDF(chm1, 'gbm.pdf');
+> ## End(Not run)
+> 
+> mat <- matrix(rnorm(100),nrow=10)
+> rownames(mat) <- sprintf ("ABCA%d", 1:10)
+> colnames(mat) <- sprintf ("Sample%d", 1:10)
+> chm <- chmNew ('my-chm', mat)
+> ## Not run: 
+> ##D chmSetCollection ('//server/collection')
+> ##D chmInstall (chm)
+> ## End(Not run)
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("NGCHM-package", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> cleanEx()
+> nameEx("TCGA.GBM.EXPR")
+> ### * TCGA.GBM.EXPR
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: TCGA.GBM.EXPR
+> ### Title: Sample dataset containing RNA expression data from Affymetrix
+> ###   U133A chips for TCGA Glioblastoma Multiforme samples.
+> ### Aliases: TCGA.GBM.EXPR
+> ### Keywords: data
+> 
+> ### ** Examples
+> 
+> data(TCGA.GBM.EXPR)
+> sample.type <- 'bio.tcga.barcode.sample.vial.portion.analyte.aliquot'
+> chm <- chmNew ('my-gbm-chm', TCGA.GBM.EXPR, rowAxisType='bio.gene.hugo',
++                 colAxisType=sample.type)
+> ## Not run: 
+> ##D chmMake ('my-server', chm)
+> ##D chmInstall ('my-server', chm)
+> ## End(Not run)
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("TCGA.GBM.EXPR", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> cleanEx()
+> nameEx("chmNew")
+> ### * chmNew
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: chmNew
+> ### Title: Create a new NGCHM.
+> ### Aliases: chmNew
+> 
+> ### ** Examples
+> 
+> mychm <- chmNew ("test_chm")
+> 
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("chmNew", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> cleanEx()
+> nameEx("chmNewColorMap")
+> ### * chmNewColorMap
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: chmNewColorMap
+> ### Title: Create a new Color Map for use in constructing a NGCHM
+> ### Aliases: chmNewColorMap
+> 
+> ### ** Examples
+> 
+> noise.colors <- chmNewColorMap (c(0,1,2),
++                                 c("green", "black", "red"),
++                                 missing.color="yellow")
+> bar.colors <- chmNewColorMap (c("small", "big"),
++                               c("#00FFFF", "#FF00FF"),
++                               type="quantile")
+> 
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("chmNewColorMap", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> cleanEx()
+> nameEx("chmNewCovariateBar")
+> ### * chmNewCovariateBar
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: chmNewCovariateBar
+> ### Title: Create a new covariate Bar for a NGCHM
+> ### Aliases: chmNewCovariateBar
+> 
+> ### ** Examples
+> 
+> bar.data <- ifelse (rnorm(1000) < 0, "negative", "non-negative")
+> names(bar.data) <- sprintf ("Sample%d", 1:length(bar.data))
+> bar.colors <- chmNewColorMap (c("negative", "non-negative"),
++                               c("white", "black"), missing.color='red')
+> covar <- chmNewCovariate ("Group", bar.data, bar.colors, "discrete")
+> bar <- chmNewCovariateBar (covar)
+> 
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("chmNewCovariateBar", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> cleanEx()
+> nameEx("chmNewDataLayer")
+> ### * chmNewDataLayer
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: chmNewDataLayer
+> ### Title: Create a new Data Layer for a NGCHM.
+> ### Aliases: chmNewDataLayer
+> 
+> ### ** Examples
+> 
+> noise <- matrix (runif(1000) + runif(1000*1000), nrow=1000)
+> rownames(noise) <- sprintf ("Row%d", 1:nrow(noise))
+> colnames(noise) <- sprintf ("Col%d", 1:ncol(noise))
+> noise.colors <- chmNewColorMap (c(0,1,2),
++                                 c("green", "black", "red"), missing.color="yellow")
+> layer <- chmNewDataLayer ("Noisy Data", noise, noise.colors)
+> 
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("chmNewDataLayer", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> cleanEx()
+> nameEx("chmNewFunction")
+> ### * chmNewFunction
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: chmNewFunction
+> ### Title: Create a new Javascript function for adding to a NGCHM menu.
+> ### Aliases: chmNewFunction
+> 
+> ### ** Examples
+> 
+> alertFn <- chmNewFunction ("showAlert", "Display the parameter in an alert box",
++                            "function showAlert(label) { alert(label); }", global=TRUE)
+> dbLookup <- chmNewFunction ("dbLookup", "Lookup the parameter in a database",
++                             "function showAlert(database, label) { alert(database[label]); }",
++                             c("database"))
+> 
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("chmNewFunction", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> cleanEx()
+> nameEx("chmNewProperty")
+> ### * chmNewProperty
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: chmNewProperty
+> ### Title: Create a new Property for adding to a NGCHM.
+> ### Aliases: chmNewProperty
+> 
+> ### ** Examples
+> 
+> prop <- chmNewProperty ("chm.info.caption",
++                            "This is a nifty new CHM.")
+> 
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("chmNewProperty", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> cleanEx()
+> nameEx("chmNewServer")
+> ### * chmNewServer
+> 
+> flush(stderr()); flush(stdout())
+> 
+> base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+> ### Name: chmNewServer
+> ### Title: Create a new object representing a NGCHM server.
+> ### Aliases: chmNewServer
+> 
+> ### ** Examples
+> 
+> cloudServ <- chmNewServer ("dnsname.domain")
+> 
+> 
+> 
+> 
+> base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
+> base::cat("chmNewServer", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
+> ### * <FOOTER>
+> ###
+> options(digits = 7L)
+> base::cat("Time elapsed: ", proc.time() - base::get("ptime", pos = 'CheckExEnv'),"\n")
+Time elapsed:  21.36 2.34 32.3 NA NA 
+> grDevices::dev.off()
+null device 
+          1 
+> ###
+> ### Local variables: ***
+> ### mode: outline-minor ***
+> ### outline-regexp: "\\(> \\)?### [*]+" ***
+> ### End: ***
+> quit('no')

@@ -1,0 +1,72 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000122641	INHBA	INHBA	protein_coding_inhibin beta A subunit [Source:HGNC Symbol;Acc:HGNC:6066]	5	85.02081298828125	0.48117098	Yes	
+row_1	ENSG00000137801	THBS1	THBS1	protein_coding_thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	375	10.860907554626465	0.5249595	Yes	
+row_2	ENSG00000125845	BMP2	BMP2	protein_coding_bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	893	5.4641499519348145	0.5310874	Yes	
+row_3	ENSG00000092969	TGFB2	TGFB2	protein_coding_transforming growth factor beta 2 [Source:HGNC Symbol;Acc:HGNC:11768]	961	5.234739780426025	0.55751246	Yes	
+row_4	ENSG00000136997	MYC	MYC	protein_coding_MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	975	5.103390216827393	0.5857854	Yes	
+row_5	ENSG00000232810	TNF	TNF	protein_coding_tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	1328	3.728156089782715	0.5900022	Yes	
+row_6	ENSG00000120693	SMAD9	SMAD9	protein_coding_SMAD family member 9 [Source:HGNC Symbol;Acc:HGNC:6774]	1748	2.9286818504333496	0.5864767	No	
+row_7	ENSG00000011465	DCN	DCN	protein_coding_decorin [Source:HGNC Symbol;Acc:HGNC:2705]	2117	2.6390318870544434	0.5837587	No	
+row_8	ENSG00000134363	FST	FST	protein_coding_follistatin [Source:HGNC Symbol;Acc:HGNC:3971]	2593	2.178248643875122	0.57329655	No	
+row_9	ENSG00000166949	SMAD3	SMAD3	protein_coding_SMAD family member 3 [Source:HGNC Symbol;Acc:HGNC:6769]	2802	2.0117437839508057	0.57470536	No	
+row_10	ENSG00000117318	ID3	ID3	protein_coding_inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]	3050	1.8418195247650146	0.57328033	No	
+row_11	ENSG00000105329	TGFB1	TGFB1	protein_coding_transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	3785	1.6674481630325317	0.5474961	No	
+row_12	ENSG00000049323	LTBP1	LTBP1	protein_coding_latent transforming growth factor beta binding protein 1 [Source:HGNC Symbol;Acc:HGNC:6714]	3980	1.5988521575927734	0.5472388	No	
+row_13	ENSG00000163513	TGFBR2	TGFBR2	protein_coding_transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	3981	1.5984680652618408	0.5562898	No	
+row_14	ENSG00000105568	PPP2R1A	PPP2R1A	protein_coding_protein phosphatase 2 scaffold subunit Aalpha [Source:HGNC Symbol;Acc:HGNC:9302]	4328	1.4979045391082764	0.5481663	No	
+row_15	ENSG00000108854	SMURF2	SMURF2	protein_coding_SMAD specific E3 ubiquitin protein ligase 2 [Source:HGNC Symbol;Acc:HGNC:16809]	4505	1.456965684890747	0.5479695	No	
+row_16	ENSG00000106799	TGFBR1	TGFBR1	protein_coding_transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	4634	1.4223215579986572	0.54988015	No	
+row_17	ENSG00000198742	SMURF1	SMURF1	protein_coding_SMAD specific E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:16807]	5329	1.3075668811798096	0.5239778	No	
+row_18	ENSG00000185591	SP1	SP1	protein_coding_Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]	5386	1.2944127321243286	0.5286196	No	
+row_19	ENSG00000123612	ACVR1C	ACVR1C	protein_coding_activin A receptor type 1C [Source:HGNC Symbol;Acc:HGNC:18123]	5547	1.2645361423492432	0.5281011	No	
+row_20	ENSG00000104695	PPP2CB	PPP2CB	protein_coding_protein phosphatase 2 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9300]	5843	1.2201976776123047	0.5208527	No	
+row_21	ENSG00000080839	RBL1	RBL1	protein_coding_RB transcriptional corepressor like 1 [Source:HGNC Symbol;Acc:HGNC:9893]	6131	1.174124836921692	0.5137273	No	
+row_22	ENSG00000103479	RBL2	RBL2	protein_coding_RB transcriptional corepressor like 2 [Source:HGNC Symbol;Acc:HGNC:9894]	6607	1.1228240728378296	0.49728906	No	
+row_23	ENSG00000175387	SMAD2	SMAD2	protein_coding_SMAD family member 2 [Source:HGNC Symbol;Acc:HGNC:6768]	6783	1.1021034717559814	0.49513096	No	
+row_24	ENSG00000119699	TGFB3	TGFB3	protein_coding_transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	6812	1.0995967388153076	0.5000134	No	
+row_25	ENSG00000138696	BMPR1B	BMPR1B	protein_coding_bone morphogenetic protein receptor type 1B [Source:HGNC Symbol;Acc:HGNC:1077]	7020	1.0805485248565674	0.49619752	No	
+row_26	ENSG00000183682	BMP8A	BMP8A	protein_coding_bone morphogenetic protein 8a [Source:HGNC Symbol;Acc:HGNC:21650]	7235	1.0556128025054932	0.4919045	No	
+row_27	ENSG00000100030	MAPK1	MAPK1	protein_coding_mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	7297	1.051760196685791	0.49493235	No	
+row_28	ENSG00000067560	RHOA	RHOA	protein_coding_ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	7444	1.033935546875	0.49378002	No	
+row_29	ENSG00000102882	MAPK3	MAPK3	protein_coding_mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	7578	1.0207451581954956	0.49317688	No	
+row_30	ENSG00000101665	SMAD7	SMAD7	protein_coding_SMAD family member 7 [Source:HGNC Symbol;Acc:HGNC:6773]	7669	1.0113296508789062	0.49458405	No	
+row_31	ENSG00000134318	ROCK2	ROCK2	protein_coding_Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	8276	0.9529837965965271	0.47089723	No	
+row_32	ENSG00000101144	BMP7	BMP7	protein_coding_bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	8404	0.9425114393234253	0.47013906	No	
+row_33	ENSG00000204217	BMPR2	BMPR2	protein_coding_bone morphogenetic protein receptor type 2 [Source:HGNC Symbol;Acc:HGNC:1078]	8438	0.9392213225364685	0.47387347	No	
+row_34	ENSG00000141646	SMAD4	SMAD4	protein_coding_SMAD family member 4 [Source:HGNC Symbol;Acc:HGNC:6770]	8788	0.906574010848999	0.46225768	No	
+row_35	ENSG00000067900	ROCK1	ROCK1	protein_coding_Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	8943	0.8897885084152222	0.4599052	No	
+row_36	ENSG00000090539	CHRD	CHRD	protein_coding_chordin [Source:HGNC Symbol;Acc:HGNC:1949]	9035	0.879677414894104	0.46051896	No	
+row_37	ENSG00000113296	THBS4	THBS4	protein_coding_thrombospondin 4 [Source:HGNC Symbol;Acc:HGNC:11788]	9519	0.879677414894104	0.44232	No	
+row_38	ENSG00000169231	THBS3	THBS3	protein_coding_thrombospondin 3 [Source:HGNC Symbol;Acc:HGNC:11787]	10043	0.8745629787445068	0.42217243	No	
+row_39	ENSG00000137713	PPP2R1B	PPP2R1B	protein_coding_protein phosphatase 2 scaffold subunit Abeta [Source:HGNC Symbol;Acc:HGNC:9303]	10784	0.8084262609481812	0.39123622	No	
+row_40	ENSG00000113558	SKP1	SKP1	protein_coding_S-phase kinase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	11060	0.7886605858802795	0.38250414	No	
+row_41	ENSG00000116985	BMP8B	BMP8B	protein_coding_bone morphogenetic protein 8b [Source:HGNC Symbol;Acc:HGNC:1075]	11230	0.7758644819259644	0.3787867	No	
+row_42	ENSG00000113575	PPP2CA	PPP2CA	protein_coding_protein phosphatase 2 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9299]	11415	0.7648887634277344	0.37428728	No	
+row_43	ENSG00000133740	E2F5	E2F5	protein_coding_E2F transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:3119]	11527	0.756522536277771	0.37324387	No	
+row_44	ENSG00000115738	ID2	ID2	protein_coding_inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	11550	0.7544798851013184	0.3764601	No	
+row_45	ENSG00000125378	BMP4	BMP4	protein_coding_bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	11827	0.7330644726753235	0.36736527	No	
+row_46	ENSG00000100387	RBX1	RBX1	protein_coding_ring-box 1 [Source:HGNC Symbol;Acc:HGNC:9928]	12000	0.7222203016281128	0.36320013	No	
+row_47	ENSG00000205250	E2F4	E2F4	protein_coding_E2F transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:3118]	12064	0.7181039452552795	0.36424276	No	
+row_48	ENSG00000135409	AMHR2	AMHR2	protein_coding_anti-Mullerian hormone receptor type 2 [Source:HGNC Symbol;Acc:HGNC:465]	12270	0.7037419080734253	0.35838926	No	
+row_49	ENSG00000039319	ZFYVE16	ZFYVE16	protein_coding_zinc finger FYVE-type containing 16 [Source:HGNC Symbol;Acc:HGNC:20756]	12336	0.7018995881080627	0.35924417	No	
+row_50	ENSG00000113658	SMAD5	SMAD5	protein_coding_SMAD family member 5 [Source:HGNC Symbol;Acc:HGNC:6771]	12578	0.680827260017395	0.3515332	No	
+row_51	ENSG00000055130	CUL1	CUL1	protein_coding_cullin 1 [Source:HGNC Symbol;Acc:HGNC:2551]	12611	0.6781339645385742	0.35383728	No	
+row_52	ENSG00000175634	RPS6KB2	RPS6KB2	protein_coding_ribosomal protein S6 kinase B2 [Source:HGNC Symbol;Acc:HGNC:10437]	12777	0.6663336753845215	0.34969163	No	
+row_53	ENSG00000172201	ID4	ID4	protein_coding_inhibitor of DNA binding 4, HLH protein [Source:HGNC Symbol;Acc:HGNC:5363]	12928	0.6582848429679871	0.34622028	No	
+row_54	ENSG00000198176	TFDP1	TFDP1	protein_coding_transcription factor Dp-1 [Source:HGNC Symbol;Acc:HGNC:11749]	13436	0.6189619302749634	0.3253933	No	
+row_55	ENSG00000125968	ID1	ID1	protein_coding_inhibitor of DNA binding 1, HLH protein [Source:HGNC Symbol;Acc:HGNC:5360]	13654	0.6014876961708069	0.31838492	No	
+row_56	ENSG00000157077	ZFYVE9	ZFYVE9	protein_coding_zinc finger FYVE-type containing 9 [Source:HGNC Symbol;Acc:HGNC:6775]	14114	0.5750593543052673	0.29961294	No	
+row_57	ENSG00000107779	BMPR1A	BMPR1A	protein_coding_bone morphogenetic protein receptor type 1A [Source:HGNC Symbol;Acc:HGNC:1076]	14703	0.5308161377906799	0.27439952	No	
+row_58	ENSG00000005339	CREBBP	CREBBP	protein_coding_CREB binding protein [Source:HGNC Symbol;Acc:HGNC:2348]	14915	0.5182288289070129	0.26720765	No	
+row_59	ENSG00000137834	SMAD6	SMAD6	protein_coding_SMAD family member 6 [Source:HGNC Symbol;Acc:HGNC:6772]	14960	0.5143628120422363	0.2680085	No	
+row_60	ENSG00000108443	RPS6KB1	RPS6KB1	protein_coding_ribosomal protein S6 kinase B1 [Source:HGNC Symbol;Acc:HGNC:10436]	16323	0.43710675835609436	0.20511901	No	
+row_61	ENSG00000112175	BMP5	BMP5	protein_coding_bone morphogenetic protein 5 [Source:HGNC Symbol;Acc:HGNC:1072]	16349	0.43489664793014526	0.20638172	No	
+row_62	ENSG00000170365	SMAD1	SMAD1	protein_coding_SMAD family member 1 [Source:HGNC Symbol;Acc:HGNC:6767]	16519	0.4176619350910187	0.20063606	No	
+row_63	ENSG00000153162	BMP6	BMP6	protein_coding_bone morphogenetic protein 6 [Source:HGNC Symbol;Acc:HGNC:1073]	16592	0.4105161130428314	0.19950512	No	
+row_64	ENSG00000100393	EP300	EP300	protein_coding_E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	17041	0.37052223086357117	0.18010291	No	
+row_65	ENSG00000125965	GDF5	GDF5	protein_coding_growth differentiation factor 5 [Source:HGNC Symbol;Acc:HGNC:4220]	17931	0.29322579503059387	0.13909873	No	
+row_66	ENSG00000104899	AMH	AMH	protein_coding_anti-Mullerian hormone [Source:HGNC Symbol;Acc:HGNC:464]	18150	0.2890368402004242	0.1302732	No	
+row_67	ENSG00000164093	PITX2	PITX2	protein_coding_paired like homeodomain 2 [Source:HGNC Symbol;Acc:HGNC:9005]	19580	0.14661288261413574	0.06252342	No	
+row_68	ENSG00000186340	THBS2	THBS2	protein_coding_thrombospondin 2 [Source:HGNC Symbol;Acc:HGNC:11786]	20192	0.08513006567955017	0.033682607	No	
+row_69	ENSG00000163083	INHBB	INHBB	protein_coding_inhibin beta B subunit [Source:HGNC Symbol;Acc:HGNC:6067]	20219	0.07997067272663116	0.03288764	No	
+row_70	ENSG00000139269	INHBE	INHBE	protein_coding_inhibin beta E subunit [Source:HGNC Symbol;Acc:HGNC:24029]	20884	0.014600454829633236	0.0011039227	No	

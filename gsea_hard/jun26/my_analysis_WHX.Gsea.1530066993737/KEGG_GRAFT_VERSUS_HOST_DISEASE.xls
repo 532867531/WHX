@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000136244	IL6	IL6	protein_coding_interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	27	42.517738342285156	0.37875658	Yes	
+row_1	ENSG00000125538	IL1B	IL1B	protein_coding_interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	73	28.049917221069336	0.62732935	Yes	
+row_2	ENSG00000115008	IL1A	IL1A	protein_coding_interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	741	7.022900104522705	0.658172	Yes	
+row_3	ENSG00000204287	HLA-DRA	HLA-DRA	protein_coding_major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	1322	3.738628387451172	0.663823	Yes	
+row_4	ENSG00000232810	TNF	TNF	protein_coding_tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	1328	3.728156089782715	0.6969082	Yes	
+row_5	ENSG00000231389	HLA-DPA1	HLA-DPA1	protein_coding_major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	1483	3.518709182739258	0.72098786	Yes	
+row_6	ENSG00000234745	HLA-B	HLA-B	protein_coding_major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	1756	2.8971481323242188	0.73386246	Yes	
+row_7	ENSG00000134539	KLRD1	KLRD1	protein_coding_killer cell lectin like receptor D1 [Source:HGNC Symbol;Acc:HGNC:6378]	1925	2.6390321254730225	0.74940884	Yes	
+row_8	ENSG00000204592	HLA-E	HLA-E	protein_coding_major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	2176	2.607774496078491	0.7607501	Yes	
+row_9	ENSG00000204642	HLA-F	HLA-F	protein_coding_major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	2352	2.351137399673462	0.77338797	Yes	
+row_10	ENSG00000204257	HLA-DMA	HLA-DMA	protein_coding_major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	2489	2.2223427295684814	0.7867417	Yes	
+row_11	ENSG00000179344	HLA-DQB1	HLA-DQB1	protein_coding_major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	2580	2.1968157291412354	0.8020695	Yes	
+row_12	ENSG00000204525	HLA-C	HLA-C	protein_coding_major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	2781	2.0318291187286377	0.8106563	Yes	
+row_13	ENSG00000206503	HLA-A	HLA-A	protein_coding_major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	3141	1.7766597270965576	0.80935025	No	
+row_14	ENSG00000241106	HLA-DOB	HLA-DOB	protein_coding_major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	5115	1.3195160627365112	0.72668874	No	
+row_15	ENSG00000026103	FAS	FAS	protein_coding_Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	7387	1.0413626432418823	0.62727433	No	
+row_16	ENSG00000134545	KLRC1	KLRC1	protein_coding_killer cell lectin like receptor C1 [Source:HGNC Symbol;Acc:HGNC:6374]	9698	0.8796772956848145	0.52454764	No	
+row_17	ENSG00000114013	CD86	CD86	protein_coding_CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	13650	0.6018844842910767	0.34077597	No	
+row_18	ENSG00000196126	HLA-DRB1	HLA-DRB1	protein_coding_major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	16014	0.4398386478424072	0.23158036	No	
+row_19	ENSG00000196735	HLA-DQA1	HLA-DQA1	protein_coding_major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	17967	0.29322579503059387	0.1407506	No	

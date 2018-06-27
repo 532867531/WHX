@@ -1,0 +1,31 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000115705	TPO	TPO	protein_coding_thyroid peroxidase [Source:HGNC Symbol;Acc:HGNC:12015]	18	56.299346923828125	0.47441158	Yes	
+row_1	ENSG00000138356	AOX1	AOX1	protein_coding_aldehyde oxidase 1 [Source:HGNC Symbol;Acc:HGNC:553]	60	28.89401626586914	0.7163683	Yes	
+row_2	ENSG00000080166	DCT	DCT	protein_coding_dopachrome tautomerase [Source:HGNC Symbol;Acc:HGNC:2709]	392	10.556127548217773	0.78962815	Yes	
+row_3	ENSG00000184254	ALDH1A3	ALDH1A3	protein_coding_aldehyde dehydrogenase 1 family member A3 [Source:HGNC Symbol;Acc:HGNC:409]	2716	2.0708978176116943	0.695845	No	
+row_4	ENSG00000172955	ADH6	ADH6	protein_coding_alcohol dehydrogenase 6 (class V) [Source:HGNC Symbol;Acc:HGNC:255]	4293	1.5080183744430542	0.6330894	No	
+row_5	ENSG00000243477	NAT6	NAT6	protein_coding_N-acetyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:30252]	4664	1.4160659313201904	0.62732166	No	
+row_6	ENSG00000066651	TRMT11	TRMT11	protein_coding_tRNA methyltransferase 11 homolog [Source:HGNC Symbol;Acc:HGNC:21080]	5446	1.282674789428711	0.6007421	No	
+row_7	ENSG00000104951	IL4I1	IL4I1	protein_coding_interleukin 4 induced 1 [Source:HGNC Symbol;Acc:HGNC:19094]	6175	1.1729031801223755	0.57577443	No	
+row_8	ENSG00000071462	BUD23	BUD23	protein_coding_BUD23, rRNA methyltransferase and ribosome maturation factor [Source:HGNC Symbol;Acc:HGNC:16405]	6469	1.1394394636154175	0.5713595	No	
+row_9	ENSG00000205629	LCMT1	LCMT1	protein_coding_leucine carboxyl methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:17557]	6594	1.124990463256836	0.5749173	No	
+row_10	ENSG00000100577	GSTZ1	GSTZ1	protein_coding_glutathione S-transferase zeta 1 [Source:HGNC Symbol;Acc:HGNC:4643]	7468	1.0314998626708984	0.5418108	No	
+row_11	ENSG00000240972	MIF	MIF	protein_coding_macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	7719	1.0053455829620361	0.5383235	No	
+row_12	ENSG00000197894	ADH5	ADH5	protein_coding_alcohol dehydrogenase 5 (class III), chi polypeptide [Source:HGNC Symbol;Acc:HGNC:253]	8417	0.9408928155899048	0.512882	No	
+row_13	ENSG00000006534	ALDH3B1	ALDH3B1	protein_coding_aldehyde dehydrogenase 3 family member B1 [Source:HGNC Symbol;Acc:HGNC:410]	8914	0.8923954963684082	0.49665847	No	
+row_14	ENSG00000131480	AOC2	AOC2	protein_coding_amine oxidase, copper containing 2 [Source:HGNC Symbol;Acc:HGNC:549]	9530	0.879677414894104	0.47462776	No	
+row_15	ENSG00000131471	AOC3	AOC3	protein_coding_amine oxidase, copper containing 3 [Source:HGNC Symbol;Acc:HGNC:550]	9697	0.8796772956848145	0.47410297	No	
+row_16	ENSG00000093010	COMT	COMT	protein_coding_catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	10953	0.795059084892273	0.42070365	No	
+row_17	ENSG00000189221	MAOA	MAOA	protein_coding_monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	11129	0.7830738425254822	0.41893226	No	
+row_18	ENSG00000107165	TYRP1	TYRP1	protein_coding_tyrosinase related protein 1 [Source:HGNC Symbol;Acc:HGNC:12450]	12265	0.7037419080734253	0.37050974	No	
+row_19	ENSG00000103876	FAH	FAH	protein_coding_fumarylacetoacetate hydrolase [Source:HGNC Symbol;Acc:HGNC:3579]	12441	0.6911750435829163	0.36796254	No	
+row_20	ENSG00000125166	GOT2	GOT2	protein_coding_glutamic-oxaloacetic transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4433]	13054	0.647407054901123	0.34411475	No	
+row_21	ENSG00000206562	METTL6	METTL6	protein_coding_methyltransferase like 6 [Source:HGNC Symbol;Acc:HGNC:28343]	13131	0.6415995359420776	0.34589088	No	
+row_22	ENSG00000165055	METTL2B	METTL2B	protein_coding_methyltransferase like 2B [Source:HGNC Symbol;Acc:HGNC:18272]	14854	0.5238528251647949	0.267834	No	
+row_23	ENSG00000114735	HEMK1	HEMK1	protein_coding_HemK methyltransferase family member 1 [Source:HGNC Symbol;Acc:HGNC:24923]	14922	0.5178745985031128	0.26899675	No	
+row_24	ENSG00000248144	ADH1C	ADH1C	protein_coding_alcohol dehydrogenase 1C (class I), gamma polypeptide [Source:HGNC Symbol;Acc:HGNC:251]	14995	0.5126953721046448	0.26987627	No	
+row_25	ENSG00000132746	ALDH3B2	ALDH3B2	protein_coding_aldehyde dehydrogenase 3 family member B2 [Source:HGNC Symbol;Acc:HGNC:411]	15061	0.5065494179725647	0.2710392	No	
+row_26	ENSG00000158104	HPD	HPD	protein_coding_4-hydroxyphenylpyruvate dioxygenase [Source:HGNC Symbol;Acc:HGNC:5147]	17513	0.3298789858818054	0.15642768	No	
+row_27	ENSG00000108602	ALDH3A1	ALDH3A1	protein_coding_aldehyde dehydrogenase 3 family member A1 [Source:HGNC Symbol;Acc:HGNC:405]	17653	0.31531718373298645	0.15243183	No	
+row_28	ENSG00000120053	GOT1	GOT1	protein_coding_glutamic-oxaloacetic transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4432]	18414	0.25558650493621826	0.11818752	No	
+row_29	ENSG00000168806	LCMT2	LCMT2	protein_coding_leucine carboxyl methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:17558]	19625	0.1388964205980301	0.061404325	No	

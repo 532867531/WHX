@@ -65,16 +65,43 @@ apply(X = Combination_Agglomerations,MARGIN = 1 ,FUN = function(agglos){
     thename=paste("Row",agglos[1],dists[1],"Column",agglos[2],dists[2],sep = "_")    
     thename=stringi::stri_replace_all(str = thename,replacement = "_",regex = "\\.")
     message(thename)
-    cmap1 <- chmNewColorMap (BREAKS,col)
-    layer1 <- chmNewDataLayer ('layer.name', mat, cmap1)
-    hm <- chmNew (paste('WHX',thename,sep = "_"),layer1,rowAgglom = agglos[1],rowDist = dists[1],colAgglom = agglos[2],colDist = dists[2])
+    # cmap1 <- chmNewColorMap (BREAKS,col)
+    # layer1 <- chmNewDataLayer ('layer.name', mat, cmap1)
+    # hm <- chmNew (paste('WHX',thename,sep = "_"),layer1,rowAgglom = agglos[1],rowDist = dists[1],colAgglom = agglos[2],colDist = dists[2])
     # chmExportToFile(hm,paste('WHX',thename,'.ngchm',sep = "_"),shaidyMapGen = "./ShaidyMapGen.jar",overwrite = T)
     # chmExportToPDF(hm,filename = paste('WHX',thename,'.pdf',sep = "_"),shaidyMapGen = "./ShaidyMapGen.jar",overwrite = T)
-    chmExportToFile(hm,paste('WHX',thename,'.ngchm',sep = "_"),shaidyMapGen = "./ShaidyMapGen.jar",overwrite = T)
-    chmExportToPDF(hm,filename = paste('WHX',thename,'.pdf',sep = "_"),shaidyMapGen = "./ShaidyMapGen.jar",overwrite = T)
   })
 })
 
+
+
+
+library(parallel)
+tryCatch(stopCluster(cls),finally = {
+  cls <- parallel::makePSOCKcluster(3);
+})
+str(cls)
+ls()
+parallel::clusterExport(cl = cls,varlist = c(ls()))
+####服务器调试
+parApply(cl = cls,X = Combination_Agglomerations,MARGIN = 1,FUN = function(agglos){
+  library(NGCHM)
+  A=apply(X = Combination_Dists,MARGIN = 1,FUN = function(dists){
+    time1=Sys.time()
+    thename=paste("Row",agglos[1],dists[1],"Column",agglos[2],dists[2],sep = "_")    
+    thename=stringi::stri_replace_all(str = thename,replacement = "_",regex = "\\.")
+    thename="aaa"
+    thename
+    cmap1 <- chmNewColorMap (BREAKS,col)
+    layer1 <- chmNewDataLayer ('layer.name', mat, cmap1)
+        hm <- chmNew (paste('WHX',thename,sep = "_"),layer1,rowAgglom = agglos[1],rowDist = dists[1],colAgglom = agglos[2],colDist = dists[2])
+        chmExportToFile(hm,paste('WHX',thename,'.ngchm',sep = "_"),shaidyMapGen = "./ShaidyMapGen.jar",overwrite = T)
+        chmExportToPDF(hm,filename = paste('WHX',thename,'.pdf',sep = "_"),shaidyMapGen = "./ShaidyMapGen.jar",overwrite = T)
+        chmExportToFile(hm,paste('WHX',thename,'.ngchm',sep = "_"),shaidyMapGen = "./ShaidyMapGen.jar",overwrite = T)
+        chmExportToPDF(hm,filename = paste('WHX',thename,'.pdf',sep = "_"),shaidyMapGen = "./ShaidyMapGen.jar",overwrite = T)
+    paste(Sys.time()-time1)
+  })
+})
 
 
 

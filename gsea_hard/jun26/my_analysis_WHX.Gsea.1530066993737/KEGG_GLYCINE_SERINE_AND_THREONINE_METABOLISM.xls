@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000130005	GAMT	GAMT	protein_coding_guanidinoacetate N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:4136]	7377	1.042452335357666	-0.27698696	Yes	
+row_1	ENSG00000179761	PIPOX	PIPOX	protein_coding_pipecolic acid and sarcosine oxidase [Source:HGNC Symbol;Acc:HGNC:17804]	7520	1.0262901782989502	-0.20871864	Yes	
+row_2	ENSG00000100116	GCAT	GCAT	protein_coding_glycine C-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:4188]	8783	0.9070531725883484	-0.20280147	Yes	
+row_3	ENSG00000023330	ALAS1	ALAS1	protein_coding_5'-aminolevulinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:396]	8880	0.8970333933830261	-0.14178497	Yes	
+row_4	ENSG00000158578	ALAS2	ALAS2	protein_coding_5'-aminolevulinate synthase 2 [Source:HGNC Symbol;Acc:HGNC:397]	9077	0.879677414894104	-0.086826324	Yes	
+row_5	ENSG00000131480	AOC2	AOC2	protein_coding_amine oxidase, copper containing 2 [Source:HGNC Symbol;Acc:HGNC:549]	9530	0.879677414894104	-0.04412587	Yes	
+row_6	ENSG00000131471	AOC3	AOC3	protein_coding_amine oxidase, copper containing 3 [Source:HGNC Symbol;Acc:HGNC:550]	9697	0.8796772956848145	0.012269271	Yes	
+row_7	ENSG00000189221	MAOA	MAOA	protein_coding_monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	11129	0.7830738425254822	0.0010256883	Yes	
+row_8	ENSG00000124713	GNMT	GNMT	protein_coding_glycine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:4415]	12268	0.7037419080734253	-0.001990732	Yes	
+row_9	ENSG00000176974	SHMT1	SHMT1	protein_coding_serine hydroxymethyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10850]	12781	0.6658799648284912	0.022198545	Yes	
+row_10	ENSG00000171766	GATM	GATM	protein_coding_glycine amidinotransferase [Source:HGNC Symbol;Acc:HGNC:4175]	12941	0.6569457650184631	0.062637225	Yes	
+row_11	ENSG00000091140	DLD	DLD	protein_coding_dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	13634	0.6027349233627319	0.07358873	Yes	
+row_12	ENSG00000167720	SRR	SRR	protein_coding_serine racemase [Source:HGNC Symbol;Acc:HGNC:14398]	14415	0.5514395236968994	0.07657449	Yes	
+row_13	ENSG00000092621	PHGDH	PHGDH	protein_coding_phosphoglycerate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8923]	14673	0.5338558554649353	0.10331719	Yes	
+row_14	ENSG00000135094	SDS	SDS	protein_coding_serine dehydratase [Source:HGNC Symbol;Acc:HGNC:10691]	14763	0.5278064012527466	0.13766184	Yes	
+row_15	ENSG00000178445	GLDC	GLDC	protein_coding_glycine decarboxylase [Source:HGNC Symbol;Acc:HGNC:4313]	15094	0.5041288137435913	0.15873468	Yes	
+row_16	ENSG00000168237	GLYCTK	GLYCTK	protein_coding_glycerate kinase [Source:HGNC Symbol;Acc:HGNC:24247]	16868	0.38619983196258545	0.10208565	Yes	
+row_17	ENSG00000182199	SHMT2	SHMT2	protein_coding_serine hydroxymethyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10852]	17785	0.29935091733932495	0.08012028	Yes	
+row_18	ENSG00000116761	CTH	CTH	protein_coding_cystathionine gamma-lyase [Source:HGNC Symbol;Acc:HGNC:2501]	18178	0.2848238945007324	0.08218332	Yes	
+row_19	ENSG00000160200	CBS	CBS	protein_coding_cystathionine-beta-synthase [Source:HGNC Symbol;Acc:HGNC:1550]	18198	0.2806589603424072	0.10180227	Yes	
+row_20	ENSG00000146733	PSPH	PSPH	protein_coding_phosphoserine phosphatase [Source:HGNC Symbol;Acc:HGNC:9577]	19699	0.12760402262210846	0.03931052	Yes	
+row_21	ENSG00000145692	BHMT	BHMT	protein_coding_betaine--homocysteine S-methyltransferase [Source:HGNC Symbol;Acc:HGNC:1047]	19725	0.12566819787025452	0.047305405	Yes	
+row_22	ENSG00000135069	PSAT1	PSAT1	protein_coding_phosphoserine aminotransferase 1 [Source:HGNC Symbol;Acc:HGNC:19129]	20379	0.0707605853676796	0.021213219	Yes	
+row_23	ENSG00000132837	DMGDH	DMGDH	protein_coding_dimethylglycine dehydrogenase [Source:HGNC Symbol;Acc:HGNC:24475]	20505	0.0549798309803009	0.019249262	Yes	

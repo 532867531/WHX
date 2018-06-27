@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000136244	IL6	IL6	protein_coding_interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	27	42.517738342285156	0.3450314	Yes	
+row_1	ENSG00000125538	IL1B	IL1B	protein_coding_interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	73	28.049917221069336	0.57135457	Yes	
+row_2	ENSG00000271503	CCL5	CCL5	protein_coding_C-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10632]	100	24.337739944458008	0.76835036	Yes	
+row_3	ENSG00000115008	IL1A	IL1A	protein_coding_interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	741	7.022900104522705	0.7949078	Yes	
+row_4	ENSG00000120738	EGR1	EGR1	protein_coding_early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	1536	3.3628807067871094	0.7842785	No	
+row_5	ENSG00000010810	FYN	FYN	protein_coding_FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	3922	1.61531400680542	0.68322814	No	
+row_6	ENSG00000169032	MAP2K1	MAP2K1	protein_coding_mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	3996	1.5930595397949219	0.6927086	No	
+row_7	ENSG00000149294	NCAM1	NCAM1	protein_coding_neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	4783	1.3850239515304565	0.6663519	No	
+row_8	ENSG00000204389	HSPA1A	HSPA1A	protein_coding_heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	5917	1.208787441253662	0.62194335	No	
+row_9	ENSG00000126767	ELK1	ELK1	protein_coding_ELK1, ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:3321]	6967	1.0859806537628174	0.58055687	No	
+row_10	ENSG00000100030	MAPK1	MAPK1	protein_coding_mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	7297	1.051760196685791	0.57336944	No	
+row_11	ENSG00000102882	MAPK3	MAPK3	protein_coding_mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	7578	1.0207451581954956	0.56827575	No	
+row_12	ENSG00000142875	PRKACB	PRKACB	protein_coding_protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	9619	0.8796773552894592	0.47775397	No	
+row_13	ENSG00000171867	PRNP	PRNP	protein_coding_prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	10438	0.8362900018692017	0.4453953	No	
+row_14	ENSG00000135862	LAMC1	LAMC1	protein_coding_laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	10573	0.8265324831008911	0.44571102	No	
+row_15	ENSG00000126934	MAP2K2	MAP2K2	protein_coding_mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	11307	0.7708461284637451	0.41688955	No	
+row_16	ENSG00000087088	BAX	BAX	protein_coding_BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]	11734	0.7421860694885254	0.40253562	No	
+row_17	ENSG00000142168	SOD1	SOD1	protein_coding_superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	12207	0.7070085406303406	0.38569236	No	
+row_18	ENSG00000072062	PRKACA	PRKACA	protein_coding_protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	12228	0.7046963572502136	0.39047468	No	
+row_19	ENSG00000183943	PRKX	PRKX	protein_coding_protein kinase, X-linked [Source:HGNC Symbol;Acc:HGNC:9441]	12428	0.6928732395172119	0.38658914	No	
+row_20	ENSG00000148400	NOTCH1	NOTCH1	protein_coding_notch 1 [Source:HGNC Symbol;Acc:HGNC:7881]	14550	0.5428720712661743	0.2894452	No	
+row_21	ENSG00000106804	C5	C5	protein_coding_complement C5 [Source:HGNC Symbol;Acc:HGNC:1331]	14914	0.5183812975883484	0.27628505	No	
+row_22	ENSG00000168439	STIP1	STIP1	protein_coding_stress induced phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11387]	15072	0.506083071231842	0.27288923	No	
+row_23	ENSG00000113600	C9	C9	protein_coding_complement C9 [Source:HGNC Symbol;Acc:HGNC:1358]	16258	0.4398386478424072	0.21972716	No	
+row_24	ENSG00000044574	HSPA5	HSPA5	protein_coding_heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	17322	0.34941762685775757	0.17167066	No	

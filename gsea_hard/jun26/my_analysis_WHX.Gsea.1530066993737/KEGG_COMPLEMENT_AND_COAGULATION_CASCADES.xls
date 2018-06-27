@@ -1,0 +1,42 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000149131	SERPING1	SERPING1	protein_coding_serpin family G member 1 [Source:HGNC Symbol;Acc:HGNC:1228]	75	27.269996643066406	0.19045061	Yes	
+row_1	ENSG00000106366	SERPINE1	SERPINE1	protein_coding_serpin family E member 1 [Source:HGNC Symbol;Acc:HGNC:8583]	161	18.267000198364258	0.31635946	Yes	
+row_2	ENSG00000011422	PLAUR	PLAUR	protein_coding_plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	247	14.372909545898438	0.4145592	Yes	
+row_3	ENSG00000123843	C4BPB	C4BPB	protein_coding_complement component 4 binding protein beta [Source:HGNC Symbol;Acc:HGNC:1328]	526	8.796773910522461	0.4638318	Yes	
+row_4	ENSG00000100739	BDKRB1	BDKRB1	protein_coding_bradykinin receptor B1 [Source:HGNC Symbol;Acc:HGNC:1029]	774	6.290523052215576	0.49675635	Yes	
+row_5	ENSG00000117525	F3	F3	protein_coding_coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	844	5.893613338470459	0.5353868	Yes	
+row_6	ENSG00000181104	F2R	F2R	protein_coding_coagulation factor II thrombin receptor [Source:HGNC Symbol;Acc:HGNC:3537]	880	5.586886882781982	0.57346404	Yes	
+row_7	ENSG00000243649	CFB	CFB	protein_coding_complement factor B [Source:HGNC Symbol;Acc:HGNC:1037]	984	5.058144569396973	0.6045202	Yes	
+row_8	ENSG00000197249	SERPINA1	SERPINA1	protein_coding_serpin family A member 1 [Source:HGNC Symbol;Acc:HGNC:8941]	1068	4.524055004119873	0.6327344	Yes	
+row_9	ENSG00000244731	C4A	C4A	protein_coding_complement C4A (Rodgers blood group) [Source:HGNC Symbol;Acc:HGNC:1323]	1161	4.3983869552612305	0.6596231	Yes	
+row_10	ENSG00000184500	PROS1	PROS1	protein_coding_protein S [Source:HGNC Symbol;Acc:HGNC:9456]	1224	4.174739837646484	0.68635803	Yes	
+row_11	ENSG00000122861	PLAU	PLAU	protein_coding_plasminogen activator, urokinase [Source:HGNC Symbol;Acc:HGNC:9052]	1343	3.6618010997772217	0.7067594	Yes	
+row_12	ENSG00000104368	PLAT	PLAT	protein_coding_plasminogen activator, tissue type [Source:HGNC Symbol;Acc:HGNC:9051]	1819	2.7890706062316895	0.70384234	Yes	
+row_13	ENSG00000127241	MASP1	MASP1	protein_coding_mannan binding lectin serine peptidase 1 [Source:HGNC Symbol;Acc:HGNC:6901]	1920	2.6390321254730225	0.71782863	Yes	
+row_14	ENSG00000085063	CD59	CD59	protein_coding_CD59 molecule (CD59 blood group) [Source:HGNC Symbol;Acc:HGNC:1689]	2417	2.303720712661743	0.7104516	Yes	
+row_15	ENSG00000205403	CFI	CFI	protein_coding_complement factor I [Source:HGNC Symbol;Acc:HGNC:5394]	2472	2.2456254959106445	0.7238429	Yes	
+row_16	ENSG00000000971	CFH	CFH	protein_coding_complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	2641	2.123359203338623	0.7309011	Yes	
+row_17	ENSG00000196352	CD55	CD55	protein_coding_CD55 molecule (Cromer blood group) [Source:HGNC Symbol;Acc:HGNC:2665]	2771	2.0429718494415283	0.73925626	Yes	
+row_18	ENSG00000123838	C4BPA	C4BPA	protein_coding_complement component 4 binding protein alpha [Source:HGNC Symbol;Acc:HGNC:1325]	3178	1.759354829788208	0.7323187	No	
+row_19	ENSG00000159403	C1R	C1R	protein_coding_complement C1r [Source:HGNC Symbol;Acc:HGNC:1246]	3668	1.7254022359848022	0.721162	No	
+row_20	ENSG00000003436	TFPI	TFPI	protein_coding_tissue factor pathway inhibitor [Source:HGNC Symbol;Acc:HGNC:11760]	3905	1.622492790222168	0.72139746	No	
+row_21	ENSG00000224389	C4B	C4B	protein_coding_complement C4B (Chido blood group) [Source:HGNC Symbol;Acc:HGNC:1324]	3979	1.5994133949279785	0.72928	No	
+row_22	ENSG00000182326	C1S	C1S	protein_coding_complement C1s [Source:HGNC Symbol;Acc:HGNC:1247]	4103	1.5569510459899902	0.73446435	No	
+row_23	ENSG00000168398	BDKRB2	BDKRB2	protein_coding_bradykinin receptor B2 [Source:HGNC Symbol;Acc:HGNC:1030]	8251	0.9554603099822998	0.5425283	No	
+row_24	ENSG00000117335	CD46	CD46	protein_coding_CD46 molecule [Source:HGNC Symbol;Acc:HGNC:6953]	8655	0.9185468554496765	0.52975154	No	
+row_25	ENSG00000185010	F8	F8	protein_coding_coagulation factor VIII [Source:HGNC Symbol;Acc:HGNC:3546]	10804	0.8063709139823914	0.43255177	No	
+row_26	ENSG00000125730	C3	C3	protein_coding_complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	11502	0.7583467960357666	0.4045459	No	
+row_27	ENSG00000115718	PROC	PROC	protein_coding_protein C, inactivator of coagulation factors Va and VIIIa [Source:HGNC Symbol;Acc:HGNC:9451]	11557	0.7540091872215271	0.4073234	No	
+row_28	ENSG00000197405	C5AR1	C5AR1	protein_coding_complement C5a receptor 1 [Source:HGNC Symbol;Acc:HGNC:1338]	11779	0.7377938628196716	0.40198243	No	
+row_29	ENSG00000106804	C5	C5	protein_coding_complement C5 [Source:HGNC Symbol;Acc:HGNC:1331]	14914	0.5183812975883484	0.25548178	No	
+row_30	ENSG00000178726	THBD	THBD	protein_coding_thrombomodulin [Source:HGNC Symbol;Acc:HGNC:11784]	15196	0.49755504727363586	0.24555598	No	
+row_31	ENSG00000131187	F12	F12	protein_coding_coagulation factor XII [Source:HGNC Symbol;Acc:HGNC:3530]	15363	0.4838225245475769	0.24104357	No	
+row_32	ENSG00000110799	VWF	VWF	protein_coding_von Willebrand factor [Source:HGNC Symbol;Acc:HGNC:12726]	15527	0.4691612422466278	0.23657058	No	
+row_33	ENSG00000167711	SERPINF2	SERPINF2	protein_coding_serpin family F member 2 [Source:HGNC Symbol;Acc:HGNC:9075]	15698	0.4510210156440735	0.23163308	No	
+row_34	ENSG00000099937	SERPIND1	SERPIND1	protein_coding_serpin family D member 1 [Source:HGNC Symbol;Acc:HGNC:4838]	15947	0.4398386478424072	0.22287804	No	
+row_35	ENSG00000171564	FGB	FGB	protein_coding_fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	15998	0.4398386478424072	0.22361167	No	
+row_36	ENSG00000197766	CFD	CFD	protein_coding_complement factor D [Source:HGNC Symbol;Acc:HGNC:2771]	16016	0.4398386478424072	0.22592674	No	
+row_37	ENSG00000113600	C9	C9	protein_coding_complement C9 [Source:HGNC Symbol;Acc:HGNC:1358]	16258	0.4398386478424072	0.21750715	No	
+row_38	ENSG00000166278	C2	C2	protein_coding_complement C2 [Source:HGNC Symbol;Acc:HGNC:1248]	16572	0.41234874725341797	0.20544153	No	
+row_39	ENSG00000188488	SERPINA5	SERPINA5	protein_coding_serpin family A member 5 [Source:HGNC Symbol;Acc:HGNC:8723]	17962	0.29322579503059387	0.14096361	No	
+row_40	ENSG00000009724	MASP2	MASP2	protein_coding_mannan binding lectin serine peptidase 2 [Source:HGNC Symbol;Acc:HGNC:6902]	20868	0.016916871070861816	0.0018689627	No	

@@ -1,0 +1,51 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000164400	CSF2	CSF2	protein_coding_colony stimulating factor 2 [Source:HGNC Symbol;Acc:HGNC:2434]	0	154.8231964111328	0.37979916	Yes	
+row_1	ENSG00000115705	TPO	TPO	protein_coding_thyroid peroxidase [Source:HGNC Symbol;Acc:HGNC:12015]	18	56.299346923828125	0.5170929	Yes	
+row_2	ENSG00000136244	IL6	IL6	protein_coding_interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	27	42.517738342285156	0.6210103	Yes	
+row_3	ENSG00000125538	IL1B	IL1B	protein_coding_interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	73	28.049917221069336	0.68766254	Yes	
+row_4	ENSG00000010610	CD4	CD4	protein_coding_CD4 molecule [Source:HGNC Symbol;Acc:HGNC:1678]	205	15.834192276000977	0.72022504	Yes	
+row_5	ENSG00000105383	CD33	CD33	protein_coding_CD33 molecule [Source:HGNC Symbol;Acc:HGNC:1659]	252	14.074836730957031	0.75254685	Yes	
+row_6	ENSG00000168685	IL7R	IL7R	protein_coding_interleukin 7 receptor [Source:HGNC Symbol;Acc:HGNC:6024]	354	11.603362083435059	0.776169	Yes	
+row_7	ENSG00000182578	CSF1R	CSF1R	protein_coding_colony stimulating factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:2433]	448	10.130477905273438	0.7965615	Yes	
+row_8	ENSG00000164171	ITGA2	ITGA2	protein_coding_integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	629	8.031939506530762	0.807635	Yes	
+row_9	ENSG00000115008	IL1A	IL1A	protein_coding_interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	741	7.022900104522705	0.8195413	Yes	
+row_10	ENSG00000161638	ITGA5	ITGA5	protein_coding_integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	748	6.784055233001709	0.83589566	Yes	
+row_11	ENSG00000213949	ITGA1	ITGA1	protein_coding_integrin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6134]	979	5.06044340133667	0.8372826	Yes	
+row_12	ENSG00000204287	HLA-DRA	HLA-DRA	protein_coding_major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	1322	3.738628387451172	0.83005726	Yes	
+row_13	ENSG00000232810	TNF	TNF	protein_coding_tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	1328	3.728156089782715	0.83896315	Yes	
+row_14	ENSG00000095752	IL11	IL11	protein_coding_interleukin 11 [Source:HGNC Symbol;Acc:HGNC:5966]	1469	3.518709182739258	0.8408829	Yes	
+row_15	ENSG00000072274	TFRC	TFRC	protein_coding_transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	1803	2.81563663482666	0.8318249	No	
+row_16	ENSG00000110448	CD5	CD5	protein_coding_CD5 molecule [Source:HGNC Symbol;Acc:HGNC:1685]	2120	2.6390318870544434	0.82314867	No	
+row_17	ENSG00000169896	ITGAM	ITGAM	protein_coding_integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	2177	2.6076149940490723	0.82686067	No	
+row_18	ENSG00000115232	ITGA4	ITGA4	protein_coding_integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	2413	2.309152841567993	0.8212586	No	
+row_19	ENSG00000085063	CD59	CD59	protein_coding_CD59 molecule (CD59 blood group) [Source:HGNC Symbol;Acc:HGNC:1689]	2417	2.303720712661743	0.8267661	No	
+row_20	ENSG00000077238	IL4R	IL4R	protein_coding_interleukin 4 receptor [Source:HGNC Symbol;Acc:HGNC:6015]	2620	2.1422102451324463	0.8223366	No	
+row_21	ENSG00000196352	CD55	CD55	protein_coding_CD55 molecule (Cromer blood group) [Source:HGNC Symbol;Acc:HGNC:2665]	2771	2.0429718494415283	0.82015675	No	
+row_22	ENSG00000185291	IL3RA	IL3RA	protein_coding_interleukin 3 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:6012]	2889	1.954838752746582	0.81934285	No	
+row_23	ENSG00000026508	CD44	CD44	protein_coding_CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	3914	1.6194875240325928	0.7742218	No	
+row_24	ENSG00000091409	ITGA6	ITGA6	protein_coding_integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	3923	1.615247368812561	0.7778006	No	
+row_25	ENSG00000153563	CD8A	CD8A	protein_coding_CD8a molecule [Source:HGNC Symbol;Acc:HGNC:1706]	4292	1.5080183744430542	0.7638568	No	
+row_26	ENSG00000010278	CD9	CD9	protein_coding_CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	5350	1.3016711473464966	0.716374	No	
+row_27	ENSG00000187266	EPOR	EPOR	protein_coding_erythropoietin receptor [Source:HGNC Symbol;Acc:HGNC:3416]	6028	1.1921942234039307	0.686841	No	
+row_28	ENSG00000005884	ITGA3	ITGA3	protein_coding_integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	6907	1.0932499170303345	0.64742875	No	
+row_29	ENSG00000104894	CD37	CD37	protein_coding_CD37 molecule [Source:HGNC Symbol;Acc:HGNC:1666]	7608	1.0171269178390503	0.6163636	No	
+row_30	ENSG00000005961	ITGA2B	ITGA2B	protein_coding_integrin subunit alpha 2b [Source:HGNC Symbol;Acc:HGNC:6138]	8062	0.9722749590873718	0.5970304	No	
+row_31	ENSG00000049130	KITLG	KITLG	protein_coding_KIT ligand [Source:HGNC Symbol;Acc:HGNC:6343]	8877	0.8972396850585938	0.56020564	No	
+row_32	ENSG00000135218	CD36	CD36	protein_coding_CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	11924	0.7290476560592651	0.415959	No	
+row_33	ENSG00000104432	IL7	IL7	protein_coding_interleukin 7 [Source:HGNC Symbol;Acc:HGNC:6023]	12738	0.6696051359176636	0.37862375	No	
+row_34	ENSG00000160712	IL6R	IL6R	protein_coding_interleukin 6 receptor [Source:HGNC Symbol;Acc:HGNC:6019]	13158	0.6396578550338745	0.3601047	No	
+row_35	ENSG00000115594	IL1R1	IL1R1	protein_coding_interleukin 1 receptor type 1 [Source:HGNC Symbol;Acc:HGNC:5993]	13590	0.6073962450027466	0.34093118	No	
+row_36	ENSG00000004468	CD38	CD38	protein_coding_CD38 molecule [Source:HGNC Symbol;Acc:HGNC:1667]	13859	0.5864515900611877	0.32952103	No	
+row_37	ENSG00000137070	IL11RA	IL11RA	protein_coding_interleukin 11 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:5967]	14446	0.5497983694076538	0.30277503	No	
+row_38	ENSG00000185245	GP1BA	GP1BA	protein_coding_glycoprotein Ib platelet alpha subunit [Source:HGNC Symbol;Acc:HGNC:4439]	14982	0.5131450891494751	0.27838418	No	
+row_39	ENSG00000166825	ANPEP	ANPEP	protein_coding_alanyl aminopeptidase, membrane [Source:HGNC Symbol;Acc:HGNC:500]	15992	0.4398386478424072	0.23108844	No	
+row_40	ENSG00000196126	HLA-DRB1	HLA-DRB1	protein_coding_major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	16014	0.4398386478424072	0.23116061	No	
+row_41	ENSG00000174059	CD34	CD34	protein_coding_CD34 molecule [Source:HGNC Symbol;Acc:HGNC:1662]	17954	0.29322579503059387	0.138918	No	
+row_42	ENSG00000198223	CSF2RA	CSF2RA	protein_coding_colony stimulating factor 2 receptor alpha subunit [Source:HGNC Symbol;Acc:HGNC:2435]	18331	0.2639032006263733	0.12153872	No	
+row_43	ENSG00000012124	CD22	CD22	protein_coding_CD22 molecule [Source:HGNC Symbol;Acc:HGNC:1643]	19338	0.17026013135910034	0.07372549	No	
+row_44	ENSG00000184371	CSF1	CSF1	protein_coding_colony stimulating factor 1 [Source:HGNC Symbol;Acc:HGNC:2432]	19666	0.13419997692108154	0.058377266	No	
+row_45	ENSG00000170458	CD14	CD14	protein_coding_CD14 molecule [Source:HGNC Symbol;Acc:HGNC:1628]	19861	0.1099596619606018	0.049346022	No	
+row_46	ENSG00000130427	EPO	EPO	protein_coding_erythropoietin [Source:HGNC Symbol;Acc:HGNC:3415]	19949	0.09774193167686462	0.04541473	No	
+row_47	ENSG00000124334	IL9R	IL9R	protein_coding_interleukin 9 receptor [Source:HGNC Symbol;Acc:HGNC:6030]	20429	0.06283409893512726	0.022604061	No	
+row_48	ENSG00000119535	CSF3R	CSF3R	protein_coding_colony stimulating factor 3 receptor [Source:HGNC Symbol;Acc:HGNC:2439]	20572	0.05174572765827179	0.01592306	No	
+row_49	ENSG00000196549	MME	MME	protein_coding_membrane metalloendopeptidase [Source:HGNC Symbol;Acc:HGNC:7154]	20737	0.036653220653533936	0.008150284	No	

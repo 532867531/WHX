@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000115705	TPO	TPO	protein_coding_thyroid peroxidase [Source:HGNC Symbol;Acc:HGNC:12015]	18	56.299346923828125	0.65100616	Yes	
+row_1	ENSG00000204287	HLA-DRA	HLA-DRA	protein_coding_major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	1322	3.738628387451172	0.6319259	Yes	
+row_2	ENSG00000231389	HLA-DPA1	HLA-DPA1	protein_coding_major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	1483	3.518709182739258	0.6650092	Yes	
+row_3	ENSG00000042832	TG	TG	protein_coding_thyroglobulin [Source:HGNC Symbol;Acc:HGNC:11764]	1681	3.0299997329711914	0.6906629	Yes	
+row_4	ENSG00000234745	HLA-B	HLA-B	protein_coding_major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	1756	2.8971481323242188	0.7206658	Yes	
+row_5	ENSG00000204592	HLA-E	HLA-E	protein_coding_major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	2176	2.607774496078491	0.7308047	Yes	
+row_6	ENSG00000204642	HLA-F	HLA-F	protein_coding_major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	2352	2.351137399673462	0.74965113	Yes	
+row_7	ENSG00000204257	HLA-DMA	HLA-DMA	protein_coding_major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	2489	2.2223427295684814	0.7688731	Yes	
+row_8	ENSG00000179344	HLA-DQB1	HLA-DQB1	protein_coding_major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	2580	2.1968157291412354	0.7900013	Yes	
+row_9	ENSG00000204525	HLA-C	HLA-C	protein_coding_major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	2781	2.0318291187286377	0.803954	Yes	
+row_10	ENSG00000206503	HLA-A	HLA-A	protein_coding_major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	3141	1.7766597270965576	0.8073416	Yes	
+row_11	ENSG00000241106	HLA-DOB	HLA-DOB	protein_coding_major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	5115	1.3195160627365112	0.7281817	No	
+row_12	ENSG00000026103	FAS	FAS	protein_coding_Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	7387	1.0413626432418823	0.6315373	No	
+row_13	ENSG00000114013	CD86	CD86	protein_coding_CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	13650	0.6018844842910767	0.33877435	No	
+row_14	ENSG00000196126	HLA-DRB1	HLA-DRB1	protein_coding_major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	16014	0.4398386478424072	0.23076157	No	
+row_15	ENSG00000196735	HLA-DQA1	HLA-DQA1	protein_coding_major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	17967	0.29322579503059387	0.14072382	No	

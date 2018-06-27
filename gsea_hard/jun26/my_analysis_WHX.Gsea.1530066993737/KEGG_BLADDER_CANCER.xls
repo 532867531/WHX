@@ -1,0 +1,42 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000169429	CXCL8	CXCL8	protein_coding_C-X-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:6025]	286	13.635000228881836	0.13228132	Yes	
+row_1	ENSG00000137801	THBS1	THBS1	protein_coding_thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	375	10.860907554626465	0.24434966	Yes	
+row_2	ENSG00000167657	DAPK3	DAPK3	protein_coding_death associated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:2676]	621	8.254429817199707	0.32098714	Yes	
+row_3	ENSG00000150630	VEGFC	VEGFC	protein_coding_vascular endothelial growth factor C [Source:HGNC Symbol;Acc:HGNC:12682]	901	5.356841087341309	0.36497134	Yes	
+row_4	ENSG00000136997	MYC	MYC	protein_coding_MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	975	5.103390216827393	0.41611394	Yes	
+row_5	ENSG00000035664	DAPK2	DAPK2	protein_coding_death associated protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:2675]	988	5.045927047729492	0.4695646	Yes	
+row_6	ENSG00000124762	CDKN1A	CDKN1A	protein_coding_cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	1004	4.9081220626831055	0.52139604	Yes	
+row_7	ENSG00000087245	MMP2	MMP2	protein_coding_matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	1279	3.94598126411438	0.55051404	Yes	
+row_8	ENSG00000100985	MMP9	MMP9	protein_coding_matrix metallopeptidase 9 [Source:HGNC Symbol;Acc:HGNC:7176]	2529	2.1991934776306152	0.5142051	Yes	
+row_9	ENSG00000100784	RPS6KA5	RPS6KA5	protein_coding_ribosomal protein S6 kinase A5 [Source:HGNC Symbol;Acc:HGNC:10434]	2578	2.199193239212036	0.5354511	Yes	
+row_10	ENSG00000196730	DAPK1	DAPK1	protein_coding_death associated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:2674]	2585	2.188964605331421	0.5586004	Yes	
+row_11	ENSG00000146648	EGFR	EGFR	protein_coding_epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	2970	1.894959568977356	0.5604871	Yes	
+row_12	ENSG00000039068	CDH1	CDH1	protein_coding_cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	3007	1.8656020164489746	0.5787365	Yes	
+row_13	ENSG00000119630	PGF	PGF	protein_coding_placental growth factor [Source:HGNC Symbol;Acc:HGNC:8893]	3083	1.8198325634002686	0.5946269	Yes	
+row_14	ENSG00000141510	TP53	TP53	protein_coding_tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	3812	1.6589711904525757	0.57750154	No	
+row_15	ENSG00000169032	MAP2K1	MAP2K1	protein_coding_mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	3996	1.5930595397949219	0.58578825	No	
+row_16	ENSG00000196611	MMP1	MMP1	protein_coding_matrix metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:7155]	4172	1.5394352674484253	0.5938842	No	
+row_17	ENSG00000078061	ARAF	ARAF	protein_coding_A-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:646]	5639	1.251286268234253	0.537027	No	
+row_18	ENSG00000173511	VEGFB	VEGFB	protein_coding_vascular endothelial growth factor B [Source:HGNC Symbol;Acc:HGNC:12681]	5966	1.2000223398208618	0.53425264	No	
+row_19	ENSG00000139687	RB1	RB1	protein_coding_RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	5968	1.1998776197433472	0.5470516	No	
+row_20	ENSG00000138798	EGF	EGF	protein_coding_epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	6000	1.1963611841201782	0.5583752	No	
+row_21	ENSG00000213281	NRAS	NRAS	protein_coding_NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	6101	1.180024266242981	0.5662172	No	
+row_22	ENSG00000157764	BRAF	BRAF	protein_coding_B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	6422	1.1464534997940063	0.56315684	No	
+row_23	ENSG00000100030	MAPK1	MAPK1	protein_coding_mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	7297	1.051760196685791	0.5325335	No	
+row_24	ENSG00000102882	MAPK3	MAPK3	protein_coding_mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	7578	1.0207451581954956	0.5300441	No	
+row_25	ENSG00000112242	E2F3	E2F3	protein_coding_E2F transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3115]	7677	1.010636806488037	0.5361684	No	
+row_26	ENSG00000132155	RAF1	RAF1	protein_coding_Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	7683	1.0098867416381836	0.5467414	No	
+row_27	ENSG00000174775	HRAS	HRAS	protein_coding_HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	8238	0.9561710953712463	0.53042984	No	
+row_28	ENSG00000135679	MDM2	MDM2	protein_coding_MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	11153	0.7817613482475281	0.39915368	No	
+row_29	ENSG00000126934	MAP2K2	MAP2K2	protein_coding_mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	11307	0.7708461284637451	0.4000748	No	
+row_30	ENSG00000110092	CCND1	CCND1	protein_coding_cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	11956	0.7260957956314087	0.37679514	No	
+row_31	ENSG00000133703	KRAS	KRAS	protein_coding_KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	13028	0.6490823030471802	0.3324197	No	
+row_32	ENSG00000101412	E2F1	E2F1	protein_coding_E2F transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3113]	13071	0.6454775333404541	0.33731794	No	
+row_33	ENSG00000112715	VEGFA	VEGFA	protein_coding_vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	13180	0.6377361416816711	0.33897042	No	
+row_34	ENSG00000141736	ERBB2	ERBB2	protein_coding_erb-b2 receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:3430]	13420	0.6201003789901733	0.33415622	No	
+row_35	ENSG00000068028	RASSF1	RASSF1	protein_coding_Ras association domain family member 1 [Source:HGNC Symbol;Acc:HGNC:9882]	14051	0.57989901304245	0.31017387	No	
+row_36	ENSG00000135446	CDK4	CDK4	protein_coding_cyclin dependent kinase 4 [Source:HGNC Symbol;Acc:HGNC:1773]	14586	0.5408043265342712	0.2903735	No	
+row_37	ENSG00000165197	VEGFD	VEGFD	protein_coding_vascular endothelial growth factor D [Source:HGNC Symbol;Acc:HGNC:3708]	15989	0.4398386478424072	0.22789533	No	
+row_38	ENSG00000025708	TYMP	TYMP	protein_coding_thymidine phosphorylase [Source:HGNC Symbol;Acc:HGNC:3148]	17147	0.35905200242996216	0.17629324	No	
+row_39	ENSG00000068078	FGFR3	FGFR3	protein_coding_fibroblast growth factor receptor 3 [Source:HGNC Symbol;Acc:HGNC:3690]	18377	0.2589270770549774	0.12016869	No	
+row_40	ENSG00000007968	E2F2	E2F2	protein_coding_E2F transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:3114]	19989	0.09596480429172516	0.043992933	No	

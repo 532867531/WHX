@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000136244	IL6	IL6	protein_coding_interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	27	42.517738342285156	0.31895217	Yes	
+row_1	ENSG00000125538	IL1B	IL1B	protein_coding_interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	73	28.049917221069336	0.5280696	Yes	
+row_2	ENSG00000271503	CCL5	CCL5	protein_coding_C-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10632]	100	24.337739944458008	0.71013707	Yes	
+row_3	ENSG00000137033	IL33	IL33	protein_coding_interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	889	5.5126447677612305	0.71390647	Yes	
+row_4	ENSG00000185507	IRF7	IRF7	protein_coding_interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	2409	2.313225507736206	0.65855634	No	
+row_5	ENSG00000100906	NFKBIA	NFKBIA	protein_coding_NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	3135	1.779835820198059	0.6372283	No	
+row_6	ENSG00000121851	POLR3GL	POLR3GL	protein_coding_RNA polymerase III subunit G like [Source:HGNC Symbol;Acc:HGNC:28466]	3691	1.7130558490753174	0.6235417	No	
+row_7	ENSG00000173039	RELA	RELA	protein_coding_RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	3924	1.6148666143417358	0.62459016	No	
+row_8	ENSG00000184584	TMEM173	TMEM173	protein_coding_transmembrane protein 173 [Source:HGNC Symbol;Acc:HGNC:27962]	4359	1.4888992309570312	0.6150122	No	
+row_9	ENSG00000137752	CASP1	CASP1	protein_coding_caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	4374	1.484845519065857	0.6255254	No	
+row_10	ENSG00000150782	IL18	IL18	protein_coding_interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	4621	1.4242889881134033	0.6244677	No	
+row_11	ENSG00000186184	POLR1D	POLR1D	protein_coding_RNA polymerase I subunit D [Source:HGNC Symbol;Acc:HGNC:20422]	4649	1.4202245473861694	0.6338713	No	
+row_12	ENSG00000107201	DDX58	DDX58	protein_coding_DExD/H-box helicase 58 [Source:HGNC Symbol;Acc:HGNC:19102]	4719	1.4062663316726685	0.6411577	No	
+row_13	ENSG00000104365	IKBKB	IKBKB	protein_coding_inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	4902	1.3615702390670776	0.6426937	No	
+row_14	ENSG00000103490	PYCARD	PYCARD	protein_coding_PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	4911	1.3595013618469238	0.6525503	No	
+row_15	ENSG00000171453	POLR1C	POLR1C	protein_coding_RNA polymerase I subunit C [Source:HGNC Symbol;Acc:HGNC:20194]	5424	1.2869354486465454	0.6377142	No	
+row_16	ENSG00000168495	POLR3D	POLR3D	protein_coding_RNA polymerase III subunit D [Source:HGNC Symbol;Acc:HGNC:1080]	5944	1.2035850286483765	0.62191504	No	
+row_17	ENSG00000269335	IKBKG	IKBKG	protein_coding_inhibitor of nuclear factor kappa B kinase subunit gamma [Source:HGNC Symbol;Acc:HGNC:5961]	6050	1.1901516914367676	0.6258489	No	
+row_18	ENSG00000169245	CXCL10	CXCL10	protein_coding_C-X-C motif chemokine ligand 10 [Source:HGNC Symbol;Acc:HGNC:10637]	6146	1.1729031801223755	0.6301319	No	
+row_19	ENSG00000109320	NFKB1	NFKB1	protein_coding_nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	7914	0.9882400035858154	0.5529206	No	
+row_20	ENSG00000148606	POLR3A	POLR3A	protein_coding_RNA polymerase III subunit A [Source:HGNC Symbol;Acc:HGNC:30074]	8108	0.9684967994689941	0.55096895	No	
+row_21	ENSG00000104825	NFKBIB	NFKBIB	protein_coding_NFKB inhibitor beta [Source:HGNC Symbol;Acc:HGNC:7798]	8379	0.9444251656532288	0.54514706	No	
+row_22	ENSG00000126456	IRF3	IRF3	protein_coding_interferon regulatory factor 3 [Source:HGNC Symbol;Acc:HGNC:6118]	10366	0.8418849110603333	0.4563413	No	
+row_23	ENSG00000160710	ADAR	ADAR	protein_coding_adenosine deaminase, RNA specific [Source:HGNC Symbol;Acc:HGNC:225]	11062	0.7883734703063965	0.42898276	No	
+row_24	ENSG00000263528	IKBKE	IKBKE	protein_coding_inhibitor of nuclear factor kappa B kinase subunit epsilon [Source:HGNC Symbol;Acc:HGNC:14552]	11933	0.7283349633216858	0.392788	No	
+row_25	ENSG00000183735	TBK1	TBK1	protein_coding_TANK binding kinase 1 [Source:HGNC Symbol;Acc:HGNC:11584]	12680	0.6738585829734802	0.36212358	No	
+row_26	ENSG00000161980	POLR3K	POLR3K	protein_coding_RNA polymerase III subunit K [Source:HGNC Symbol;Acc:HGNC:14121]	12782	0.6658669114112854	0.36230013	No	
+row_27	ENSG00000186141	POLR3C	POLR3C	protein_coding_RNA polymerase III subunit C [Source:HGNC Symbol;Acc:HGNC:30076]	13658	0.6012716293334961	0.32490876	No	
+row_28	ENSG00000132664	POLR3F	POLR3F	protein_coding_RNA polymerase III subunit F [Source:HGNC Symbol;Acc:HGNC:15763]	14354	0.5569180250167847	0.29580688	No	
+row_29	ENSG00000088888	MAVS	MAVS	protein_coding_mitochondrial antiviral signaling protein [Source:HGNC Symbol;Acc:HGNC:29233]	14723	0.5285759568214417	0.28215772	No	
+row_30	ENSG00000113356	POLR3G	POLR3G	protein_coding_RNA polymerase III subunit G [Source:HGNC Symbol;Acc:HGNC:30075]	15101	0.5036153197288513	0.26788935	No	
+row_31	ENSG00000213341	CHUK	CHUK	protein_coding_conserved helix-loop-helix ubiquitous kinase [Source:HGNC Symbol;Acc:HGNC:1974]	15529	0.46890291571617126	0.2509641	No	
+row_32	ENSG00000137275	RIPK1	RIPK1	protein_coding_receptor interacting serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:10019]	15676	0.45337215065956116	0.24738424	No	
+row_33	ENSG00000100413	POLR3H	POLR3H	protein_coding_RNA polymerase III subunit H [Source:HGNC Symbol;Acc:HGNC:30349]	18919	0.21124866604804993	0.0936551	No	
+row_34	ENSG00000013503	POLR3B	POLR3B	protein_coding_RNA polymerase III subunit B [Source:HGNC Symbol;Acc:HGNC:30348]	18975	0.20439228415489197	0.09255961	No	

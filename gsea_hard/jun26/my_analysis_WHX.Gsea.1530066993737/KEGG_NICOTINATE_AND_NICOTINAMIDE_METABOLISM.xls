@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000138356	AOX1	AOX1	protein_coding_aldehyde oxidase 1 [Source:HGNC Symbol;Acc:HGNC:553]	60	28.89401626586914	0.66059834	Yes	
+row_1	ENSG00000166741	NNMT	NNMT	protein_coding_nicotinamide N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:7861]	3864	1.6336865425109863	0.51604515	No	
+row_2	ENSG00000122643	NT5C3A	NT5C3A	protein_coding_5'-nucleotidase, cytosolic IIIA [Source:HGNC Symbol;Acc:HGNC:17820]	5709	1.2417951822280884	0.4562792	No	
+row_3	ENSG00000105835	NAMPT	NAMPT	protein_coding_nicotinamide phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:30092]	7848	0.9933509826660156	0.3767333	No	
+row_4	ENSG00000172890	NADSYN1	NADSYN1	protein_coding_NAD synthetase 1 [Source:HGNC Symbol;Acc:HGNC:29832]	7861	0.9918108582496643	0.398933	No	
+row_5	ENSG00000197594	ENPP1	ENPP1	protein_coding_ectonucleotide pyrophosphatase/phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:3356]	8077	0.9710723757743835	0.41093796	No	
+row_6	ENSG00000157064	NMNAT2	NMNAT2	protein_coding_nicotinamide nucleotide adenylyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16789]	10042	0.8745629787445068	0.3369946	No	
+row_7	ENSG00000076685	NT5C2	NT5C2	protein_coding_5'-nucleotidase, cytosolic II [Source:HGNC Symbol;Acc:HGNC:8022]	10491	0.8326229453086853	0.33466575	No	
+row_8	ENSG00000112992	NNT	NNT	protein_coding_nicotinamide nucleotide transhydrogenase [Source:HGNC Symbol;Acc:HGNC:7863]	10919	0.798019528388977	0.3325477	No	
+row_9	ENSG00000198805	PNP	PNP	protein_coding_purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892]	11120	0.7834824323654175	0.3409633	No	
+row_10	ENSG00000163864	NMNAT3	NMNAT3	protein_coding_nicotinamide nucleotide adenylyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:20989]	12129	0.7135844230651855	0.30909142	No	
+row_11	ENSG00000106733	NMRK1	NMRK1	protein_coding_nicotinamide riboside kinase 1 [Source:HGNC Symbol;Acc:HGNC:26057]	12727	0.6707907915115356	0.29591328	No	
+row_12	ENSG00000135318	NT5E	NT5E	protein_coding_5'-nucleotidase ecto [Source:HGNC Symbol;Acc:HGNC:8021]	12920	0.6588818430900574	0.3018508	No	
+row_13	ENSG00000004468	CD38	CD38	protein_coding_CD38 molecule [Source:HGNC Symbol;Acc:HGNC:1667]	13859	0.5864515900611877	0.27041084	No	
+row_14	ENSG00000008130	NADK	NADK	protein_coding_NAD kinase [Source:HGNC Symbol;Acc:HGNC:29831]	14972	0.5135238170623779	0.22896619	No	
+row_15	ENSG00000125458	NT5C	NT5C	protein_coding_5', 3'-nucleotidase, cytosolic [Source:HGNC Symbol;Acc:HGNC:17144]	15170	0.5003669261932373	0.23102447	No	
+row_16	ENSG00000103485	QPRT	QPRT	protein_coding_quinolinate phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:9755]	15222	0.4948185086250305	0.23994501	No	
+row_17	ENSG00000205309	NT5M	NT5M	protein_coding_5',3'-nucleotidase, mitochondrial [Source:HGNC Symbol;Acc:HGNC:15769]	15350	0.4853392243385315	0.24500942	No	
+row_18	ENSG00000173614	NMNAT1	NMNAT1	protein_coding_nicotinamide nucleotide adenylyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:17877]	15473	0.47456279397010803	0.25006577	No	
+row_19	ENSG00000112874	NUDT12	NUDT12	protein_coding_nudix hydrolase 12 [Source:HGNC Symbol;Acc:HGNC:18826]	16324	0.4370548725128174	0.2194083	No	

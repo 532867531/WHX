@@ -1,0 +1,69 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000115414	FN1	FN1	protein_coding_fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	62	28.238422393798828	0.1568875	Yes	
+row_1	ENSG00000088053	GP6	GP6	protein_coding_glycoprotein VI platelet [Source:HGNC Symbol;Acc:HGNC:14388]	166	17.593549728393555	0.2515452	Yes	
+row_2	ENSG00000137801	THBS1	THBS1	protein_coding_thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	375	10.860907554626465	0.30304983	Yes	
+row_3	ENSG00000164171	ITGA2	ITGA2	protein_coding_integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	629	8.031939506530762	0.33637992	Yes	
+row_4	ENSG00000161638	ITGA5	ITGA5	protein_coding_integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	748	6.784055233001709	0.3691234	Yes	
+row_5	ENSG00000213949	ITGA1	ITGA1	protein_coding_integrin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6134]	979	5.06044340133667	0.386735	Yes	
+row_6	ENSG00000142173	COL6A2	COL6A2	protein_coding_collagen type VI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2212]	994	4.984838008880615	0.41428322	Yes	
+row_7	ENSG00000136457	CHAD	CHAD	protein_coding_chondroadherin [Source:HGNC Symbol;Acc:HGNC:1909]	1049	4.662290096282959	0.43808606	Yes	
+row_8	ENSG00000168542	COL3A1	COL3A1	protein_coding_collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]	1192	4.327061653137207	0.4557685	Yes	
+row_9	ENSG00000041982	TNC	TNC	protein_coding_tenascin C [Source:HGNC Symbol;Acc:HGNC:5318]	1243	4.084216117858887	0.4764907	Yes	
+row_10	ENSG00000058085	LAMC2	LAMC2	protein_coding_laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	1244	4.082082748413086	0.49960008	Yes	
+row_11	ENSG00000115221	ITGB6	ITGB6	protein_coding_integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	1311	3.7758965492248535	0.5178091	Yes	
+row_12	ENSG00000124145	SDC4	SDC4	protein_coding_syndecan 4 [Source:HGNC Symbol;Acc:HGNC:10661]	1320	3.7403721809387207	0.5386001	Yes	
+row_13	ENSG00000163359	COL6A3	COL6A3	protein_coding_collagen type VI alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:2213]	1374	3.518709659576416	0.5559769	Yes	
+row_14	ENSG00000132470	ITGB4	ITGB4	protein_coding_integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	1685	3.02132511138916	0.5582059	Yes	
+row_15	ENSG00000130635	COL5A1	COL5A1	protein_coding_collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	1764	2.880427837371826	0.5707697	Yes	
+row_16	ENSG00000109072	VTN	VTN	protein_coding_vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	1914	2.6390321254730225	0.57856	Yes	
+row_17	ENSG00000204262	COL5A2	COL5A2	protein_coding_collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	2284	2.4534201622009277	0.5747429	Yes	
+row_18	ENSG00000053747	LAMA3	LAMA3	protein_coding_laminin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6483]	2314	2.4103753566741943	0.5869969	Yes	
+row_19	ENSG00000196878	LAMB3	LAMB3	protein_coding_laminin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6490]	2344	2.3607006072998047	0.5989697	Yes	
+row_20	ENSG00000115232	ITGA4	ITGA4	protein_coding_integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	2413	2.309152841567993	0.60877925	Yes	
+row_21	ENSG00000137809	ITGA11	ITGA11	protein_coding_integrin subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:6136]	2536	2.1991934776306152	0.6153751	Yes	
+row_22	ENSG00000142156	COL6A1	COL6A1	protein_coding_collagen type VI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2211]	2629	2.134683847427368	0.6230453	Yes	
+row_23	ENSG00000112769	LAMA4	LAMA4	protein_coding_laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	2837	1.9894241094589233	0.624375	Yes	
+row_24	ENSG00000081052	COL4A4	COL4A4	protein_coding_collagen type IV alpha 4 chain [Source:HGNC Symbol;Acc:HGNC:2206]	2895	1.9501842260360718	0.6326802	Yes	
+row_25	ENSG00000150093	ITGB1	ITGB1	protein_coding_integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	2988	1.8793232440948486	0.63890475	Yes	
+row_26	ENSG00000108821	COL1A1	COL1A1	protein_coding_collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	3637	1.7419544458389282	0.6176722	No	
+row_27	ENSG00000196569	LAMA2	LAMA2	protein_coding_laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	3665	1.7283071279525757	0.62616086	No	
+row_28	ENSG00000026508	CD44	CD44	protein_coding_CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	3914	1.6194875240325928	0.6234289	No	
+row_29	ENSG00000091409	ITGA6	ITGA6	protein_coding_integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	3923	1.615247368812561	0.6321892	No	
+row_30	ENSG00000122012	SV2C	SV2C	protein_coding_synaptic vesicle glycoprotein 2C [Source:HGNC Symbol;Acc:HGNC:30670]	4697	1.4074838161468506	0.6030651	No	
+row_31	ENSG00000134871	COL4A2	COL4A2	protein_coding_collagen type IV alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2203]	4949	1.3539308309555054	0.59868574	No	
+row_32	ENSG00000204248	COL11A2	COL11A2	protein_coding_collagen type XI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2187]	4951	1.3533498048782349	0.60629934	No	
+row_33	ENSG00000138448	ITGAV	ITGAV	protein_coding_integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	4994	1.3463133573532104	0.6119057	No	
+row_34	ENSG00000206384	COL6A6	COL6A6	protein_coding_collagen type VI alpha 6 chain [Source:HGNC Symbol;Acc:HGNC:27023]	5196	1.3195159435272217	0.6097308	No	
+row_35	ENSG00000196776	CD47	CD47	protein_coding_CD47 molecule [Source:HGNC Symbol;Acc:HGNC:1682]	5619	1.2540194988250732	0.59658045	No	
+row_36	ENSG00000118785	SPP1	SPP1	protein_coding_secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	6283	1.1636676788330078	0.5713544	No	
+row_37	ENSG00000189056	RELN	RELN	protein_coding_reelin [Source:HGNC Symbol;Acc:HGNC:9957]	6472	1.1389507055282593	0.5687811	No	
+row_38	ENSG00000187498	COL4A1	COL4A1	protein_coding_collagen type IV alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2202]	6631	1.1208511590957642	0.5675448	No	
+row_39	ENSG00000091136	LAMB1	LAMB1	protein_coding_laminin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6486]	6659	1.117127537727356	0.5725735	No	
+row_40	ENSG00000005884	ITGA3	ITGA3	protein_coding_integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	6907	1.0932499170303345	0.5669103	No	
+row_41	ENSG00000197565	COL4A6	COL4A6	protein_coding_collagen type IV alpha 6 chain [Source:HGNC Symbol;Acc:HGNC:2208]	7046	1.0777333974838257	0.5663897	No	
+row_42	ENSG00000060718	COL11A1	COL11A1	protein_coding_collagen type XI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2186]	7597	1.0185737609863281	0.54576445	No	
+row_43	ENSG00000172037	LAMB2	LAMB2	protein_coding_laminin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6487]	7821	0.9964532852172852	0.54070497	No	
+row_44	ENSG00000101680	LAMA1	LAMA1	protein_coding_laminin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6481]	7884	0.989637017250061	0.54333246	No	
+row_45	ENSG00000005961	ITGA2B	ITGA2B	protein_coding_integrin subunit alpha 2b [Source:HGNC Symbol;Acc:HGNC:6138]	8062	0.9722749590873718	0.54034334	No	
+row_46	ENSG00000082781	ITGB5	ITGB5	protein_coding_integrin subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:6160]	8097	0.96964430809021	0.5442012	No	
+row_47	ENSG00000072571	HMMR	HMMR	protein_coding_hyaluronan mediated motility receptor [Source:HGNC Symbol;Acc:HGNC:5012]	8360	0.9462697505950928	0.53698623	No	
+row_48	ENSG00000091128	LAMB4	LAMB4	protein_coding_laminin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6491]	8446	0.9383225440979004	0.5382196	No	
+row_49	ENSG00000168477	TNXB	TNXB	protein_coding_tenascin XB [Source:HGNC Symbol;Acc:HGNC:11976]	8518	0.9314231276512146	0.54008555	No	
+row_50	ENSG00000113296	THBS4	THBS4	protein_coding_thrombospondin 4 [Source:HGNC Symbol;Acc:HGNC:11788]	9519	0.879677414894104	0.49708092	No	
+row_51	ENSG00000169231	THBS3	THBS3	protein_coding_thrombospondin 3 [Source:HGNC Symbol;Acc:HGNC:11787]	10043	0.8745629787445068	0.476936	No	
+row_52	ENSG00000135862	LAMC1	LAMC1	protein_coding_laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	10573	0.8265324831008911	0.4562313	No	
+row_53	ENSG00000135218	CD36	CD36	protein_coding_CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	11924	0.7290476560592651	0.39557928	No	
+row_54	ENSG00000130702	LAMA5	LAMA5	protein_coding_laminin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	12232	0.7044166326522827	0.3848358	No	
+row_55	ENSG00000135424	ITGA7	ITGA7	protein_coding_integrin subunit alpha 7 [Source:HGNC Symbol;Acc:HGNC:6143]	12851	0.6597579717636108	0.3589163	No	
+row_56	ENSG00000173402	DAG1	DAG1	protein_coding_dystroglycan 1 [Source:HGNC Symbol;Acc:HGNC:2666]	13349	0.6247314810752869	0.33860466	No	
+row_57	ENSG00000142798	HSPG2	HSPG2	protein_coding_heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	13425	0.6197543144226074	0.33851433	No	
+row_58	ENSG00000188157	AGRN	AGRN	protein_coding_agrin [Source:HGNC Symbol;Acc:HGNC:329]	14134	0.572844386100769	0.30778417	No	
+row_59	ENSG00000115884	SDC1	SDC1	protein_coding_syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	14712	0.5295436978340149	0.28309488	No	
+row_60	ENSG00000185245	GP1BA	GP1BA	protein_coding_glycoprotein Ib platelet alpha subunit [Source:HGNC Symbol;Acc:HGNC:4439]	14982	0.5131450891494751	0.273092	No	
+row_61	ENSG00000105855	ITGB8	ITGB8	protein_coding_integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	15017	0.5104482173919678	0.27435026	No	
+row_62	ENSG00000110799	VWF	VWF	protein_coding_von Willebrand factor [Source:HGNC Symbol;Acc:HGNC:12726]	15527	0.4691612422466278	0.25258207	No	
+row_63	ENSG00000050555	LAMC3	LAMC3	protein_coding_laminin subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:6494]	17378	0.342096745967865	0.16574715	No	
+row_64	ENSG00000162512	SDC3	SDC3	protein_coding_syndecan 3 [Source:HGNC Symbol;Acc:HGNC:10660]	18482	0.25133639574050903	0.11424294	No	
+row_65	ENSG00000029559	IBSP	IBSP	protein_coding_integrin binding sialoprotein [Source:HGNC Symbol;Acc:HGNC:5341]	19221	0.17593547701835632	0.07982628	No	
+row_66	ENSG00000144668	ITGA9	ITGA9	protein_coding_integrin subunit alpha 9 [Source:HGNC Symbol;Acc:HGNC:6145]	20056	0.08796773105859756	0.04030508	No	
+row_67	ENSG00000186340	THBS2	THBS2	protein_coding_thrombospondin 2 [Source:HGNC Symbol;Acc:HGNC:11786]	20192	0.08513006567955017	0.034309093	No	

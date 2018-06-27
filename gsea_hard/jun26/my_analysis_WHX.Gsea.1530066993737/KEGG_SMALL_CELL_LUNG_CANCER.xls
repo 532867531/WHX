@@ -1,0 +1,79 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000115414	FN1	FN1	protein_coding_fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	62	28.238422393798828	0.19770826	Yes	
+row_1	ENSG00000073756	PTGS2	PTGS2	protein_coding_prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	371	11.214705467224121	0.26262254	Yes	
+row_2	ENSG00000164171	ITGA2	ITGA2	protein_coding_integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	629	8.031939506530762	0.30736592	Yes	
+row_3	ENSG00000136997	MYC	MYC	protein_coding_MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	975	5.103390216827393	0.32707205	Yes	
+row_4	ENSG00000077092	RARB	RARB	protein_coding_retinoic acid receptor beta [Source:HGNC Symbol;Acc:HGNC:9865]	1217	4.178467273712158	0.3451977	Yes	
+row_5	ENSG00000058085	LAMC2	LAMC2	protein_coding_laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	1244	4.082082748413086	0.37296006	Yes	
+row_6	ENSG00000023445	BIRC3	BIRC3	protein_coding_baculoviral IAP repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:591]	1346	3.6467485427856445	0.39402798	Yes	
+row_7	ENSG00000053747	LAMA3	LAMA3	protein_coding_laminin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6483]	2314	2.4103753566741943	0.3647346	Yes	
+row_8	ENSG00000196878	LAMB3	LAMB3	protein_coding_laminin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6490]	2344	2.3607006072998047	0.38011938	Yes	
+row_9	ENSG00000076604	TRAF4	TRAF4	protein_coding_TNF receptor associated factor 4 [Source:HGNC Symbol;Acc:HGNC:12034]	2399	2.3281257152557373	0.3940725	Yes	
+row_10	ENSG00000132906	CASP9	CASP9	protein_coding_caspase 9 [Source:HGNC Symbol;Acc:HGNC:1511]	2495	2.2127037048339844	0.405237	Yes	
+row_11	ENSG00000117020	AKT3	AKT3	protein_coding_AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	2681	2.094277858734131	0.41123918	Yes	
+row_12	ENSG00000112769	LAMA4	LAMA4	protein_coding_laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	2837	1.9894241094589233	0.41793644	Yes	
+row_13	ENSG00000081052	COL4A4	COL4A4	protein_coding_collagen type IV alpha 4 chain [Source:HGNC Symbol;Acc:HGNC:2206]	2895	1.9501842260360718	0.42905957	Yes	
+row_14	ENSG00000150093	ITGB1	ITGB1	protein_coding_integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	2988	1.8793232440948486	0.43799883	Yes	
+row_15	ENSG00000100906	NFKBIA	NFKBIA	protein_coding_NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	3135	1.779835820198059	0.44363862	Yes	
+row_16	ENSG00000196569	LAMA2	LAMA2	protein_coding_laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	3665	1.7283071279525757	0.4305253	Yes	
+row_17	ENSG00000141510	TP53	TP53	protein_coding_tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	3812	1.6589711904525757	0.43530616	Yes	
+row_18	ENSG00000171552	BCL2L1	BCL2L1	protein_coding_BCL2 like 1 [Source:HGNC Symbol;Acc:HGNC:992]	3887	1.6304608583450317	0.44334093	Yes	
+row_19	ENSG00000091409	ITGA6	ITGA6	protein_coding_integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	3923	1.615247368812561	0.4531399	Yes	
+row_20	ENSG00000173039	RELA	RELA	protein_coding_RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	3924	1.6148666143417358	0.46461642	Yes	
+row_21	ENSG00000033800	PIAS1	PIAS1	protein_coding_protein inhibitor of activated STAT 1 [Source:HGNC Symbol;Acc:HGNC:2752]	4214	1.5386157035827637	0.46167684	Yes	
+row_22	ENSG00000171862	PTEN	PTEN	protein_coding_phosphatase and tensin homolog [Source:HGNC Symbol;Acc:HGNC:9588]	4397	1.4747365713119507	0.4634201	Yes	
+row_23	ENSG00000173207	CKS1B	CKS1B	protein_coding_CDC28 protein kinase regulatory subunit 1B [Source:HGNC Symbol;Acc:HGNC:19083]	4508	1.4568127393722534	0.46849254	Yes	
+row_24	ENSG00000104365	IKBKB	IKBKB	protein_coding_inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	4902	1.3615702390670776	0.45930192	Yes	
+row_25	ENSG00000134871	COL4A2	COL4A2	protein_coding_collagen type IV alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2203]	4949	1.3539308309555054	0.46671566	Yes	
+row_26	ENSG00000138448	ITGAV	ITGAV	protein_coding_integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	4994	1.3463133573532104	0.4741713	Yes	
+row_27	ENSG00000078043	PIAS2	PIAS2	protein_coding_protein inhibitor of activated STAT 2 [Source:HGNC Symbol;Acc:HGNC:17311]	5028	1.3367645740509033	0.48208717	Yes	
+row_28	ENSG00000123374	CDK2	CDK2	protein_coding_cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]	5078	1.3251190185546875	0.48915213	Yes	
+row_29	ENSG00000175104	TRAF6	TRAF6	protein_coding_TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	5564	1.262222409248352	0.4748388	Yes	
+row_30	ENSG00000171608	PIK3CD	PIK3CD	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	5681	1.2452574968338013	0.47811967	Yes	
+row_31	ENSG00000139687	RB1	RB1	protein_coding_RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	5968	1.1998776197433472	0.47291678	Yes	
+row_32	ENSG00000269335	IKBKG	IKBKG	protein_coding_inhibitor of nuclear factor kappa B kinase subunit gamma [Source:HGNC Symbol;Acc:HGNC:5961]	6050	1.1901516914367676	0.4774863	Yes	
+row_33	ENSG00000056558	TRAF1	TRAF1	protein_coding_TNF receptor associated factor 1 [Source:HGNC Symbol;Acc:HGNC:12031]	6352	1.1549961566925049	0.47124434	Yes	
+row_34	ENSG00000187498	COL4A1	COL4A1	protein_coding_collagen type IV alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2202]	6631	1.1208511590957642	0.46586385	Yes	
+row_35	ENSG00000091136	LAMB1	LAMB1	protein_coding_laminin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6486]	6659	1.117127537727356	0.47250685	Yes	
+row_36	ENSG00000005884	ITGA3	ITGA3	protein_coding_integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	6907	1.0932499170303345	0.46841845	Yes	
+row_37	ENSG00000105810	CDK6	CDK6	protein_coding_cyclin dependent kinase 6 [Source:HGNC Symbol;Acc:HGNC:1777]	6968	1.0858776569366455	0.4732551	Yes	
+row_38	ENSG00000197565	COL4A6	COL4A6	protein_coding_collagen type IV alpha 6 chain [Source:HGNC Symbol;Acc:HGNC:2208]	7046	1.0777333974838257	0.47721773	Yes	
+row_39	ENSG00000121879	PIK3CA	PIK3CA	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	7182	1.060787320137024	0.4782755	Yes	
+row_40	ENSG00000169398	PTK2	PTK2	protein_coding_protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	7318	1.0488567352294922	0.4792485	Yes	
+row_41	ENSG00000131788	PIAS3	PIAS3	protein_coding_protein inhibitor of activated STAT 3 [Source:HGNC Symbol;Acc:HGNC:16861]	7437	1.034914493560791	0.4809385	Yes	
+row_42	ENSG00000127191	TRAF2	TRAF2	protein_coding_TNF receptor associated factor 2 [Source:HGNC Symbol;Acc:HGNC:12032]	7598	1.01847505569458	0.48049536	Yes	
+row_43	ENSG00000204231	RXRB	RXRB	protein_coding_retinoid X receptor beta [Source:HGNC Symbol;Acc:HGNC:10478]	7648	1.0127017498016357	0.48534006	Yes	
+row_44	ENSG00000112242	E2F3	E2F3	protein_coding_E2F transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3115]	7677	1.010636806488037	0.49117824	Yes	
+row_45	ENSG00000172037	LAMB2	LAMB2	protein_coding_laminin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6487]	7821	0.9964532852172852	0.49139473	Yes	
+row_46	ENSG00000101680	LAMA1	LAMA1	protein_coding_laminin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6481]	7884	0.989637017250061	0.49545142	Yes	
+row_47	ENSG00000109320	NFKB1	NFKB1	protein_coding_nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	7914	0.9882400035858154	0.5010824	Yes	
+row_48	ENSG00000005961	ITGA2B	ITGA2B	protein_coding_integrin subunit alpha 2b [Source:HGNC Symbol;Acc:HGNC:6138]	8062	0.9722749590873718	0.500935	No	
+row_49	ENSG00000120868	APAF1	APAF1	protein_coding_apoptotic peptidase activating factor 1 [Source:HGNC Symbol;Acc:HGNC:576]	8383	0.944112241268158	0.49228218	No	
+row_50	ENSG00000091128	LAMB4	LAMB4	protein_coding_laminin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6491]	8446	0.9383225440979004	0.49597418	No	
+row_51	ENSG00000110330	BIRC2	BIRC2	protein_coding_baculoviral IAP repeat containing 2 [Source:HGNC Symbol;Acc:HGNC:590]	8876	0.8976649641990662	0.48175842	No	
+row_52	ENSG00000105229	PIAS4	PIAS4	protein_coding_protein inhibitor of activated STAT 4 [Source:HGNC Symbol;Acc:HGNC:17002]	8895	0.8952125310897827	0.48725638	No	
+row_53	ENSG00000142208	AKT1	AKT1	protein_coding_AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	8917	0.8920513391494751	0.49258783	No	
+row_54	ENSG00000082512	TRAF5	TRAF5	protein_coding_TNF receptor associated factor 5 [Source:HGNC Symbol;Acc:HGNC:12035]	10069	0.8720610737800598	0.44352856	No	
+row_55	ENSG00000135862	LAMC1	LAMC1	protein_coding_laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	10573	0.8265324831008911	0.4252547	No	
+row_56	ENSG00000051382	PIK3CB	PIK3CB	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	10985	0.7928824424743652	0.41115838	No	
+row_57	ENSG00000105221	AKT2	AKT2	protein_coding_AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	11720	0.7430493235588074	0.38120145	No	
+row_58	ENSG00000110092	CCND1	CCND1	protein_coding_cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	11956	0.7260957956314087	0.37507987	No	
+row_59	ENSG00000130702	LAMA5	LAMA5	protein_coding_laminin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	12232	0.7044166326522827	0.3668839	No	
+row_60	ENSG00000101412	E2F1	E2F1	protein_coding_E2F transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3113]	13071	0.6454775333404541	0.33124074	No	
+row_61	ENSG00000125952	MAX	MAX	protein_coding_MYC associated factor X [Source:HGNC Symbol;Acc:HGNC:6913]	13211	0.6352828145027161	0.3290825	No	
+row_62	ENSG00000111276	CDKN1B	CDKN1B	protein_coding_cyclin dependent kinase inhibitor 1B [Source:HGNC Symbol;Acc:HGNC:1785]	13602	0.6058363318443298	0.31466505	No	
+row_63	ENSG00000145604	SKP2	SKP2	protein_coding_S-phase kinase associated protein 2 [Source:HGNC Symbol;Acc:HGNC:10901]	13615	0.6043227314949036	0.31838375	No	
+row_64	ENSG00000135446	CDK4	CDK4	protein_coding_cyclin dependent kinase 4 [Source:HGNC Symbol;Acc:HGNC:1773]	14586	0.5408043265342712	0.2756597	No	
+row_65	ENSG00000131323	TRAF3	TRAF3	protein_coding_TNF receptor associated factor 3 [Source:HGNC Symbol;Acc:HGNC:12033]	15143	0.5026727914810181	0.2525398	No	
+row_66	ENSG00000101966	XIAP	XIAP	protein_coding_X-linked inhibitor of apoptosis [Source:HGNC Symbol;Acc:HGNC:592]	15318	0.48845037817955017	0.2476578	No	
+row_67	ENSG00000213341	CHUK	CHUK	protein_coding_conserved helix-loop-helix ubiquitous kinase [Source:HGNC Symbol;Acc:HGNC:1974]	15529	0.46890291571617126	0.2409086	No	
+row_68	ENSG00000186350	RXRA	RXRA	protein_coding_retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	17191	0.3534795045852661	0.16367994	No	
+row_69	ENSG00000050555	LAMC3	LAMC3	protein_coding_laminin subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:6494]	17378	0.342096745967865	0.15718172	No	
+row_70	ENSG00000105173	CCNE1	CCNE1	protein_coding_cyclin E1 [Source:HGNC Symbol;Acc:HGNC:1589]	17722	0.30788707733154297	0.14290318	No	
+row_71	ENSG00000172115	CYCS	CYCS	protein_coding_cytochrome c, somatic [Source:HGNC Symbol;Acc:HGNC:19986]	17795	0.29825353622436523	0.14156625	No	
+row_72	ENSG00000145675	PIK3R1	PIK3R1	protein_coding_phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	18278	0.2699635922908783	0.12034512	No	
+row_73	ENSG00000171791	BCL2	BCL2	protein_coding_BCL2, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	18613	0.23354266583919525	0.1059703	No	
+row_74	ENSG00000175305	CCNE2	CCNE2	protein_coding_cyclin E2 [Source:HGNC Symbol;Acc:HGNC:1590]	18961	0.20617437362670898	0.090776876	No	
+row_75	ENSG00000105851	PIK3CG	PIK3CG	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]	18993	0.2030024528503418	0.09073133	No	
+row_76	ENSG00000007968	E2F2	E2F2	protein_coding_E2F transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:3114]	19989	0.09596480429172516	0.04364569	No	
+row_77	ENSG00000117461	PIK3R3	PIK3R3	protein_coding_phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	20570	0.05307254195213318	0.016178412	No	

@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000147168	IL2RG	IL2RG	protein_coding_interleukin 2 receptor subunit gamma [Source:HGNC Symbol;Acc:HGNC:6010]	85	25.510644912719727	0.31878737	Yes	
+row_1	ENSG00000010610	CD4	CD4	protein_coding_CD4 molecule [Source:HGNC Symbol;Acc:HGNC:1678]	205	15.834192276000977	0.5134841	Yes	
+row_2	ENSG00000168685	IL7R	IL7R	protein_coding_interleukin 7 receptor [Source:HGNC Symbol;Acc:HGNC:6024]	354	11.603362083435059	0.65324813	Yes	
+row_3	ENSG00000010671	BTK	BTK	protein_coding_Bruton tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:1133]	520	8.796773910522461	0.75667876	Yes	
+row_4	ENSG00000095585	BLNK	BLNK	protein_coding_B cell linker [Source:HGNC Symbol;Acc:HGNC:14211]	1250	4.033414363861084	0.7728242	Yes	
+row_5	ENSG00000196839	ADA	ADA	protein_coding_adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	2591	2.1797313690185547	0.73625875	No	
+row_6	ENSG00000105639	JAK3	JAK3	protein_coding_Janus kinase 3 [Source:HGNC Symbol;Acc:HGNC:6193]	2697	2.0834462642669678	0.75759953	No	
+row_7	ENSG00000153563	CD8A	CD8A	protein_coding_CD8a molecule [Source:HGNC Symbol;Acc:HGNC:1706]	4292	1.5080183744430542	0.70037293	No	
+row_8	ENSG00000168394	TAP1	TAP1	protein_coding_transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	4490	1.4616944789886475	0.7094405	No	
+row_9	ENSG00000269335	IKBKG	IKBKG	protein_coding_inhibitor of nuclear factor kappa B kinase subunit gamma [Source:HGNC Symbol;Acc:HGNC:5961]	6050	1.1901516914367676	0.64986664	No	
+row_10	ENSG00000182866	LCK	LCK	protein_coding_LCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6524]	9111	0.879677414894104	0.514504	No	
+row_11	ENSG00000204267	TAP2	TAP2	protein_coding_transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	12321	0.7032071352005005	0.3697748	No	
+row_12	ENSG00000064490	RFXANK	RFXANK	protein_coding_regulatory factor X associated ankyrin containing protein [Source:HGNC Symbol;Acc:HGNC:9987]	13183	0.6375073790550232	0.33662307	No	
+row_13	ENSG00000152457	DCLRE1C	DCLRE1C	protein_coding_DNA cross-link repair 1C [Source:HGNC Symbol;Acc:HGNC:17642]	13359	0.6239572167396545	0.3361417	No	
+row_14	ENSG00000076248	UNG	UNG	protein_coding_uracil DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:12572]	14676	0.5336503982543945	0.2798928	No	
+row_15	ENSG00000143390	RFX5	RFX5	protein_coding_regulatory factor X5 [Source:HGNC Symbol;Acc:HGNC:9986]	15611	0.45900973677635193	0.24098724	No	
+row_16	ENSG00000166349	RAG1	RAG1	protein_coding_recombination activating 1 [Source:HGNC Symbol;Acc:HGNC:9831]	16234	0.4398386478424072	0.21677586	No	
+row_17	ENSG00000179583	CIITA	CIITA	protein_coding_class II major histocompatibility complex transactivator [Source:HGNC Symbol;Acc:HGNC:7067]	17157	0.3580082356929779	0.17716655	No	
+row_18	ENSG00000133111	RFXAP	RFXAP	protein_coding_regulatory factor X associated protein [Source:HGNC Symbol;Acc:HGNC:9988]	19842	0.11142580211162567	0.050081905	No	
+row_19	ENSG00000159958	TNFRSF13C	TNFRSF13C	protein_coding_TNF receptor superfamily member 13C [Source:HGNC Symbol;Acc:HGNC:17755]	20395	0.06766749173402786	0.024511632	No	

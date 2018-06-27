@@ -1,0 +1,79 @@
+* using log directory 'F:/min-labs_paper/work/WHX/NGCHM.Rcheck'
+* using R version 3.4.1 (2017-06-30)
+* using platform: x86_64-w64-mingw32 (64-bit)
+* using session charset: CP936
+* using options '--no-manual --as-cran'
+* checking for file 'NGCHM/DESCRIPTION' ... OK
+* checking extension type ... Package
+* this is package 'NGCHM' version '0.11.13'
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking whether package 'NGCHM' can be installed ... OK
+* checking installed package size ... NOTE
+  installed size is  8.5Mb
+  sub-directories of 1Mb or more:
+    data   7.8Mb
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd line widths ... NOTE
+Rd file 'NGCHM-package.Rd':
+  \examples lines wider than 100 characters:
+     chm1 <- chmNew('gbm', TCGA.GBM.EXPR[1:50,1:50], rowAxisType='bio.gene.hugo', colAxisType='bio.tcga.barcode.sample.vial.portion.analyte. ... [TRUNCATED]
+
+These lines will be truncated in the PDF manual.
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... WARNING
+Undocumented S4 methods:
+  generic '+' and siglist 'ngchmVersion2,ngchmAxis'
+All user-level objects in a package (including S4 classes and methods)
+should have documentation entries.
+See chapter 'Writing R documentation files' in the 'Writing R
+Extensions' manual.
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... WARNING
+Duplicated \argument entries in documentation object 'chmGetURL':
+  'server'
+
+Functions with \usage entries need to have the appropriate \alias
+entries, and all their arguments documented.
+The \usage entries must correspond to syntactically valid R code.
+See chapter 'Writing R documentation files' in the 'Writing R
+Extensions' manual.
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking contents of 'data' directory ... OK
+* checking data for non-ASCII characters ... OK
+* checking data for ASCII and uncompressed saves ... OK
+* checking examples ... OK
+Examples with CPU or elapsed time > 5s
+                 user system elapsed
+TCGA.GBM.EXPR   12.81   0.69   15.53
+chmNewDataLayer  5.66   0.50    7.57
+* checking for unstated dependencies in 'tests' ... OK
+* checking tests ... OK
+  Running 'testthat.R'
+* DONE
+Status: 2 WARNINGs, 2 NOTEs

@@ -1,0 +1,87 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000010610	CD4	CD4	protein_coding_CD4 molecule [Source:HGNC Symbol;Acc:HGNC:1678]	205	15.834192276000977	0.09449532	Yes	
+row_1	ENSG00000113946	CLDN16	CLDN16	protein_coding_claudin 16 [Source:HGNC Symbol;Acc:HGNC:2037]	662	7.917096138000488	0.12476574	Yes	
+row_2	ENSG00000197646	PDCD1LG2	PDCD1LG2	protein_coding_programmed cell death 1 ligand 2 [Source:HGNC Symbol;Acc:HGNC:18731]	671	7.7411603927612305	0.17539252	Yes	
+row_3	ENSG00000120217	CD274	CD274	protein_coding_CD274 molecule [Source:HGNC Symbol;Acc:HGNC:17635]	976	5.102128505706787	0.19441347	Yes	
+row_4	ENSG00000163347	CLDN1	CLDN1	protein_coding_claudin 1 [Source:HGNC Symbol;Acc:HGNC:2032]	1083	4.41229772567749	0.21839789	Yes	
+row_5	ENSG00000188404	SELL	SELL	protein_coding_selectin L [Source:HGNC Symbol;Acc:HGNC:10720]	1155	4.3983869552612305	0.24397156	Yes	
+row_6	ENSG00000110876	SELPLG	SELPLG	protein_coding_selectin P ligand [Source:HGNC Symbol;Acc:HGNC:10722]	1227	4.147050380706787	0.26788902	Yes	
+row_7	ENSG00000124145	SDC4	SDC4	protein_coding_syndecan 4 [Source:HGNC Symbol;Acc:HGNC:10661]	1320	3.7403721809387207	0.2881181	Yes	
+row_8	ENSG00000204287	HLA-DRA	HLA-DRA	protein_coding_major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	1322	3.738628387451172	0.31270605	Yes	
+row_9	ENSG00000231389	HLA-DPA1	HLA-DPA1	protein_coding_major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	1483	3.518709182739258	0.32820868	Yes	
+row_10	ENSG00000160255	ITGB2	ITGB2	protein_coding_integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	1537	3.3587679862976074	0.34779617	Yes	
+row_11	ENSG00000163531	NFASC	NFASC	protein_coding_neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	1547	3.3080825805664062	0.3691628	Yes	
+row_12	ENSG00000234745	HLA-B	HLA-B	protein_coding_major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	1756	2.8971481323242188	0.37826437	Yes	
+row_13	ENSG00000204592	HLA-E	HLA-E	protein_coding_major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	2176	2.607774496078491	0.37532556	Yes	
+row_14	ENSG00000169896	ITGAM	ITGAM	protein_coding_integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	2177	2.6076149940490723	0.39250866	Yes	
+row_15	ENSG00000062038	CDH3	CDH3	protein_coding_cadherin 3 [Source:HGNC Symbol;Acc:HGNC:1762]	2254	2.497955560684204	0.40531915	Yes	
+row_16	ENSG00000204642	HLA-F	HLA-F	protein_coding_major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	2352	2.351137399673462	0.4161536	Yes	
+row_17	ENSG00000115232	ITGA4	ITGA4	protein_coding_integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	2413	2.309152841567993	0.4284884	Yes	
+row_18	ENSG00000204257	HLA-DMA	HLA-DMA	protein_coding_major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	2489	2.2223427295684814	0.43953073	Yes	
+row_19	ENSG00000179344	HLA-DQB1	HLA-DQB1	protein_coding_major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	2580	2.1968157291412354	0.44968447	Yes	
+row_20	ENSG00000204525	HLA-C	HLA-C	protein_coding_major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	2781	2.0318291187286377	0.45346814	Yes	
+row_21	ENSG00000158769	F11R	F11R	protein_coding_F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	2920	1.9341719150543213	0.45958593	Yes	
+row_22	ENSG00000150093	ITGB1	ITGB1	protein_coding_integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	2988	1.8793232440948486	0.46875212	Yes	
+row_23	ENSG00000039068	CDH1	CDH1	protein_coding_cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	3007	1.8656020164489746	0.4801812	Yes	
+row_24	ENSG00000206503	HLA-A	HLA-A	protein_coding_major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	3141	1.7766597270965576	0.48550117	Yes	
+row_25	ENSG00000162692	VCAM1	VCAM1	protein_coding_vascular cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:12663]	3200	1.759354829788208	0.49430904	Yes	
+row_26	ENSG00000177707	NECTIN3	NECTIN3	protein_coding_nectin cell adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:17664]	3683	1.718119740486145	0.48248214	Yes	
+row_27	ENSG00000173482	PTPRM	PTPRM	protein_coding_protein tyrosine phosphatase, receptor type M [Source:HGNC Symbol;Acc:HGNC:9675]	3684	1.7168874740600586	0.49379572	Yes	
+row_28	ENSG00000142949	PTPRF	PTPRF	protein_coding_protein tyrosine phosphatase, receptor type F [Source:HGNC Symbol;Acc:HGNC:9670]	3908	1.621384859085083	0.49377012	Yes	
+row_29	ENSG00000091409	ITGA6	ITGA6	protein_coding_integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	3923	1.615247368812561	0.50374156	Yes	
+row_30	ENSG00000130202	NECTIN2	NECTIN2	protein_coding_nectin cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:9707]	4047	1.5812318325042725	0.508254	Yes	
+row_31	ENSG00000158887	MPZ	MPZ	protein_coding_myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	4184	1.5394352674484253	0.5118667	Yes	
+row_32	ENSG00000153563	CD8A	CD8A	protein_coding_CD8a molecule [Source:HGNC Symbol;Acc:HGNC:1706]	4292	1.5080183744430542	0.5166651	Yes	
+row_33	ENSG00000103855	CD276	CD276	protein_coding_CD276 molecule [Source:HGNC Symbol;Acc:HGNC:19137]	4617	1.426405429840088	0.51050407	Yes	
+row_34	ENSG00000073008	PVR	PVR	protein_coding_poliovirus receptor [Source:HGNC Symbol;Acc:HGNC:9705]	4633	1.422456979751587	0.51915705	Yes	
+row_35	ENSG00000156284	CLDN8	CLDN8	protein_coding_claudin 8 [Source:HGNC Symbol;Acc:HGNC:2050]	4641	1.4210171699523926	0.5281848	Yes	
+row_36	ENSG00000170017	ALCAM	ALCAM	protein_coding_activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	4749	1.3936150074005127	0.5322293	Yes	
+row_37	ENSG00000149294	NCAM1	NCAM1	protein_coding_neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	4783	1.3850239515304565	0.5397712	Yes	
+row_38	ENSG00000179776	CDH5	CDH5	protein_coding_cadherin 5 [Source:HGNC Symbol;Acc:HGNC:1764]	4977	1.3496026992797852	0.53939545	Yes	
+row_39	ENSG00000138448	ITGAV	ITGAV	protein_coding_integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	4994	1.3463133573532104	0.54749864	Yes	
+row_40	ENSG00000189143	CLDN4	CLDN4	protein_coding_claudin 4 [Source:HGNC Symbol;Acc:HGNC:2046]	5083	1.32426118850708	0.5519987	Yes	
+row_41	ENSG00000241106	HLA-DOB	HLA-DOB	protein_coding_major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	5115	1.3195160627365112	0.55920494	Yes	
+row_42	ENSG00000213937	CLDN9	CLDN9	protein_coding_claudin 9 [Source:HGNC Symbol;Acc:HGNC:2051]	5428	1.285682201385498	0.5526929	No	
+row_43	ENSG00000197822	OCLN	OCLN	protein_coding_occludin [Source:HGNC Symbol;Acc:HGNC:8104]	5478	1.2765095233917236	0.5587513	No	
+row_44	ENSG00000002586	CD99	CD99	protein_coding_CD99 molecule (Xg blood group) [Source:HGNC Symbol;Acc:HGNC:7082]	5646	1.2496079206466675	0.5589653	No	
+row_45	ENSG00000067141	NEO1	NEO1	protein_coding_neogenin 1 [Source:HGNC Symbol;Acc:HGNC:7754]	5902	1.209556221961975	0.5546891	No	
+row_46	ENSG00000090863	GLG1	GLG1	protein_coding_golgi glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:4316]	6251	1.1700371503829956	0.54568607	No	
+row_47	ENSG00000106404	CLDN15	CLDN15	protein_coding_claudin 15 [Source:HGNC Symbol;Acc:HGNC:2036]	6666	1.1165134906768799	0.5331606	No	
+row_48	ENSG00000171217	CLDN20	CLDN20	protein_coding_claudin 20 [Source:HGNC Symbol;Acc:HGNC:2042]	6722	1.1111713647842407	0.5378413	No	
+row_49	ENSG00000116815	CD58	CD58	protein_coding_CD58 molecule [Source:HGNC Symbol;Acc:HGNC:1688]	7558	1.0235497951507568	0.5044843	No	
+row_50	ENSG00000090339	ICAM1	ICAM1	protein_coding_intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344]	7616	1.0158436298370361	0.5084408	No	
+row_51	ENSG00000170558	CDH2	CDH2	protein_coding_cadherin 2 [Source:HGNC Symbol;Acc:HGNC:1759]	7739	1.0049874782562256	0.50920403	No	
+row_52	ENSG00000169992	NLGN2	NLGN2	protein_coding_neuroligin 2 [Source:HGNC Symbol;Acc:HGNC:14290]	9014	0.8820168972015381	0.45383087	No	
+row_53	ENSG00000184113	CLDN5	CLDN5	protein_coding_claudin 5 [Source:HGNC Symbol;Acc:HGNC:2047]	9114	0.879677414894104	0.45487297	No	
+row_54	ENSG00000184697	CLDN6	CLDN6	protein_coding_claudin 6 [Source:HGNC Symbol;Acc:HGNC:2048]	9721	0.8796772956848145	0.43156585	No	
+row_55	ENSG00000013725	CD6	CD6	protein_coding_CD6 molecule [Source:HGNC Symbol;Acc:HGNC:1691]	9916	0.8796772956848145	0.42804548	No	
+row_56	ENSG00000198910	L1CAM	L1CAM	protein_coding_L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	10034	0.8753144145011902	0.42819437	No	
+row_57	ENSG00000108797	CNTNAP1	CNTNAP1	protein_coding_contactin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:8011]	10269	0.8509922027587891	0.42256394	No	
+row_58	ENSG00000197965	MPZL1	MPZL1	protein_coding_myelin protein zero like 1 [Source:HGNC Symbol;Acc:HGNC:7226]	10316	0.8465096354484558	0.42593288	No	
+row_59	ENSG00000110076	NRXN2	NRXN2	protein_coding_neurexin 2 [Source:HGNC Symbol;Acc:HGNC:8009]	10515	0.8304154276847839	0.4218958	No	
+row_60	ENSG00000110400	NECTIN1	NECTIN1	protein_coding_nectin cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:9706]	11547	0.7547058463096619	0.37735406	No	
+row_61	ENSG00000149564	ESAM	ESAM	protein_coding_endothelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:17474]	12522	0.68419349193573	0.33508515	No	
+row_62	ENSG00000174469	CNTNAP2	CNTNAP2	protein_coding_contactin associated protein like 2 [Source:HGNC Symbol;Acc:HGNC:13830]	12574	0.6814402341842651	0.33712623	No	
+row_63	ENSG00000196338	NLGN3	NLGN3	protein_coding_neuroligin 3 [Source:HGNC Symbol;Acc:HGNC:14289]	12880	0.6597579717636108	0.3268258	No	
+row_64	ENSG00000181885	CLDN7	CLDN7	protein_coding_claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	12987	0.6520991325378418	0.32603207	No	
+row_65	ENSG00000253958	CLDN23	CLDN23	protein_coding_claudin 23 [Source:HGNC Symbol;Acc:HGNC:17591]	13373	0.6231047511100769	0.31164804	No	
+row_66	ENSG00000114013	CD86	CD86	protein_coding_CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	13650	0.6018844842910767	0.30235898	No	
+row_67	ENSG00000166086	JAM3	JAM3	protein_coding_junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	14448	0.5497983694076538	0.2677051	No	
+row_68	ENSG00000018236	CNTN1	CNTN1	protein_coding_contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	14613	0.5390000939369202	0.2633806	No	
+row_69	ENSG00000115884	SDC1	SDC1	protein_coding_syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	14712	0.5295436978340149	0.26216352	No	
+row_70	ENSG00000179242	CDH4	CDH4	protein_coding_cadherin 4 [Source:HGNC Symbol;Acc:HGNC:1763]	14733	0.5278064608573914	0.264681	No	
+row_71	ENSG00000105855	ITGB8	ITGB8	protein_coding_integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	15017	0.5104482173919678	0.25445324	No	
+row_72	ENSG00000099866	MADCAM1	MADCAM1	protein_coding_mucosal vascular addressin cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:6765]	15821	0.4398386478424072	0.21878663	No	
+row_73	ENSG00000005844	ITGAL	ITGAL	protein_coding_integrin subunit alpha L [Source:HGNC Symbol;Acc:HGNC:6148]	15841	0.4398386478424072	0.22077249	No	
+row_74	ENSG00000196126	HLA-DRB1	HLA-DRB1	protein_coding_major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	16014	0.4398386478424072	0.21541034	No	
+row_75	ENSG00000165215	CLDN3	CLDN3	protein_coding_claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	16486	0.42071524262428284	0.19556238	No	
+row_76	ENSG00000160223	ICOSLG	ICOSLG	protein_coding_inducible T cell costimulator ligand [Source:HGNC Symbol;Acc:HGNC:17087]	16844	0.38908806443214417	0.18098097	No	
+row_77	ENSG00000164007	CLDN19	CLDN19	protein_coding_claudin 19 [Source:HGNC Symbol;Acc:HGNC:2040]	17239	0.35187095403671265	0.16437736	No	
+row_78	ENSG00000174059	CD34	CD34	protein_coding_CD34 molecule [Source:HGNC Symbol;Acc:HGNC:1662]	17954	0.29322579503059387	0.13201894	No	
+row_79	ENSG00000196735	HLA-DQA1	HLA-DQA1	protein_coding_major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	17967	0.29322579503059387	0.13337487	No	
+row_80	ENSG00000162512	SDC3	SDC3	protein_coding_syndecan 3 [Source:HGNC Symbol;Acc:HGNC:10660]	18482	0.25133639574050903	0.11034563	No	
+row_81	ENSG00000091129	NRCAM	NRCAM	protein_coding_neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	18671	0.22528322041034698	0.10280125	No	
+row_82	ENSG00000105695	MAG	MAG	protein_coding_myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	18702	0.2199193239212036	0.10280964	No	
+row_83	ENSG00000129910	CDH15	CDH15	protein_coding_cadherin 15 [Source:HGNC Symbol;Acc:HGNC:1754]	19116	0.18850229680538177	0.084217	No	
+row_84	ENSG00000012124	CD22	CD22	protein_coding_CD22 molecule [Source:HGNC Symbol;Acc:HGNC:1643]	19338	0.17026013135910034	0.074725166	No	
+row_85	ENSG00000144668	ITGA9	ITGA9	protein_coding_integrin subunit alpha 9 [Source:HGNC Symbol;Acc:HGNC:6145]	20056	0.08796773105859756	0.040870104	No	

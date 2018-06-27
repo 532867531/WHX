@@ -1,0 +1,34 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1530066993737
+param	collapse	false
+param	cls	ClassA_vs_ClassB.cls#ClassA_versus_ClassB
+param	plot_top_x	50
+param	norm	meandiv
+param	save_rnd_lists	true
+param	median	false
+param	num	100
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	ensembeld_c1_all_subset_kegg_v6_1_entrez.gmt
+param	gui	false
+param	chip	chip_human.chip
+param	metric	Ratio_of_Classes
+param	rpt_label	my_analysis_WHX
+param	help	false
+param	order	descending
+param	out	X:\Users\john\gsea_home\WHX\jun26
+param	create_svgs	false
+param	permute	gene_set
+param	rnd_type	no_balance
+param	set_min	15
+param	include_only_symbols	true
+param	sort	real
+param	create_gcts	false
+param	rnd_seed	timestamp
+param	nperm	1000
+param	zip_report	false
+param	set_max	100000000
+param	res	X:\Users\john\gsea_home\WHX\T1_C1.txt
+
+file	jun26\my_analysis_WHX.Gsea.1530066993737\index.html

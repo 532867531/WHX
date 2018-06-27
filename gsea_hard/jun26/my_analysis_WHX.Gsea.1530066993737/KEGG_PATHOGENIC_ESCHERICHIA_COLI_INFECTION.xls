@@ -1,0 +1,49 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000015285	WAS	WAS	protein_coding_Wiskott-Aldrich syndrome [Source:HGNC Symbol;Acc:HGNC:12731]	390	10.556127548217773	0.121716335	Yes	
+row_1	ENSG00000154589	LY96	LY96	protein_coding_lymphocyte antigen 96 [Source:HGNC Symbol;Acc:HGNC:17156]	746	6.817499160766602	0.19538113	Yes	
+row_2	ENSG00000163347	CLDN1	CLDN1	protein_coding_claudin 1 [Source:HGNC Symbol;Acc:HGNC:2032]	1083	4.41229772567749	0.23796396	Yes	
+row_3	ENSG00000137267	TUBB2A	TUBB2A	protein_coding_tubulin beta 2A class IIa [Source:HGNC Symbol;Acc:HGNC:12412]	1699	2.988903760910034	0.24823862	Yes	
+row_4	ENSG00000127824	TUBA4A	TUBA4A	protein_coding_tubulin alpha 4a [Source:HGNC Symbol;Acc:HGNC:12407]	1708	2.9653255939483643	0.2872984	Yes	
+row_5	ENSG00000167552	TUBA1A	TUBA1A	protein_coding_tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	1828	2.7814559936523438	0.31859127	Yes	
+row_6	ENSG00000136869	TLR4	TLR4	protein_coding_toll like receptor 4 [Source:HGNC Symbol;Acc:HGNC:11850]	2080	2.6390321254730225	0.34166178	Yes	
+row_7	ENSG00000150093	ITGB1	ITGB1	protein_coding_integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	2988	1.8793232440948486	0.32317924	Yes	
+row_8	ENSG00000039068	CDH1	CDH1	protein_coding_cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	3007	1.8656020164489746	0.34713167	Yes	
+row_9	ENSG00000241553	ARPC4	ARPC4	protein_coding_actin related protein 2/3 complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:707]	3747	1.6829508543014526	0.3340908	Yes	
+row_10	ENSG00000092820	EZR	EZR	protein_coding_ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	3834	1.650901198387146	0.35192755	Yes	
+row_11	ENSG00000010810	FYN	FYN	protein_coding_FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	3922	1.61531400680542	0.36924303	Yes	
+row_12	ENSG00000070831	CDC42	CDC42	protein_coding_cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	4357	1.489254117012024	0.36824697	Yes	
+row_13	ENSG00000106299	WASL	WASL	protein_coding_Wiskott-Aldrich syndrome like [Source:HGNC Symbol;Acc:HGNC:12735]	4578	1.4326889514923096	0.37675738	Yes	
+row_14	ENSG00000187554	TLR5	TLR5	protein_coding_toll like receptor 5 [Source:HGNC Symbol;Acc:HGNC:11851]	4854	1.372296690940857	0.38182786	Yes	
+row_15	ENSG00000168036	CTNNB1	CTNNB1	protein_coding_catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	4889	1.36650550365448	0.39837453	Yes	
+row_16	ENSG00000158092	NCK1	NCK1	protein_coding_NCK adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:7664]	5053	1.3300511837005615	0.40825224	Yes	
+row_17	ENSG00000162704	ARPC5	ARPC5	protein_coding_actin related protein 2/3 complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:708]	5432	1.2852023839950562	0.40722656	Yes	
+row_18	ENSG00000197822	OCLN	OCLN	protein_coding_occludin [Source:HGNC Symbol;Acc:HGNC:8104]	5478	1.2765095233917236	0.4220488	Yes	
+row_19	ENSG00000180353	HCLS1	HCLS1	protein_coding_hematopoietic cell-specific Lyn substrate 1 [Source:HGNC Symbol;Acc:HGNC:4844]	5624	1.2528737783432007	0.4317628	Yes	
+row_20	ENSG00000137285	TUBB2B	TUBB2B	protein_coding_tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	5766	1.2315483093261719	0.4413849	Yes	
+row_21	ENSG00000075886	TUBA3D	TUBA3D	protein_coding_tubulin alpha 3d [Source:HGNC Symbol;Acc:HGNC:24071]	5768	1.2315483093261719	0.45771843	Yes	
+row_22	ENSG00000164924	YWHAZ	YWHAZ	protein_coding_tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	5930	1.2057390213012695	0.46603847	Yes	
+row_23	ENSG00000071051	NCK2	NCK2	protein_coding_NCK adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:7665]	6003	1.1957519054412842	0.47849217	Yes	
+row_24	ENSG00000104833	TUBB4A	TUBB4A	protein_coding_tubulin beta 4A class IVa [Source:HGNC Symbol;Acc:HGNC:20774]	6015	1.193847894668579	0.49384484	Yes	
+row_25	ENSG00000196230	TUBB	TUBB	protein_coding_tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	6421	1.1464813947677612	0.4896796	Yes	
+row_26	ENSG00000111057	KRT18	KRT18	protein_coding_keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	6428	1.145280361175537	0.5046259	Yes	
+row_27	ENSG00000134308	YWHAQ	YWHAQ	protein_coding_tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	6637	1.1199803352355957	0.5095521	Yes	
+row_28	ENSG00000163466	ARPC2	ARPC2	protein_coding_actin related protein 2/3 complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:705]	6673	1.11544668674469	0.5227114	Yes	
+row_29	ENSG00000111229	ARPC3	ARPC3	protein_coding_actin related protein 2/3 complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:706]	6747	1.1080656051635742	0.5339508	Yes	
+row_30	ENSG00000176014	TUBB6	TUBB6	protein_coding_tubulin beta 6 class V [Source:HGNC Symbol;Acc:HGNC:20776]	7341	1.0468610525131226	0.51944804	No	
+row_31	ENSG00000067560	RHOA	RHOA	protein_coding_ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	7444	1.033935546875	0.5283112	No	
+row_32	ENSG00000134318	ROCK2	ROCK2	protein_coding_Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	8276	0.9529837965965271	0.5011503	No	
+row_33	ENSG00000154229	PRKCA	PRKCA	protein_coding_protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	8794	0.9056498408317566	0.48841253	No	
+row_34	ENSG00000067900	ROCK1	ROCK1	protein_coding_Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	8943	0.8897885084152222	0.49315313	No	
+row_35	ENSG00000241685	ARPC1A	ARPC1A	protein_coding_actin related protein 2/3 complex subunit 1A [Source:HGNC Symbol;Acc:HGNC:703]	9622	0.8796772956848145	0.47235176	No	
+row_36	ENSG00000085733	CTTN	CTTN	protein_coding_cortactin [Source:HGNC Symbol;Acc:HGNC:3338]	10678	0.8167905211448669	0.43264106	No	
+row_37	ENSG00000130429	ARPC1B	ARPC1B	protein_coding_actin related protein 2/3 complex subunit 1B [Source:HGNC Symbol;Acc:HGNC:704]	12837	0.6597580313682556	0.33796525	No	
+row_38	ENSG00000115053	NCL	NCL	protein_coding_nucleolin [Source:HGNC Symbol;Acc:HGNC:7667]	13135	0.6411891579627991	0.33225626	No	
+row_39	ENSG00000188229	TUBB4B	TUBB4B	protein_coding_tubulin beta 4B class IVb [Source:HGNC Symbol;Acc:HGNC:20771]	13266	0.6297650337219238	0.33440104	No	
+row_40	ENSG00000167553	TUBA1C	TUBA1C	protein_coding_tubulin alpha 1c [Source:HGNC Symbol;Acc:HGNC:20768]	13619	0.6038594245910645	0.3255589	No	
+row_41	ENSG00000123416	TUBA1B	TUBA1B	protein_coding_tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]	14059	0.5792997479438782	0.31221938	No	
+row_42	ENSG00000136950	ARPC5L	ARPC5L	protein_coding_actin related protein 2/3 complex subunit 5 like [Source:HGNC Symbol;Acc:HGNC:23366]	16233	0.4398386478424072	0.21389924	No	
+row_43	ENSG00000116584	ARHGEF2	ARHGEF2	protein_coding_Rho/Rac guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:682]	17531	0.329731822013855	0.15610875	No	
+row_44	ENSG00000258947	TUBB3	TUBB3	protein_coding_tubulin beta 3 class III [Source:HGNC Symbol;Acc:HGNC:20772]	19421	0.15994134545326233	0.06768012	No	
+row_45	ENSG00000170458	CD14	CD14	protein_coding_CD14 molecule [Source:HGNC Symbol;Acc:HGNC:1628]	19861	0.1099596619606018	0.04809769	No	
+row_46	ENSG00000101162	TUBB1	TUBB1	protein_coding_tubulin beta 1 class VI [Source:HGNC Symbol;Acc:HGNC:16257]	20279	0.07330644130706787	0.029082362	No	
+row_47	ENSG00000183785	TUBA8	TUBA8	protein_coding_tubulin alpha 8 [Source:HGNC Symbol;Acc:HGNC:12410]	20292	0.07330644130706787	0.029482184	No	

@@ -1,0 +1,57 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000136244	IL6	IL6	protein_coding_interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	27	42.517738342285156	0.26830903	Yes	
+row_1	ENSG00000102001	CACNA1F	CACNA1F	protein_coding_calcium voltage-gated channel subunit alpha1 F [Source:HGNC Symbol;Acc:HGNC:1393]	308	12.315484046936035	0.33297324	Yes	
+row_2	ENSG00000164171	ITGA2	ITGA2	protein_coding_integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	629	8.031939506530762	0.3685573	Yes	
+row_3	ENSG00000111245	MYL2	MYL2	protein_coding_myosin light chain 2 [Source:HGNC Symbol;Acc:HGNC:7583]	732	7.037418365478516	0.4082898	Yes	
+row_4	ENSG00000161638	ITGA5	ITGA5	protein_coding_integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	748	6.784055233001709	0.45058796	Yes	
+row_5	ENSG00000092969	TGFB2	TGFB2	protein_coding_transforming growth factor beta 2 [Source:HGNC Symbol;Acc:HGNC:11768]	961	5.234739780426025	0.47361442	Yes	
+row_6	ENSG00000213949	ITGA1	ITGA1	protein_coding_integrin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6134]	979	5.06044340133667	0.5048873	Yes	
+row_7	ENSG00000198626	RYR2	RYR2	protein_coding_ryanodine receptor 2 [Source:HGNC Symbol;Acc:HGNC:10484]	1291	3.8328800201416016	0.51427686	Yes	
+row_8	ENSG00000115221	ITGB6	ITGB6	protein_coding_integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	1311	3.7758965492248535	0.5373085	Yes	
+row_9	ENSG00000232810	TNF	TNF	protein_coding_tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	1328	3.728156089782715	0.5601814	Yes	
+row_10	ENSG00000129991	TNNI3	TNNI3	protein_coding_troponin I3, cardiac type [Source:HGNC Symbol;Acc:HGNC:11947]	1372	3.518709659576416	0.5804313	Yes	
+row_11	ENSG00000140416	TPM1	TPM1	protein_coding_tropomyosin 1 [Source:HGNC Symbol;Acc:HGNC:12010]	1614	3.1322689056396484	0.5887352	Yes	
+row_12	ENSG00000132470	ITGB4	ITGB4	protein_coding_integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	1685	3.02132511138916	0.6045364	Yes	
+row_13	ENSG00000175084	DES	DES	protein_coding_desmin [Source:HGNC Symbol;Acc:HGNC:2770]	1938	2.6390321254730225	0.6091853	Yes	
+row_14	ENSG00000118194	TNNT2	TNNT2	protein_coding_troponin T2, cardiac type [Source:HGNC Symbol;Acc:HGNC:11949]	2075	2.6390321254730225	0.61939716	Yes	
+row_15	ENSG00000167460	TPM4	TPM4	protein_coding_tropomyosin 4 [Source:HGNC Symbol;Acc:HGNC:12013]	2351	2.353522777557373	0.6211326	Yes	
+row_16	ENSG00000115232	ITGA4	ITGA4	protein_coding_integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	2413	2.309152841567993	0.6328495	Yes	
+row_17	ENSG00000137809	ITGA11	ITGA11	protein_coding_integrin subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:6136]	2536	2.1991934776306152	0.64094377	Yes	
+row_18	ENSG00000150093	ITGB1	ITGB1	protein_coding_integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	2988	1.8793232440948486	0.6312319	No	
+row_19	ENSG00000196569	LAMA2	LAMA2	protein_coding_laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	3665	1.7283071279525757	0.6097721	No	
+row_20	ENSG00000105329	TGFB1	TGFB1	protein_coding_transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	3785	1.6674481630325317	0.61463845	No	
+row_21	ENSG00000091409	ITGA6	ITGA6	protein_coding_integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	3923	1.615247368812561	0.6183106	No	
+row_22	ENSG00000163069	SGCB	SGCB	protein_coding_sarcoglycan beta [Source:HGNC Symbol;Acc:HGNC:10806]	3988	1.5945603847503662	0.6253524	No	
+row_23	ENSG00000106617	PRKAG2	PRKAG2	protein_coding_protein kinase AMP-activated non-catalytic subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:9386]	4003	1.5905466079711914	0.6347666	No	
+row_24	ENSG00000162409	PRKAA2	PRKAA2	protein_coding_protein kinase AMP-activated catalytic subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9377]	4549	1.4412217140197754	0.61776876	No	
+row_25	ENSG00000160789	LMNA	LMNA	protein_coding_lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	4964	1.3515608310699463	0.6064848	No	
+row_26	ENSG00000138448	ITGAV	ITGAV	protein_coding_integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	4994	1.3463133573532104	0.61363095	No	
+row_27	ENSG00000134571	MYBPC3	MYBPC3	protein_coding_myosin binding protein C, cardiac [Source:HGNC Symbol;Acc:HGNC:7551]	5171	1.3195159435272217	0.6135575	No	
+row_28	ENSG00000131791	PRKAB2	PRKAB2	protein_coding_protein kinase AMP-activated non-catalytic subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:9379]	5269	1.3189966678619385	0.61726946	No	
+row_29	ENSG00000102119	EMD	EMD	protein_coding_emerin [Source:HGNC Symbol;Acc:HGNC:3331]	5621	1.2531253099441528	0.6083825	No	
+row_30	ENSG00000182389	CACNB4	CACNB4	protein_coding_calcium voltage-gated channel auxiliary subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:1404]	5975	1.1995600461959839	0.5990601	No	
+row_31	ENSG00000198467	TPM2	TPM2	protein_coding_tropomyosin 2 [Source:HGNC Symbol;Acc:HGNC:12011]	6312	1.1604254245758057	0.5903048	No	
+row_32	ENSG00000119699	TGFB3	TGFB3	protein_coding_transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	6812	1.0995967388153076	0.57334673	No	
+row_33	ENSG00000005884	ITGA3	ITGA3	protein_coding_integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	6907	1.0932499170303345	0.57577103	No	
+row_34	ENSG00000153956	CACNA2D1	CACNA2D1	protein_coding_calcium voltage-gated channel auxiliary subunit alpha2delta 1 [Source:HGNC Symbol;Acc:HGNC:1399]	7158	1.0639907121658325	0.5705285	No	
+row_35	ENSG00000132356	PRKAA1	PRKAA1	protein_coding_protein kinase AMP-activated catalytic subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9376]	7301	1.0513267517089844	0.57038504	No	
+row_36	ENSG00000143549	TPM3	TPM3	protein_coding_tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]	7505	1.027530312538147	0.5671653	No	
+row_37	ENSG00000005961	ITGA2B	ITGA2B	protein_coding_integrin subunit alpha 2b [Source:HGNC Symbol;Acc:HGNC:6138]	8062	0.9722749590873718	0.5466664	No	
+row_38	ENSG00000082781	ITGB5	ITGB5	protein_coding_integrin subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:6160]	8097	0.96964430809021	0.5511843	No	
+row_39	ENSG00000114854	TNNC1	TNNC1	protein_coding_troponin C1, slow skeletal and cardiac type [Source:HGNC Symbol;Acc:HGNC:11943]	8185	0.9605125784873962	0.5531027	No	
+row_40	ENSG00000181929	PRKAG1	PRKAG1	protein_coding_protein kinase AMP-activated non-catalytic subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:9385]	8265	0.9539117217063904	0.55536276	No	
+row_41	ENSG00000183023	SLC8A1	SLC8A1	protein_coding_solute carrier family 8 member A1 [Source:HGNC Symbol;Acc:HGNC:11068]	9649	0.8796772956848145	0.4946162	No	
+row_42	ENSG00000111725	PRKAB1	PRKAB1	protein_coding_protein kinase AMP-activated non-catalytic subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:9378]	10157	0.8625296354293823	0.47577128	No	
+row_43	ENSG00000167535	CACNB3	CACNB3	protein_coding_calcium voltage-gated channel auxiliary subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:1403]	10787	0.8082749843597412	0.45073155	No	
+row_44	ENSG00000198947	DMD	DMD	protein_coding_dystrophin [Source:HGNC Symbol;Acc:HGNC:2928]	11582	0.7540091276168823	0.41743484	No	
+row_45	ENSG00000075461	CACNG4	CACNG4	protein_coding_calcium voltage-gated channel auxiliary subunit gamma 4 [Source:HGNC Symbol;Acc:HGNC:1408]	11944	0.7273309826850891	0.4047343	No	
+row_46	ENSG00000135424	ITGA7	ITGA7	protein_coding_integrin subunit alpha 7 [Source:HGNC Symbol;Acc:HGNC:6143]	12851	0.6597579717636108	0.36546877	No	
+row_47	ENSG00000174437	ATP2A2	ATP2A2	protein_coding_ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:812]	13067	0.6459396481513977	0.35925388	No	
+row_48	ENSG00000173402	DAG1	DAG1	protein_coding_dystroglycan 1 [Source:HGNC Symbol;Acc:HGNC:2666]	13349	0.6247314810752869	0.34973937	No	
+row_49	ENSG00000105855	ITGB8	ITGB8	protein_coding_integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	15017	0.5104482173919678	0.27303174	No	
+row_50	ENSG00000157388	CACNA1D	CACNA1D	protein_coding_calcium voltage-gated channel subunit alpha1 D [Source:HGNC Symbol;Acc:HGNC:1391]	16593	0.4105161130428314	0.2001025	No	
+row_51	ENSG00000067191	CACNB1	CACNB1	protein_coding_calcium voltage-gated channel auxiliary subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:1401]	17307	0.35187092423439026	0.16814034	No	
+row_52	ENSG00000155657	TTN	TTN	protein_coding_titin [Source:HGNC Symbol;Acc:HGNC:12403]	17789	0.2990036606788635	0.14696898	No	
+row_53	ENSG00000165995	CACNB2	CACNB2	protein_coding_calcium voltage-gated channel auxiliary subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:1402]	18747	0.2199193239212036	0.1024686	No	
+row_54	ENSG00000144668	ITGA9	ITGA9	protein_coding_integrin subunit alpha 9 [Source:HGNC Symbol;Acc:HGNC:6145]	20056	0.08796773105859756	0.04029861	No	
+row_55	ENSG00000007402	CACNA2D2	CACNA2D2	protein_coding_calcium voltage-gated channel auxiliary subunit alpha2delta 2 [Source:HGNC Symbol;Acc:HGNC:1400]	20277	0.07330644130706787	0.030212898	No	

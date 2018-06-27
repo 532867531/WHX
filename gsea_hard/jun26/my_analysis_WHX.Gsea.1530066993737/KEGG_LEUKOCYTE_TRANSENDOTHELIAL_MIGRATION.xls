@@ -1,0 +1,88 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000101335	MYL9	MYL9	protein_coding_myosin light chain 9 [Source:HGNC Symbol;Acc:HGNC:15754]	124	21.112255096435547	0.11865911	Yes	
+row_1	ENSG00000141968	VAV1	VAV1	protein_coding_vav guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:12657]	233	14.95451545715332	0.20174076	Yes	
+row_2	ENSG00000074966	TXK	TXK	protein_coding_TXK tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:12434]	457	9.676450729370117	0.24814545	Yes	
+row_3	ENSG00000113946	CLDN16	CLDN16	protein_coding_claudin 16 [Source:HGNC Symbol;Acc:HGNC:2037]	662	7.917096138000488	0.28507814	Yes	
+row_4	ENSG00000111245	MYL2	MYL2	protein_coding_myosin light chain 2 [Source:HGNC Symbol;Acc:HGNC:7583]	732	7.037418365478516	0.3233024	Yes	
+row_5	ENSG00000116701	NCF2	NCF2	protein_coding_neutrophil cytosolic factor 2 [Source:HGNC Symbol;Acc:HGNC:7661]	882	5.571290016174316	0.34903058	Yes	
+row_6	ENSG00000163347	CLDN1	CLDN1	protein_coding_claudin 1 [Source:HGNC Symbol;Acc:HGNC:2032]	1083	4.41229772567749	0.36546838	Yes	
+row_7	ENSG00000087245	MMP2	MMP2	protein_coding_matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	1279	3.94598126411438	0.3793939	Yes	
+row_8	ENSG00000035403	VCL	VCL	protein_coding_vinculin [Source:HGNC Symbol;Acc:HGNC:12665]	1517	3.5015013217926025	0.3886787	Yes	
+row_9	ENSG00000160255	ITGB2	ITGB2	protein_coding_integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	1537	3.3587679862976074	0.40759122	Yes	
+row_10	ENSG00000128340	RAC2	RAC2	protein_coding_Rac family small GTPase 2 [Source:HGNC Symbol;Acc:HGNC:9802]	1836	2.7656872272491455	0.40960315	Yes	
+row_11	ENSG00000101608	MYL12A	MYL12A	protein_coding_myosin light chain 12A [Source:HGNC Symbol;Acc:HGNC:16701]	1902	2.642502784729004	0.42207864	Yes	
+row_12	ENSG00000169896	ITGAM	ITGAM	protein_coding_integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	2177	2.6076149940490723	0.42431024	Yes	
+row_13	ENSG00000120899	PTK2B	PTK2B	protein_coding_protein tyrosine kinase 2 beta [Source:HGNC Symbol;Acc:HGNC:9612]	2343	2.366311550140381	0.43035266	Yes	
+row_14	ENSG00000115232	ITGA4	ITGA4	protein_coding_integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	2413	2.309152841567993	0.4406684	Yes	
+row_15	ENSG00000213445	SIPA1	SIPA1	protein_coding_signal-induced proliferation-associated 1 [Source:HGNC Symbol;Acc:HGNC:10885]	2484	2.2312846183776855	0.45047653	Yes	
+row_16	ENSG00000100985	MMP9	MMP9	protein_coding_matrix metallopeptidase 9 [Source:HGNC Symbol;Acc:HGNC:7176]	2529	2.1991934776306152	0.46134397	Yes	
+row_17	ENSG00000158769	F11R	F11R	protein_coding_F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	2920	1.9341719150543213	0.4540293	Yes	
+row_18	ENSG00000150093	ITGB1	ITGB1	protein_coding_integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	2988	1.8793232440948486	0.46190405	Yes	
+row_19	ENSG00000124181	PLCG1	PLCG1	protein_coding_phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	3150	1.7728880643844604	0.4646359	Yes	
+row_20	ENSG00000162692	VCAM1	VCAM1	protein_coding_vascular cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:12663]	3200	1.759354829788208	0.47266707	Yes	
+row_21	ENSG00000118680	MYL12B	MYL12B	protein_coding_myosin light chain 12B [Source:HGNC Symbol;Acc:HGNC:29827]	3768	1.6728476285934448	0.45530888	Yes	
+row_22	ENSG00000065135	GNAI3	GNAI3	protein_coding_G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387]	3806	1.6601275205612183	0.46333072	Yes	
+row_23	ENSG00000127955	GNAI1	GNAI1	protein_coding_G protein subunit alpha i1 [Source:HGNC Symbol;Acc:HGNC:4384]	3819	1.6553993225097656	0.47252533	Yes	
+row_24	ENSG00000092820	EZR	EZR	protein_coding_ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	3834	1.650901198387146	0.48159733	Yes	
+row_25	ENSG00000197943	PLCG2	PLCG2	protein_coding_phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	4000	1.591286301612854	0.4830652	Yes	
+row_26	ENSG00000160293	VAV2	VAV2	protein_coding_vav guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:12658]	4278	1.5118924379348755	0.47868523	Yes	
+row_27	ENSG00000070831	CDC42	CDC42	protein_coding_cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	4357	1.489254117012024	0.4837293	Yes	
+row_28	ENSG00000198561	CTNND1	CTNND1	protein_coding_catenin delta 1 [Source:HGNC Symbol;Acc:HGNC:2515]	4415	1.4668090343475342	0.48964947	Yes	
+row_29	ENSG00000125753	VASP	VASP	protein_coding_vasodilator stimulated phosphoprotein [Source:HGNC Symbol;Acc:HGNC:12652]	4486	1.462935209274292	0.49492243	Yes	
+row_30	ENSG00000089159	PXN	PXN	protein_coding_paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	4568	1.4368174076080322	0.4995129	Yes	
+row_31	ENSG00000156284	CLDN8	CLDN8	protein_coding_claudin 8 [Source:HGNC Symbol;Acc:HGNC:2050]	4641	1.4210171699523926	0.5044424	Yes	
+row_32	ENSG00000127314	RAP1B	RAP1B	protein_coding_RAP1B, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9857]	4763	1.3908957242965698	0.5068407	Yes	
+row_33	ENSG00000168036	CTNNB1	CTNNB1	protein_coding_catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	4889	1.36650550365448	0.5089029	Yes	
+row_34	ENSG00000147065	MSN	MSN	protein_coding_moesin [Source:HGNC Symbol;Acc:HGNC:7373]	4900	1.3628208637237549	0.5164666	Yes	
+row_35	ENSG00000044115	CTNNA1	CTNNA1	protein_coding_catenin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2509]	4916	1.3593815565109253	0.5237699	Yes	
+row_36	ENSG00000179776	CDH5	CDH5	protein_coding_cadherin 5 [Source:HGNC Symbol;Acc:HGNC:1764]	4977	1.3496026992797852	0.52885425	Yes	
+row_37	ENSG00000189143	CLDN4	CLDN4	protein_coding_claudin 4 [Source:HGNC Symbol;Acc:HGNC:2046]	5083	1.32426118850708	0.53162766	Yes	
+row_38	ENSG00000213937	CLDN9	CLDN9	protein_coding_claudin 9 [Source:HGNC Symbol;Acc:HGNC:2051]	5428	1.285682201385498	0.5226946	Yes	
+row_39	ENSG00000197822	OCLN	OCLN	protein_coding_occludin [Source:HGNC Symbol;Acc:HGNC:8104]	5478	1.2765095233917236	0.5278758	Yes	
+row_40	ENSG00000050820	BCAR1	BCAR1	protein_coding_BCAR1, Cas family scaffolding protein [Source:HGNC Symbol;Acc:HGNC:971]	5542	1.2646780014038086	0.5323147	Yes	
+row_41	ENSG00000002586	CD99	CD99	protein_coding_CD99 molecule (Xg blood group) [Source:HGNC Symbol;Acc:HGNC:7082]	5646	1.2496079206466675	0.53474355	Yes	
+row_42	ENSG00000171608	PIK3CD	PIK3CD	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	5681	1.2452574968338013	0.5404607	Yes	
+row_43	ENSG00000136238	RAC1	RAC1	protein_coding_Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	5992	1.1978157758712769	0.53264195	No	
+row_44	ENSG00000106404	CLDN15	CLDN15	protein_coding_claudin 15 [Source:HGNC Symbol;Acc:HGNC:2036]	6666	1.1165134906768799	0.506909	No	
+row_45	ENSG00000171217	CLDN20	CLDN20	protein_coding_claudin 20 [Source:HGNC Symbol;Acc:HGNC:2042]	6722	1.1111713647842407	0.5108261	No	
+row_46	ENSG00000100852	ARHGAP5	ARHGAP5	protein_coding_Rho GTPase activating protein 5 [Source:HGNC Symbol;Acc:HGNC:675]	7165	1.0629632472991943	0.4958717	No	
+row_47	ENSG00000121879	PIK3CA	PIK3CA	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	7182	1.060787320137024	0.5013645	No	
+row_48	ENSG00000169398	PTK2	PTK2	protein_coding_protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	7318	1.0488567352294922	0.5010715	No	
+row_49	ENSG00000116473	RAP1A	RAP1A	protein_coding_RAP1A, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9855]	7361	1.0446168184280396	0.5052202	No	
+row_50	ENSG00000067560	RHOA	RHOA	protein_coding_ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	7444	1.033935546875	0.5073846	No	
+row_51	ENSG00000114353	GNAI2	GNAI2	protein_coding_G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	7610	1.0169737339019775	0.5054626	No	
+row_52	ENSG00000090339	ICAM1	ICAM1	protein_coding_intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344]	7616	1.0158436298370361	0.5112184	No	
+row_53	ENSG00000134318	ROCK2	ROCK2	protein_coding_Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	8276	0.9529837965965271	0.48519266	No	
+row_54	ENSG00000079337	RAPGEF3	RAPGEF3	protein_coding_Rap guanine nucleotide exchange factor 3 [Source:HGNC Symbol;Acc:HGNC:16629]	8714	0.9130828380584717	0.4695937	No	
+row_55	ENSG00000154229	PRKCA	PRKCA	protein_coding_protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	8794	0.9056498408317566	0.47114503	No	
+row_56	ENSG00000067900	ROCK1	ROCK1	protein_coding_Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	8943	0.8897885084152222	0.46928877	No	
+row_57	ENSG00000154096	THY1	THY1	protein_coding_Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	9071	0.879677414894104	0.46838143	No	
+row_58	ENSG00000184113	CLDN5	CLDN5	protein_coding_claudin 5 [Source:HGNC Symbol;Acc:HGNC:2047]	9114	0.879677414894104	0.4715565	No	
+row_59	ENSG00000100365	NCF4	NCF4	protein_coding_neutrophil cytosolic factor 4 [Source:HGNC Symbol;Acc:HGNC:7662]	9625	0.8796772956848145	0.4522543	No	
+row_60	ENSG00000184697	CLDN6	CLDN6	protein_coding_claudin 6 [Source:HGNC Symbol;Acc:HGNC:2048]	9721	0.8796772956848145	0.45288387	No	
+row_61	ENSG00000126583	PRKCG	PRKCG	protein_coding_protein kinase C gamma [Source:HGNC Symbol;Acc:HGNC:9402]	9996	0.8796772956848145	0.44491637	No	
+row_62	ENSG00000266094	RASSF5	RASSF5	protein_coding_Ras association domain family member 5 [Source:HGNC Symbol;Acc:HGNC:17609]	10741	0.8120098114013672	0.41397607	No	
+row_63	ENSG00000051382	PIK3CB	PIK3CB	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	10985	0.7928824424743652	0.40698513	No	
+row_64	ENSG00000179295	PTPN11	PTPN11	protein_coding_protein tyrosine phosphatase, non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	11229	0.7759680151939392	0.39989436	No	
+row_65	ENSG00000156711	MAPK13	MAPK13	protein_coding_mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	11237	0.7754083871841431	0.404135	No	
+row_66	ENSG00000091428	RAPGEF4	RAPGEF4	protein_coding_Rap guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:16626]	11450	0.7623869776725769	0.39845294	No	
+row_67	ENSG00000130396	AFDN	AFDN	protein_coding_afadin, adherens junction formation factor [Source:HGNC Symbol;Acc:HGNC:7137]	11652	0.747795045375824	0.39321306	No	
+row_68	ENSG00000112062	MAPK14	MAPK14	protein_coding_mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	12156	0.7120212316513062	0.37325746	No	
+row_69	ENSG00000149564	ESAM	ESAM	protein_coding_endothelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:17474]	12522	0.68419349193573	0.35976553	No	
+row_70	ENSG00000181885	CLDN7	CLDN7	protein_coding_claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	12987	0.6520991325378418	0.34132934	No	
+row_71	ENSG00000215375	MYL5	MYL5	protein_coding_myosin light chain 5 [Source:HGNC Symbol;Acc:HGNC:7586]	13337	0.6259242296218872	0.3282619	No	
+row_72	ENSG00000253958	CLDN23	CLDN23	protein_coding_claudin 23 [Source:HGNC Symbol;Acc:HGNC:17591]	13373	0.6231047511100769	0.3302588	No	
+row_73	ENSG00000185386	MAPK11	MAPK11	protein_coding_mitogen-activated protein kinase 11 [Source:HGNC Symbol;Acc:HGNC:6873]	13668	0.6000899076461792	0.31968045	No	
+row_74	ENSG00000160007	ARHGAP35	ARHGAP35	protein_coding_Rho GTPase activating protein 35 [Source:HGNC Symbol;Acc:HGNC:4591]	14071	0.5782027244567871	0.30378583	No	
+row_75	ENSG00000166086	JAM3	JAM3	protein_coding_junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	14448	0.5497983694076538	0.28897232	No	
+row_76	ENSG00000051523	CYBA	CYBA	protein_coding_cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	14761	0.5278064012527466	0.27710283	No	
+row_77	ENSG00000005844	ITGAL	ITGAL	protein_coding_integrin subunit alpha L [Source:HGNC Symbol;Acc:HGNC:6148]	15841	0.4398386478424072	0.22787628	No	
+row_78	ENSG00000180209	MYLPF	MYLPF	protein_coding_myosin light chain, phosphorylatable, fast skeletal muscle [Source:HGNC Symbol;Acc:HGNC:29824]	16004	0.4398386478424072	0.2226918	No	
+row_79	ENSG00000188130	MAPK12	MAPK12	protein_coding_mitogen-activated protein kinase 12 [Source:HGNC Symbol;Acc:HGNC:6874]	16434	0.4268881380558014	0.20460731	No	
+row_80	ENSG00000165215	CLDN3	CLDN3	protein_coding_claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	16486	0.42071524262428284	0.20464112	No	
+row_81	ENSG00000164007	CLDN19	CLDN19	protein_coding_claudin 19 [Source:HGNC Symbol;Acc:HGNC:2040]	17239	0.35187095403671265	0.17060065	No	
+row_82	ENSG00000145675	PIK3R1	PIK3R1	protein_coding_phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	18278	0.2699635922908783	0.1223406	No	
+row_83	ENSG00000134215	VAV3	VAV3	protein_coding_vav guanine nucleotide exchange factor 3 [Source:HGNC Symbol;Acc:HGNC:12659]	18376	0.2592658996582031	0.11921215	No	
+row_84	ENSG00000105851	PIK3CG	PIK3CG	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]	18993	0.2030024528503418	0.09082485	No	
+row_85	ENSG00000165168	CYBB	CYBB	protein_coding_cytochrome b-245 beta chain [Source:HGNC Symbol;Acc:HGNC:2578]	19814	0.11729031801223755	0.05213384	No	
+row_86	ENSG00000117461	PIK3R3	PIK3R3	protein_coding_phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	20570	0.05307254195213318	0.016185632	No	

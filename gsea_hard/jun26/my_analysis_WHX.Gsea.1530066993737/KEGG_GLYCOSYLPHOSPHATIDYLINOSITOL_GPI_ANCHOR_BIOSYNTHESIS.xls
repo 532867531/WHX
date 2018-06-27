@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000124155	PIGT	PIGT	protein_coding_phosphatidylinositol glycan anchor biosynthesis class T [Source:HGNC Symbol;Acc:HGNC:14938]	5270	1.3179433345794678	-0.16775422	Yes	
+row_1	ENSG00000069943	PIGB	PIGB	protein_coding_phosphatidylinositol glycan anchor biosynthesis class B [Source:HGNC Symbol;Acc:HGNC:8959]	6773	1.1039087772369385	-0.16882102	Yes	
+row_2	ENSG00000108474	PIGL	PIGL	protein_coding_phosphatidylinositol glycan anchor biosynthesis class L [Source:HGNC Symbol;Acc:HGNC:8966]	7054	1.0763111114501953	-0.11314548	Yes	
+row_3	ENSG00000136908	DPM2	DPM2	protein_coding_dolichyl-phosphate mannosyltransferase subunit 2, regulatory [Source:HGNC Symbol;Acc:HGNC:3006]	7568	1.0219780206680298	-0.07211417	Yes	
+row_4	ENSG00000197121	PGAP1	PGAP1	protein_coding_post-GPI attachment to proteins 1 [Source:HGNC Symbol;Acc:HGNC:25712]	8221	0.9576045274734497	-0.041870482	Yes	
+row_5	ENSG00000135845	PIGC	PIGC	protein_coding_phosphatidylinositol glycan anchor biosynthesis class C [Source:HGNC Symbol;Acc:HGNC:8960]	8625	0.9219018816947937	-0.001995361	Yes	
+row_6	ENSG00000174227	PIGG	PIGG	protein_coding_phosphatidylinositol glycan anchor biosynthesis class G [Source:HGNC Symbol;Acc:HGNC:25985]	10729	0.8122827410697937	-0.050558165	Yes	
+row_7	ENSG00000165282	PIGO	PIGO	protein_coding_phosphatidylinositol glycan anchor biosynthesis class O [Source:HGNC Symbol;Acc:HGNC:23215]	10759	0.8102805614471436	6.0999766E-5	Yes	
+row_8	ENSG00000185808	PIGP	PIGP	protein_coding_phosphatidylinositol glycan anchor biosynthesis class P [Source:HGNC Symbol;Acc:HGNC:3046]	11085	0.78670334815979	0.034993332	Yes	
+row_9	ENSG00000165195	PIGA	PIGA	protein_coding_phosphatidylinositol glycan anchor biosynthesis class A [Source:HGNC Symbol;Acc:HGNC:8957]	11592	0.7529847025871277	0.05909451	Yes	
+row_10	ENSG00000197563	PIGN	PIGN	protein_coding_phosphatidylinositol glycan anchor biosynthesis class N [Source:HGNC Symbol;Acc:HGNC:8967]	11958	0.7253831028938293	0.08817567	Yes	
+row_11	ENSG00000060642	PIGV	PIGV	protein_coding_phosphatidylinositol glycan anchor biosynthesis class V [Source:HGNC Symbol;Acc:HGNC:26031]	12045	0.7191362380981445	0.13021538	Yes	
+row_12	ENSG00000101464	PIGU	PIGU	protein_coding_phosphatidylinositol glycan anchor biosynthesis class U [Source:HGNC Symbol;Acc:HGNC:15791]	12307	0.7037419080734253	0.16288738	Yes	
+row_13	ENSG00000087111	PIGS	PIGS	protein_coding_phosphatidylinositol glycan anchor biosynthesis class S [Source:HGNC Symbol;Acc:HGNC:14937]	13090	0.6444962620735168	0.16680938	Yes	
+row_14	ENSG00000142892	PIGK	PIGK	protein_coding_phosphatidylinositol glycan anchor biosynthesis class K [Source:HGNC Symbol;Acc:HGNC:8965]	13523	0.6126983761787415	0.18544969	Yes	
+row_15	ENSG00000007541	PIGQ	PIGQ	protein_coding_phosphatidylinositol glycan anchor biosynthesis class Q [Source:HGNC Symbol;Acc:HGNC:14135]	14511	0.5455922484397888	0.17320742	No	
+row_16	ENSG00000100564	PIGH	PIGH	protein_coding_phosphatidylinositol glycan anchor biosynthesis class H [Source:HGNC Symbol;Acc:HGNC:8964]	15254	0.4917881488800049	0.1692432	No	
+row_17	ENSG00000163964	PIGX	PIGX	protein_coding_phosphatidylinositol glycan anchor biosynthesis class X [Source:HGNC Symbol;Acc:HGNC:26046]	16565	0.41282495856285095	0.13301289	No	
+row_18	ENSG00000151665	PIGF	PIGF	protein_coding_phosphatidylinositol glycan anchor biosynthesis class F [Source:HGNC Symbol;Acc:HGNC:8962]	16587	0.4108137786388397	0.15837538	No	
+row_19	ENSG00000197858	GPAA1	GPAA1	protein_coding_glycosylphosphatidylinositol anchor attachment 1 [Source:HGNC Symbol;Acc:HGNC:4446]	18251	0.27312853932380676	0.09627578	No	
+row_20	ENSG00000119227	PIGZ	PIGZ	protein_coding_phosphatidylinositol glycan anchor biosynthesis class Z [Source:HGNC Symbol;Acc:HGNC:30596]	18391	0.25746652483940125	0.10614543	No	
+row_21	ENSG00000112293	GPLD1	GPLD1	protein_coding_glycosylphosphatidylinositol specific phospholipase D1 [Source:HGNC Symbol;Acc:HGNC:4459]	19993	0.09510025382041931	0.035587873	No	
+row_22	ENSG00000143315	PIGM	PIGM	protein_coding_phosphatidylinositol glycan anchor biosynthesis class M [Source:HGNC Symbol;Acc:HGNC:18858]	20006	0.09046326577663422	0.040819645	No	
+row_23	ENSG00000277161	PIGW	PIGW	protein_coding_phosphatidylinositol glycan anchor biosynthesis class W [Source:HGNC Symbol;Acc:HGNC:23213]	20755	0.03545299172401428	0.0072783013	No	

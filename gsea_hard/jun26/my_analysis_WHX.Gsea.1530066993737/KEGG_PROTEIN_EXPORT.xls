@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000132432	SEC61G	SEC61G	protein_coding_Sec61 translocon gamma subunit [Source:HGNC Symbol;Acc:HGNC:18277]	4985	1.3477625846862793	-0.14793213	No	
+row_1	ENSG00000140319	SRP14	SRP14	protein_coding_signal recognition particle 14 [Source:HGNC Symbol;Acc:HGNC:11299]	8364	0.9458327293395996	-0.24598432	Yes	
+row_2	ENSG00000140612	SEC11A	SEC11A	protein_coding_SEC11 homolog A, signal peptidase complex subunit [Source:HGNC Symbol;Acc:HGNC:17718]	8511	0.9316942095756531	-0.19023636	Yes	
+row_3	ENSG00000167881	SRP68	SRP68	protein_coding_signal recognition particle 68 [Source:HGNC Symbol;Acc:HGNC:11302]	8635	0.9212902188301086	-0.13408771	Yes	
+row_4	ENSG00000184903	IMMP2L	IMMP2L	protein_coding_inner mitochondrial membrane peptidase subunit 2 [Source:HGNC Symbol;Acc:HGNC:14598]	9614	0.8796773552894592	-0.12167968	Yes	
+row_5	ENSG00000155463	OXA1L	OXA1L	protein_coding_OXA1L, mitochondrial inner membrane protein [Source:HGNC Symbol;Acc:HGNC:8526]	10978	0.793292760848999	-0.13352291	Yes	
+row_6	ENSG00000174780	SRP72	SRP72	protein_coding_signal recognition particle 72 [Source:HGNC Symbol;Acc:HGNC:11303]	11091	0.7860642671585083	-0.085953444	Yes	
+row_7	ENSG00000100883	SRP54	SRP54	protein_coding_signal recognition particle 54 [Source:HGNC Symbol;Acc:HGNC:11301]	11727	0.7425603866577148	-0.06635535	Yes	
+row_8	ENSG00000118363	SPCS2	SPCS2	protein_coding_signal peptidase complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:28962]	11901	0.7309548854827881	-0.02541761	Yes	
+row_9	ENSG00000008952	SEC62	SEC62	protein_coding_SEC62 homolog, preprotein translocation factor [Source:HGNC Symbol;Acc:HGNC:11846]	12104	0.7149791121482849	0.013055794	Yes	
+row_10	ENSG00000143742	SRP9	SRP9	protein_coding_signal recognition particle 9 [Source:HGNC Symbol;Acc:HGNC:11304]	12489	0.687089741230011	0.04093679	Yes	
+row_11	ENSG00000106803	SEC61B	SEC61B	protein_coding_Sec61 translocon beta subunit [Source:HGNC Symbol;Acc:HGNC:16993]	13647	0.6018844842910767	0.026068004	Yes	
+row_12	ENSG00000182934	SRPRA	SRPRA	protein_coding_SRP receptor alpha subunit [Source:HGNC Symbol;Acc:HGNC:11307]	13756	0.5914320349693298	0.060722806	Yes	
+row_13	ENSG00000025796	SEC63	SEC63	protein_coding_SEC63 homolog, protein translocation regulator [Source:HGNC Symbol;Acc:HGNC:21082]	14388	0.5538709163665771	0.06780641	Yes	
+row_14	ENSG00000114902	SPCS1	SPCS1	protein_coding_signal peptidase complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:23401]	14422	0.5508122444152832	0.103317045	Yes	
+row_15	ENSG00000065665	SEC61A2	SEC61A2	protein_coding_Sec61 translocon alpha 2 subunit [Source:HGNC Symbol;Acc:HGNC:17702]	14717	0.5293633341789246	0.12488634	Yes	
+row_16	ENSG00000129128	SPCS3	SPCS3	protein_coding_signal peptidase complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:26212]	15655	0.4555274248123169	0.11069601	Yes	
+row_17	ENSG00000166562	SEC11C	SEC11C	protein_coding_SEC11 homolog C, signal peptidase complex subunit [Source:HGNC Symbol;Acc:HGNC:23400]	16320	0.43748658895492554	0.10836242	Yes	
+row_18	ENSG00000144867	SRPRB	SRPRB	protein_coding_SRP receptor beta subunit [Source:HGNC Symbol;Acc:HGNC:24085]	16543	0.41568779945373535	0.12572445	Yes	
+row_19	ENSG00000058262	SEC61A1	SEC61A1	protein_coding_Sec61 translocon alpha 1 subunit [Source:HGNC Symbol;Acc:HGNC:18276]	16703	0.4011783003807068	0.14512597	Yes	
+row_20	ENSG00000148950	IMMP1L	IMMP1L	protein_coding_inner mitochondrial membrane peptidase subunit 1 [Source:HGNC Symbol;Acc:HGNC:26317]	17172	0.35605987906455994	0.14669397	Yes	
+row_21	ENSG00000044574	HSPA5	HSPA5	protein_coding_heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	17322	0.34941762685775757	0.16308883	Yes	
+row_22	ENSG00000153037	SRP19	SRP19	protein_coding_signal recognition particle 19 [Source:HGNC Symbol;Acc:HGNC:11300]	19704	0.1264895498752594	0.057601143	Yes	

@@ -1,0 +1,48 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000106633	GCK	GCK	protein_coding_glucokinase [Source:HGNC Symbol;Acc:HGNC:4195]	144	19.3528995513916	0.23008534	Yes	
+row_1	ENSG00000111674	ENO2	ENO2	protein_coding_enolase 2 [Source:HGNC Symbol;Acc:HGNC:3353]	959	5.250063896179199	0.25535542	Yes	
+row_2	ENSG00000159399	HK2	HK2	protein_coding_hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923]	1215	4.184139251708984	0.294369	Yes	
+row_3	ENSG00000165140	FBP1	FBP1	protein_coding_fructose-bisphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3606]	1474	3.518709182739258	0.3250902	Yes	
+row_4	ENSG00000137124	ALDH1B1	ALDH1B1	protein_coding_aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	1616	3.1254820823669434	0.35660464	Yes	
+row_5	ENSG00000134333	LDHA	LDHA	protein_coding_lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	1858	2.7340683937072754	0.37853232	Yes	
+row_6	ENSG00000109107	ALDOC	ALDOC	protein_coding_aldolase, fructose-bisphosphate C [Source:HGNC Symbol;Acc:HGNC:418]	2437	2.2859842777252197	0.3788184	Yes	
+row_7	ENSG00000067057	PFKP	PFKP	protein_coding_phosphofructokinase, platelet [Source:HGNC Symbol;Acc:HGNC:8878]	2651	2.117072343826294	0.3945328	Yes	
+row_8	ENSG00000102144	PGK1	PGK1	protein_coding_phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	2690	2.088507652282715	0.4182863	Yes	
+row_9	ENSG00000169299	PGM2	PGM2	protein_coding_phosphoglucomutase 2 [Source:HGNC Symbol;Acc:HGNC:8906]	2699	2.08292555809021	0.4434095	Yes	
+row_10	ENSG00000184254	ALDH1A3	ALDH1A3	protein_coding_aldehyde dehydrogenase 1 family member A3 [Source:HGNC Symbol;Acc:HGNC:409]	2716	2.0708978176116943	0.46800193	Yes	
+row_11	ENSG00000226784	PGAM4	PGAM4	protein_coding_phosphoglycerate mutase family member 4 [Source:HGNC Symbol;Acc:HGNC:21731]	2913	1.9352900981903076	0.48230523	Yes	
+row_12	ENSG00000149925	ALDOA	ALDOA	protein_coding_aldolase, fructose-bisphosphate A [Source:HGNC Symbol;Acc:HGNC:414]	3143	1.7761149406433105	0.49307743	Yes	
+row_13	ENSG00000111640	GAPDH	GAPDH	protein_coding_glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	3152	1.771079182624817	0.5143819	Yes	
+row_14	ENSG00000172955	ADH6	ADH6	protein_coding_alcohol dehydrogenase 6 (class V) [Source:HGNC Symbol;Acc:HGNC:255]	4293	1.5080183744430542	0.4782011	Yes	
+row_15	ENSG00000164904	ALDH7A1	ALDH7A1	protein_coding_aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	4355	1.4896934032440186	0.4935192	Yes	
+row_16	ENSG00000141959	PFKL	PFKL	protein_coding_phosphofructokinase, liver type [Source:HGNC Symbol;Acc:HGNC:8876]	4636	1.4220858812332153	0.49751133	Yes	
+row_17	ENSG00000156515	HK1	HK1	protein_coding_hexokinase 1 [Source:HGNC Symbol;Acc:HGNC:4922]	4868	1.3689979314804077	0.50320226	Yes	
+row_18	ENSG00000111669	TPI1	TPI1	protein_coding_triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	4987	1.3474127054214478	0.51404566	Yes	
+row_19	ENSG00000105220	GPI	GPI	protein_coding_glucose-6-phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:4458]	5530	1.2666282653808594	0.5035748	Yes	
+row_20	ENSG00000067225	PKM	PKM	protein_coding_pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021]	5734	1.2376220226287842	0.50899917	Yes	
+row_21	ENSG00000074800	ENO1	ENO1	protein_coding_enolase 1 [Source:HGNC Symbol;Acc:HGNC:3350]	5746	1.2352700233459473	0.5235985	Yes	
+row_22	ENSG00000079739	PGM1	PGM1	protein_coding_phosphoglucomutase 1 [Source:HGNC Symbol;Acc:HGNC:8905]	6557	1.1297168731689453	0.49860415	No	
+row_23	ENSG00000171314	PGAM1	PGAM1	protein_coding_phosphoglycerate mutase 1 [Source:HGNC Symbol;Acc:HGNC:8888]	7429	1.0357383489608765	0.46953487	No	
+row_24	ENSG00000152556	PFKM	PFKM	protein_coding_phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	7557	1.0236772298812866	0.47598252	No	
+row_25	ENSG00000197894	ADH5	ADH5	protein_coding_alcohol dehydrogenase 5 (class III), chi polypeptide [Source:HGNC Symbol;Acc:HGNC:253]	8417	0.9408928155899048	0.446327	No	
+row_26	ENSG00000172331	BPGM	BPGM	protein_coding_bisphosphoglycerate mutase [Source:HGNC Symbol;Acc:HGNC:1093]	8559	0.9277471899986267	0.4509288	No	
+row_27	ENSG00000006534	ALDH3B1	ALDH3B1	protein_coding_aldehyde dehydrogenase 3 family member B1 [Source:HGNC Symbol;Acc:HGNC:410]	8914	0.8923954963684082	0.44488728	No	
+row_28	ENSG00000143891	GALM	GALM	protein_coding_galactose mutarotase [Source:HGNC Symbol;Acc:HGNC:24063]	9888	0.8796772956848145	0.4090174	No	
+row_29	ENSG00000168291	PDHB	PDHB	protein_coding_pyruvate dehydrogenase E1 beta subunit [Source:HGNC Symbol;Acc:HGNC:8808]	10245	0.8531253933906555	0.40239912	No	
+row_30	ENSG00000143149	ALDH9A1	ALDH9A1	protein_coding_aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	11430	0.7636088728904724	0.35499334	No	
+row_31	ENSG00000131069	ACSS2	ACSS2	protein_coding_acyl-CoA synthetase short chain family member 2 [Source:HGNC Symbol;Acc:HGNC:15814]	11942	0.7276421189308167	0.3394083	No	
+row_32	ENSG00000111275	ALDH2	ALDH2	protein_coding_aldehyde dehydrogenase 2 family (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:404]	12187	0.7092465162277222	0.336397	No	
+row_33	ENSG00000108515	ENO3	ENO3	protein_coding_enolase 3 [Source:HGNC Symbol;Acc:HGNC:3354]	12539	0.6841934323310852	0.3279497	No	
+row_34	ENSG00000111716	LDHB	LDHB	protein_coding_lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	12657	0.6752834320068359	0.33061042	No	
+row_35	ENSG00000130957	FBP2	FBP2	protein_coding_fructose-bisphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3607]	13286	0.628341019153595	0.30820084	No	
+row_36	ENSG00000150768	DLAT	DLAT	protein_coding_dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	13360	0.6238386631011963	0.31234077	No	
+row_37	ENSG00000091140	DLD	DLD	protein_coding_dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	13634	0.6027349233627319	0.306635	No	
+row_38	ENSG00000117448	AKR1A1	AKR1A1	protein_coding_aldo-keto reductase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:380]	14212	0.5670605301856995	0.28591973	No	
+row_39	ENSG00000131828	PDHA1	PDHA1	protein_coding_pyruvate dehydrogenase E1 alpha 1 subunit [Source:HGNC Symbol;Acc:HGNC:8806]	14223	0.5662541389465332	0.2923745	No	
+row_40	ENSG00000248144	ADH1C	ADH1C	protein_coding_alcohol dehydrogenase 1C (class I), gamma polypeptide [Source:HGNC Symbol;Acc:HGNC:251]	14995	0.5126953721046448	0.26169387	No	
+row_41	ENSG00000132746	ALDH3B2	ALDH3B2	protein_coding_aldehyde dehydrogenase 3 family member B2 [Source:HGNC Symbol;Acc:HGNC:411]	15061	0.5065494179725647	0.264781	No	
+row_42	ENSG00000072210	ALDH3A2	ALDH3A2	protein_coding_aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	17024	0.37290263175964355	0.17529632	No	
+row_43	ENSG00000166796	LDHC	LDHC	protein_coding_lactate dehydrogenase C [Source:HGNC Symbol;Acc:HGNC:6544]	17244	0.35187095403671265	0.16910714	No	
+row_44	ENSG00000108602	ALDH3A1	ALDH3A1	protein_coding_aldehyde dehydrogenase 3 family member A1 [Source:HGNC Symbol;Acc:HGNC:405]	17653	0.31531718373298645	0.15341036	No	
+row_45	ENSG00000100889	PCK2	PCK2	protein_coding_phosphoenolpyruvate carboxykinase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:8725]	19839	0.1118512749671936	0.05003915	No	
+row_46	ENSG00000154930	ACSS1	ACSS1	protein_coding_acyl-CoA synthetase short chain family member 1 [Source:HGNC Symbol;Acc:HGNC:16091]	20005	0.09055501967668533	0.043238554	No	

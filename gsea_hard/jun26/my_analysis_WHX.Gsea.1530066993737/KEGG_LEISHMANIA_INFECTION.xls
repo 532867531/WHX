@@ -1,0 +1,54 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000125538	IL1B	IL1B	protein_coding_interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	73	28.049917221069336	0.19635691	Yes	
+row_1	ENSG00000073756	PTGS2	PTGS2	protein_coding_prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	371	11.214705467224121	0.26202112	Yes	
+row_2	ENSG00000177606	JUN	JUN	protein_coding_Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	613	8.525992393493652	0.31121334	Yes	
+row_3	ENSG00000115008	IL1A	IL1A	protein_coding_interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	741	7.022900104522705	0.35516223	Yes	
+row_4	ENSG00000143226	FCGR2A	FCGR2A	protein_coding_Fc fragment of IgG receptor IIa [Source:HGNC Symbol;Acc:HGNC:3616]	848	5.864515781402588	0.39186454	Yes	
+row_5	ENSG00000116701	NCF2	NCF2	protein_coding_neutrophil cytosolic factor 2 [Source:HGNC Symbol;Acc:HGNC:7661]	882	5.571290016174316	0.42997795	Yes	
+row_6	ENSG00000092969	TGFB2	TGFB2	protein_coding_transforming growth factor beta 2 [Source:HGNC Symbol;Acc:HGNC:11768]	961	5.234739780426025	0.46353567	Yes	
+row_7	ENSG00000170345	FOS	FOS	protein_coding_Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]	1087	4.401224613189697	0.48890087	Yes	
+row_8	ENSG00000204287	HLA-DRA	HLA-DRA	protein_coding_major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	1322	3.738628387451172	0.5043185	Yes	
+row_9	ENSG00000232810	TNF	TNF	protein_coding_tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	1328	3.728156089782715	0.53064203	Yes	
+row_10	ENSG00000231389	HLA-DPA1	HLA-DPA1	protein_coding_major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	1483	3.518709182739258	0.54832876	Yes	
+row_11	ENSG00000160255	ITGB2	ITGB2	protein_coding_integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	1537	3.3587679862976074	0.5697188	Yes	
+row_12	ENSG00000136869	TLR4	TLR4	protein_coding_toll like receptor 4 [Source:HGNC Symbol;Acc:HGNC:11850]	2080	2.6390321254730225	0.5625331	Yes	
+row_13	ENSG00000169896	ITGAM	ITGAM	protein_coding_integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	2177	2.6076149940490723	0.5765093	Yes	
+row_14	ENSG00000115232	ITGA4	ITGA4	protein_coding_integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	2413	2.309152841567993	0.5816938	Yes	
+row_15	ENSG00000204257	HLA-DMA	HLA-DMA	protein_coding_major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	2489	2.2223427295684814	0.5939319	Yes	
+row_16	ENSG00000179344	HLA-DQB1	HLA-DQB1	protein_coding_major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	2580	2.1968157291412354	0.60526884	Yes	
+row_17	ENSG00000137462	TLR2	TLR2	protein_coding_toll like receptor 2 [Source:HGNC Symbol;Acc:HGNC:11848]	2766	2.0477733612060547	0.61098856	Yes	
+row_18	ENSG00000096968	JAK2	JAK2	protein_coding_Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	2870	1.96793794631958	0.62007135	Yes	
+row_19	ENSG00000159128	IFNGR2	IFNGR2	protein_coding_interferon gamma receptor 2 [Source:HGNC Symbol;Acc:HGNC:5440]	2908	1.9352902173995972	0.6320863	Yes	
+row_20	ENSG00000150093	ITGB1	ITGB1	protein_coding_integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	2988	1.8793232440948486	0.64168847	Yes	
+row_21	ENSG00000100906	NFKBIA	NFKBIA	protein_coding_NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	3135	1.779835820198059	0.6473692	Yes	
+row_22	ENSG00000105329	TGFB1	TGFB1	protein_coding_transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	3785	1.6674481630325317	0.62813026	No	
+row_23	ENSG00000173039	RELA	RELA	protein_coding_RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	3924	1.6148666143417358	0.63301915	No	
+row_24	ENSG00000162434	JAK1	JAK1	protein_coding_Janus kinase 1 [Source:HGNC Symbol;Acc:HGNC:6190]	4310	1.5010486841201782	0.6252534	No	
+row_25	ENSG00000241106	HLA-DOB	HLA-DOB	protein_coding_major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	5115	1.3195160627365112	0.59610313	No	
+row_26	ENSG00000175104	TRAF6	TRAF6	protein_coding_TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	5564	1.262222409248352	0.5836148	No	
+row_27	ENSG00000172936	MYD88	MYD88	protein_coding_myeloid differentiation primary response 88 [Source:HGNC Symbol;Acc:HGNC:7562]	5751	1.2349315881729126	0.5834951	No	
+row_28	ENSG00000175130	MARCKSL1	MARCKSL1	protein_coding_MARCKS like 1 [Source:HGNC Symbol;Acc:HGNC:7142]	6380	1.1513704061508179	0.56158596	No	
+row_29	ENSG00000055208	TAB2	TAB2	protein_coding_TGF-beta activated kinase 1/MAP3K7 binding protein 2 [Source:HGNC Symbol;Acc:HGNC:17075]	6402	1.148687720298767	0.5687635	No	
+row_30	ENSG00000119699	TGFB3	TGFB3	protein_coding_transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	6812	1.0995967388153076	0.5569866	No	
+row_31	ENSG00000126767	ELK1	ELK1	protein_coding_ELK1, ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:3321]	6967	1.0859806537628174	0.55733997	No	
+row_32	ENSG00000100030	MAPK1	MAPK1	protein_coding_mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	7297	1.051760196685791	0.5490582	No	
+row_33	ENSG00000102882	MAPK3	MAPK3	protein_coding_mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	7578	1.0207451581954956	0.54290503	No	
+row_34	ENSG00000109320	NFKB1	NFKB1	protein_coding_nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	7914	0.9882400035858154	0.533883	No	
+row_35	ENSG00000104825	NFKBIB	NFKBIB	protein_coding_NFKB inhibitor beta [Source:HGNC Symbol;Acc:HGNC:7798]	8379	0.9444251656532288	0.51836324	No	
+row_36	ENSG00000111679	PTPN6	PTPN6	protein_coding_protein tyrosine phosphatase, non-receptor type 6 [Source:HGNC Symbol;Acc:HGNC:9658]	8781	0.9071100950241089	0.5055984	No	
+row_37	ENSG00000198001	IRAK4	IRAK4	protein_coding_interleukin 1 receptor associated kinase 4 [Source:HGNC Symbol;Acc:HGNC:17967]	8997	0.8836758732795715	0.50158536	No	
+row_38	ENSG00000100365	NCF4	NCF4	protein_coding_neutrophil cytosolic factor 4 [Source:HGNC Symbol;Acc:HGNC:7662]	9625	0.8796772956848145	0.47778842	No	
+row_39	ENSG00000100324	TAB1	TAB1	protein_coding_TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [Source:HGNC Symbol;Acc:HGNC:18157]	10174	0.8608148694038391	0.4576451	No	
+row_40	ENSG00000115415	STAT1	STAT1	protein_coding_signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	10713	0.813635528087616	0.4376451	No	
+row_41	ENSG00000156711	MAPK13	MAPK13	protein_coding_mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	11237	0.7754083871841431	0.41809204	No	
+row_42	ENSG00000027697	IFNGR1	IFNGR1	protein_coding_interferon gamma receptor 1 [Source:HGNC Symbol;Acc:HGNC:5439]	11370	0.7680513262748718	0.41723502	No	
+row_43	ENSG00000125730	C3	C3	protein_coding_complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	11502	0.7583467960357666	0.41635683	No	
+row_44	ENSG00000112062	MAPK14	MAPK14	protein_coding_mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	12156	0.7120212316513062	0.39011857	No	
+row_45	ENSG00000135341	MAP3K7	MAP3K7	protein_coding_mitogen-activated protein kinase kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6859]	12808	0.6631921529769897	0.36362833	No	
+row_46	ENSG00000184216	IRAK1	IRAK1	protein_coding_interleukin 1 receptor associated kinase 1 [Source:HGNC Symbol;Acc:HGNC:6112]	13246	0.6317890286445618	0.34717566	No	
+row_47	ENSG00000185386	MAPK11	MAPK11	protein_coding_mitogen-activated protein kinase 11 [Source:HGNC Symbol;Acc:HGNC:6873]	13668	0.6000899076461792	0.33126432	No	
+row_48	ENSG00000051523	CYBA	CYBA	protein_coding_cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	14761	0.5278064012527466	0.28266343	No	
+row_49	ENSG00000168811	IL12A	IL12A	protein_coding_interleukin 12A [Source:HGNC Symbol;Acc:HGNC:5969]	15150	0.5026727318763733	0.26764035	No	
+row_50	ENSG00000196126	HLA-DRB1	HLA-DRB1	protein_coding_major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	16014	0.4398386478424072	0.22939326	No	
+row_51	ENSG00000188130	MAPK12	MAPK12	protein_coding_mitogen-activated protein kinase 12 [Source:HGNC Symbol;Acc:HGNC:6874]	16434	0.4268881380558014	0.21234375	No	
+row_52	ENSG00000196735	HLA-DQA1	HLA-DQA1	protein_coding_major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	17967	0.29322579503059387	0.1409734	No	

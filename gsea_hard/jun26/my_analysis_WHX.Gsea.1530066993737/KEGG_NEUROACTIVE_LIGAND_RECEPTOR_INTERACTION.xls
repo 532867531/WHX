@@ -1,0 +1,98 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000171522	PTGER4	PTGER4	protein_coding_prostaglandin E receptor 4 [Source:HGNC Symbol;Acc:HGNC:9596]	54	31.233379364013672	0.19120353	Yes	
+row_1	ENSG00000006638	TBXA2R	TBXA2R	protein_coding_thromboxane A2 receptor [Source:HGNC Symbol;Acc:HGNC:11608]	316	12.315482139587402	0.25507778	Yes	
+row_2	ENSG00000100739	BDKRB1	BDKRB1	protein_coding_bradykinin receptor B1 [Source:HGNC Symbol;Acc:HGNC:1029]	774	6.290523052215576	0.27214995	Yes	
+row_3	ENSG00000065325	GLP2R	GLP2R	protein_coding_glucagon like peptide 2 receptor [Source:HGNC Symbol;Acc:HGNC:4325]	859	5.717902183532715	0.30359232	Yes	
+row_4	ENSG00000181104	F2R	F2R	protein_coding_coagulation factor II thrombin receptor [Source:HGNC Symbol;Acc:HGNC:3537]	880	5.586886882781982	0.33729708	Yes	
+row_5	ENSG00000094755	GABRP	GABRP	protein_coding_gamma-aminobutyric acid type A receptor pi subunit [Source:HGNC Symbol;Acc:HGNC:4089]	906	5.278064250946045	0.36884537	Yes	
+row_6	ENSG00000180720	CHRM4	CHRM4	protein_coding_cholinergic receptor muscarinic 4 [Source:HGNC Symbol;Acc:HGNC:1953]	910	5.278064250946045	0.40145078	Yes	
+row_7	ENSG00000069696	DRD4	DRD4	protein_coding_dopamine receptor D4 [Source:HGNC Symbol;Acc:HGNC:3025]	950	5.278063774108887	0.43232635	Yes	
+row_8	ENSG00000196639	HRH1	HRH1	protein_coding_histamine receptor H1 [Source:HGNC Symbol;Acc:HGNC:5182]	1303	3.803049325942993	0.43900955	Yes	
+row_9	ENSG00000179546	HTR1D	HTR1D	protein_coding_5-hydroxytryptamine receptor 1D [Source:HGNC Symbol;Acc:HGNC:5289]	1356	3.61130690574646	0.45891848	Yes	
+row_10	ENSG00000163485	ADORA1	ADORA1	protein_coding_adenosine A1 receptor [Source:HGNC Symbol;Acc:HGNC:262]	1473	3.518709182739258	0.47517756	Yes	
+row_11	ENSG00000170214	ADRA1B	ADRA1B	protein_coding_adrenoceptor alpha 1B [Source:HGNC Symbol;Acc:HGNC:278]	1702	2.9773693084716797	0.48269594	Yes	
+row_12	ENSG00000075073	TACR2	TACR2	protein_coding_tachykinin receptor 2 [Source:HGNC Symbol;Acc:HGNC:11527]	1907	2.6390321254730225	0.4892682	Yes	
+row_13	ENSG00000116032	GRIN3B	GRIN3B	protein_coding_glutamate ionotropic receptor NMDA type subunit 3B [Source:HGNC Symbol;Acc:HGNC:16768]	2087	2.6390321254730225	0.49704176	Yes	
+row_14	ENSG00000089041	P2RX7	P2RX7	protein_coding_purinergic receptor P2X 7 [Source:HGNC Symbol;Acc:HGNC:8537]	2368	2.345806360244751	0.49814272	Yes	
+row_15	ENSG00000198121	LPAR1	LPAR1	protein_coding_lysophosphatidic acid receptor 1 [Source:HGNC Symbol;Acc:HGNC:3166]	2696	2.0834462642669678	0.49535733	Yes	
+row_16	ENSG00000170425	ADORA2B	ADORA2B	protein_coding_adenosine A2b receptor [Source:HGNC Symbol;Acc:HGNC:264]	2932	1.9206565618515015	0.49598262	Yes	
+row_17	ENSG00000149403	GRIK4	GRIK4	protein_coding_glutamate ionotropic receptor kainate type subunit 4 [Source:HGNC Symbol;Acc:HGNC:4582]	2933	1.9192960262298584	0.50789154	Yes	
+row_18	ENSG00000135124	P2RX4	P2RX4	protein_coding_purinergic receptor P2X 4 [Source:HGNC Symbol;Acc:HGNC:8535]	2996	1.874953269958496	0.51654613	Yes	
+row_19	ENSG00000164251	F2RL1	F2RL1	protein_coding_F2R like trypsin receptor 1 [Source:HGNC Symbol;Acc:HGNC:3538]	3156	1.766822338104248	0.5198688	Yes	
+row_20	ENSG00000187848	P2RX2	P2RX2	protein_coding_purinergic receptor P2X 2 [Source:HGNC Symbol;Acc:HGNC:15459]	3225	1.759354829788208	0.52751786	Yes	
+row_21	ENSG00000128271	ADORA2A	ADORA2A	protein_coding_adenosine A2a receptor [Source:HGNC Symbol;Acc:HGNC:263]	4181	1.5394352674484253	0.4911806	No	
+row_22	ENSG00000169403	PTAFR	PTAFR	protein_coding_platelet activating factor receptor [Source:HGNC Symbol;Acc:HGNC:9582]	4392	1.4756680727005005	0.4902461	No	
+row_23	ENSG00000152822	GRM1	GRM1	protein_coding_glutamate metabotropic receptor 1 [Source:HGNC Symbol;Acc:HGNC:4593]	4700	1.4074838161468506	0.48422748	No	
+row_24	ENSG00000105737	GRIK5	GRIK5	protein_coding_glutamate ionotropic receptor kainate type subunit 5 [Source:HGNC Symbol;Acc:HGNC:4583]	4797	1.3823500871658325	0.4881918	No	
+row_25	ENSG00000151617	EDNRA	EDNRA	protein_coding_endothelin receptor type A [Source:HGNC Symbol;Acc:HGNC:3179]	5287	1.315691351890564	0.47285828	No	
+row_26	ENSG00000173198	CYSLTR1	CYSLTR1	protein_coding_cysteinyl leukotriene receptor 1 [Source:HGNC Symbol;Acc:HGNC:17451]	5501	1.2706451416015625	0.47050747	No	
+row_27	ENSG00000183729	NPBWR1	NPBWR1	protein_coding_neuropeptides B and W receptor 1 [Source:HGNC Symbol;Acc:HGNC:4522]	5596	1.25668203830719	0.47378814	No	
+row_28	ENSG00000164418	GRIK2	GRIK2	protein_coding_glutamate ionotropic receptor kainate type subunit 2 [Source:HGNC Symbol;Acc:HGNC:4580]	5658	1.24808931350708	0.47860122	No	
+row_29	ENSG00000171189	GRIK1	GRIK1	protein_coding_glutamate ionotropic receptor kainate type subunit 1 [Source:HGNC Symbol;Acc:HGNC:4579]	5782	1.2315483093261719	0.48033243	No	
+row_30	ENSG00000113580	NR3C1	NR3C1	protein_coding_nuclear receptor subfamily 3 group C member 1 [Source:HGNC Symbol;Acc:HGNC:7978]	5854	1.2185310125350952	0.48448157	No	
+row_31	ENSG00000011677	GABRA3	GABRA3	protein_coding_gamma-aminobutyric acid type A receptor alpha3 subunit [Source:HGNC Symbol;Acc:HGNC:4077]	6277	1.1655725240707397	0.47143602	No	
+row_32	ENSG00000267534	S1PR2	S1PR2	protein_coding_sphingosine-1-phosphate receptor 2 [Source:HGNC Symbol;Acc:HGNC:3169]	6355	1.1545764207839966	0.47490004	No	
+row_33	ENSG00000148498	PARD3	PARD3	protein_coding_par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	6729	1.110330581665039	0.46386626	No	
+row_34	ENSG00000204681	GABBR1	GABBR1	protein_coding_gamma-aminobutyric acid type B receptor subunit 1 [Source:HGNC Symbol;Acc:HGNC:4070]	6775	1.10359525680542	0.46855158	No	
+row_35	ENSG00000148680	HTR7	HTR7	protein_coding_5-hydroxytryptamine receptor 7 [Source:HGNC Symbol;Acc:HGNC:5302]	6936	1.0895086526870728	0.46762356	No	
+row_36	ENSG00000175697	GPR156	GPR156	protein_coding_G protein-coupled receptor 156 [Source:HGNC Symbol;Acc:HGNC:20844]	7294	1.0517882108688354	0.45699537	No	
+row_37	ENSG00000109738	GLRB	GLRB	protein_coding_glycine receptor beta [Source:HGNC Symbol;Acc:HGNC:4329]	7817	0.9969676733016968	0.4380985	No	
+row_38	ENSG00000114812	VIPR1	VIPR1	protein_coding_vasoactive intestinal peptide receptor 1 [Source:HGNC Symbol;Acc:HGNC:12694]	8186	0.9604640007019043	0.4263751	No	
+row_39	ENSG00000168398	BDKRB2	BDKRB2	protein_coding_bradykinin receptor B2 [Source:HGNC Symbol;Acc:HGNC:1030]	8251	0.9554603099822998	0.42922828	No	
+row_40	ENSG00000126351	THRA	THRA	protein_coding_thyroid hormone receptor, alpha [Source:HGNC Symbol;Acc:HGNC:11796]	8508	0.9320390224456787	0.42271024	No	
+row_41	ENSG00000244165	P2RY11	P2RY11	protein_coding_purinergic receptor P2Y11 [Source:HGNC Symbol;Acc:HGNC:8540]	8580	0.9259761571884155	0.42504412	No	
+row_42	ENSG00000116678	LEPR	LEPR	protein_coding_leptin receptor [Source:HGNC Symbol;Acc:HGNC:6554]	8703	0.9137732982635498	0.42485166	No	
+row_43	ENSG00000105464	GRIN2D	GRIN2D	protein_coding_glutamate ionotropic receptor NMDA type subunit 2D [Source:HGNC Symbol;Acc:HGNC:4588]	8765	0.9085192680358887	0.42755774	No	
+row_44	ENSG00000171517	LPAR3	LPAR3	protein_coding_lysophosphatidic acid receptor 3 [Source:HGNC Symbol;Acc:HGNC:14298]	8802	0.9050689339637756	0.4314437	No	
+row_45	ENSG00000113262	GRM6	GRM6	protein_coding_glutamate metabotropic receptor 6 [Source:HGNC Symbol;Acc:HGNC:4598]	9041	0.879677414894104	0.4254657	No	
+row_46	ENSG00000169836	TACR3	TACR3	protein_coding_tachykinin receptor 3 [Source:HGNC Symbol;Acc:HGNC:11528]	9103	0.879677414894104	0.42799282	No	
+row_47	ENSG00000204174	NPY4R	NPY4R	protein_coding_neuropeptide Y receptor Y4 [Source:HGNC Symbol;Acc:HGNC:9329]	9548	0.879677414894104	0.4121162	No	
+row_48	ENSG00000124493	GRM4	GRM4	protein_coding_glutamate metabotropic receptor 4 [Source:HGNC Symbol;Acc:HGNC:4596]	9582	0.8796773552894592	0.41598877	No	
+row_49	ENSG00000100300	TSPO	TSPO	protein_coding_translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	10238	0.8538424968719482	0.389813	No	
+row_50	ENSG00000170175	CHRNB1	CHRNB1	protein_coding_cholinergic receptor nicotinic beta 1 subunit [Source:HGNC Symbol;Acc:HGNC:1961]	10372	0.8414304852485657	0.3886431	No	
+row_51	ENSG00000151090	THRB	THRB	protein_coding_thyroid hormone receptor beta [Source:HGNC Symbol;Acc:HGNC:11799]	10871	0.8020231127738953	0.36968988	No	
+row_52	ENSG00000197405	C5AR1	C5AR1	protein_coding_complement C5a receptor 1 [Source:HGNC Symbol;Acc:HGNC:1338]	11779	0.7377938628196716	0.33068505	No	
+row_53	ENSG00000184160	ADRA2C	ADRA2C	protein_coding_adrenoceptor alpha 2C [Source:HGNC Symbol;Acc:HGNC:283]	11851	0.7330644726753235	0.33182195	No	
+row_54	ENSG00000145451	GLRA3	GLRA3	protein_coding_glycine receptor alpha 3 [Source:HGNC Symbol;Acc:HGNC:4328]	11967	0.7244401574134827	0.33079106	No	
+row_55	ENSG00000180914	OXTR	OXTR	protein_coding_oxytocin receptor [Source:HGNC Symbol;Acc:HGNC:8529]	12836	0.6597580313682556	0.29317605	No	
+row_56	ENSG00000120251	GRIA2	GRIA2	protein_coding_glutamate ionotropic receptor AMPA type subunit 2 [Source:HGNC Symbol;Acc:HGNC:4572]	12867	0.6597579717636108	0.2958282	No	
+row_57	ENSG00000196811	CHRNG	CHRNG	protein_coding_cholinergic receptor nicotinic gamma subunit [Source:HGNC Symbol;Acc:HGNC:1967]	12881	0.6597579717636108	0.2992972	No	
+row_58	ENSG00000125384	PTGER2	PTGER2	protein_coding_prostaglandin E receptor 2 [Source:HGNC Symbol;Acc:HGNC:9594]	13285	0.628341019153595	0.2838312	No	
+row_59	ENSG00000146276	GABRR1	GABRR1	protein_coding_gamma-aminobutyric acid type A receptor rho1 subunit [Source:HGNC Symbol;Acc:HGNC:4090]	13313	0.6283409595489502	0.2864326	No	
+row_60	ENSG00000112038	OPRM1	OPRM1	protein_coding_opioid receptor mu 1 [Source:HGNC Symbol;Acc:HGNC:8156]	13863	0.5864515900611877	0.26369116	No	
+row_61	ENSG00000161509	GRIN2C	GRIN2C	protein_coding_glutamate ionotropic receptor NMDA type subunit 2C [Source:HGNC Symbol;Acc:HGNC:4587]	13872	0.5864515900611877	0.26694557	No	
+row_62	ENSG00000213906	LTB4R2	LTB4R2	protein_coding_leukotriene B4 receptor 2 [Source:HGNC Symbol;Acc:HGNC:19260]	14054	0.5797873139381409	0.26184574	No	
+row_63	ENSG00000187730	GABRD	GABRD	protein_coding_gamma-aminobutyric acid type A receptor delta subunit [Source:HGNC Symbol;Acc:HGNC:4084]	14389	0.5538709163665771	0.24923323	No	
+row_64	ENSG00000213694	S1PR3	S1PR3	protein_coding_sphingosine-1-phosphate receptor 3 [Source:HGNC Symbol;Acc:HGNC:3167]	14391	0.5535048842430115	0.2526196	No	
+row_65	ENSG00000175591	P2RY2	P2RY2	protein_coding_purinergic receptor P2Y2 [Source:HGNC Symbol;Acc:HGNC:8541]	14674	0.5338212847709656	0.24238133	No	
+row_66	ENSG00000125910	S1PR4	S1PR4	protein_coding_sphingosine-1-phosphate receptor 4 [Source:HGNC Symbol;Acc:HGNC:3170]	14753	0.5278064012527466	0.24190828	No	
+row_67	ENSG00000213903	LTB4R	LTB4R	protein_coding_leukotriene B4 receptor [Source:HGNC Symbol;Acc:HGNC:6713]	14857	0.5231415033340454	0.24020499	No	
+row_68	ENSG00000064547	LPAR2	LPAR2	protein_coding_lysophosphatidic acid receptor 2 [Source:HGNC Symbol;Acc:HGNC:3168]	14868	0.5219138264656067	0.24296287	No	
+row_69	ENSG00000083454	P2RX5	P2RX5	protein_coding_purinergic receptor P2X 5 [Source:HGNC Symbol;Acc:HGNC:8536]	15282	0.4887096881866455	0.22614996	No	
+row_70	ENSG00000169860	P2RY1	P2RY1	protein_coding_purinergic receptor P2Y1 [Source:HGNC Symbol;Acc:HGNC:8539]	15757	0.44391125440597534	0.20612794	No	
+row_71	ENSG00000124089	MC3R	MC3R	protein_coding_melanocortin 3 receptor [Source:HGNC Symbol;Acc:HGNC:6931]	15959	0.4398386478424072	0.19919872	No	
+row_72	ENSG00000164220	F2RL2	F2RL2	protein_coding_coagulation factor II thrombin receptor like 2 [Source:HGNC Symbol;Acc:HGNC:3539]	15987	0.4398386478424072	0.20063046	No	
+row_73	ENSG00000184845	DRD1	DRD1	protein_coding_dopamine receptor D1 [Source:HGNC Symbol;Acc:HGNC:3020]	16008	0.4398386478424072	0.20239857	No	
+row_74	ENSG00000106018	VIPR2	VIPR2	protein_coding_vasoactive intestinal peptide receptor 2 [Source:HGNC Symbol;Acc:HGNC:12695]	16256	0.4398386478424072	0.19325897	No	
+row_75	ENSG00000180739	S1PR5	S1PR5	protein_coding_sphingosine-1-phosphate receptor 5 [Source:HGNC Symbol;Acc:HGNC:14299]	16679	0.4031854569911957	0.17548294	No	
+row_76	ENSG00000171631	P2RY6	P2RY6	protein_coding_pyrimidinergic receptor P2Y6 [Source:HGNC Symbol;Acc:HGNC:8543]	16689	0.40256422758102417	0.17754832	No	
+row_77	ENSG00000258839	MC1R	MC1R	protein_coding_melanocortin 1 receptor [Source:HGNC Symbol;Acc:HGNC:6929]	16741	0.39860376715660095	0.17757097	No	
+row_78	ENSG00000064989	CALCRL	CALCRL	protein_coding_calcitonin receptor like receptor [Source:HGNC Symbol;Acc:HGNC:16709]	17032	0.37182238698005676	0.16594313	No	
+row_79	ENSG00000043591	ADRB1	ADRB1	protein_coding_adrenoceptor beta 1 [Source:HGNC Symbol;Acc:HGNC:285]	17079	0.36653223633766174	0.16600704	No	
+row_80	ENSG00000109163	GNRHR	GNRHR	protein_coding_gonadotropin releasing hormone receptor [Source:HGNC Symbol;Acc:HGNC:4421]	17232	0.35187095403671265	0.16088651	No	
+row_81	ENSG00000104826	LHB	LHB	protein_coding_luteinizing hormone beta polypeptide [Source:HGNC Symbol;Acc:HGNC:6584]	17927	0.29322579503059387	0.12935819	No	
+row_82	ENSG00000099957	P2RX6	P2RX6	protein_coding_purinergic receptor P2X 6 [Source:HGNC Symbol;Acc:HGNC:8538]	18218	0.2777928411960602	0.11714691	No	
+row_83	ENSG00000139679	LPAR6	LPAR6	protein_coding_lysophosphatidic acid receptor 6 [Source:HGNC Symbol;Acc:HGNC:15520]	18431	0.25133639574050903	0.108519495	No	
+row_84	ENSG00000111886	GABRR2	GABRR2	protein_coding_gamma-aminobutyric acid type A receptor rho2 subunit [Source:HGNC Symbol;Acc:HGNC:4091]	18562	0.2399120032787323	0.10376141	No	
+row_85	ENSG00000196689	TRPV1	TRPV1	protein_coding_transient receptor potential cation channel subfamily V member 1 [Source:HGNC Symbol;Acc:HGNC:12716]	18617	0.23255836963653564	0.10260962	No	
+row_86	ENSG00000101188	NTSR1	NTSR1	protein_coding_neurotensin receptor 1 [Source:HGNC Symbol;Acc:HGNC:8039]	18948	0.20698291063308716	0.08803692	No	
+row_87	ENSG00000102287	GABRE	GABRE	protein_coding_gamma-aminobutyric acid type A receptor epsilon subunit [Source:HGNC Symbol;Acc:HGNC:4085]	18979	0.20408515632152557	0.08786169	No	
+row_88	ENSG00000169684	CHRNA5	CHRNA5	protein_coding_cholinergic receptor nicotinic alpha 5 subunit [Source:HGNC Symbol;Acc:HGNC:1959]	19373	0.1649394929409027	0.07000087	No	
+row_89	ENSG00000268089	GABRQ	GABRQ	protein_coding_gamma-aminobutyric acid type A receptor theta subunit [Source:HGNC Symbol;Acc:HGNC:14454]	19827	0.11574701964855194	0.048951726	No	
+row_90	ENSG00000004948	CALCR	CALCR	protein_coding_calcitonin receptor [Source:HGNC Symbol;Acc:HGNC:1440]	19857	0.1099596619606018	0.048240516	No	
+row_91	ENSG00000176884	GRIN1	GRIN1	protein_coding_glutamate ionotropic receptor NMDA type subunit 1 [Source:HGNC Symbol;Acc:HGNC:4584]	19953	0.09774193167686462	0.044282097	No	
+row_92	ENSG00000198785	GRIN3A	GRIN3A	protein_coding_glutamate ionotropic receptor NMDA type subunit 3A [Source:HGNC Symbol;Acc:HGNC:16767]	20436	0.06283409893512726	0.021511143	No	
+row_93	ENSG00000174343	CHRNA9	CHRNA9	protein_coding_cholinergic receptor nicotinic alpha 9 subunit [Source:HGNC Symbol;Acc:HGNC:14079]	20506	0.0549798309803009	0.01853673	No	
+row_94	ENSG00000134817	APLNR	APLNR	protein_coding_apelin receptor [Source:HGNC Symbol;Acc:HGNC:339]	20650	0.04398386925458908	0.011938278	No	
+row_95	ENSG00000166603	MC4R	MC4R	protein_coding_melanocortin 4 receptor [Source:HGNC Symbol;Acc:HGNC:6932]	20763	0.03383374586701393	0.0067664413	No	
+row_96	ENSG00000171873	ADRA1D	ADRA1D	protein_coding_adrenoceptor alpha 1D [Source:HGNC Symbol;Acc:HGNC:280]	20869	0.016916871070861816	0.001825999	No	

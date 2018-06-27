@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000125538	IL1B	IL1B	protein_coding_interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	73	28.049917221069336	0.3487488	Yes	
+row_1	ENSG00000054356	PTPRN	PTPRN	protein_coding_protein tyrosine phosphatase, receptor type N [Source:HGNC Symbol;Acc:HGNC:9676]	633	7.917097091674805	0.42140418	Yes	
+row_2	ENSG00000115008	IL1A	IL1A	protein_coding_interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	741	7.022900104522705	0.5044728	Yes	
+row_3	ENSG00000204287	HLA-DRA	HLA-DRA	protein_coding_major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	1322	3.738628387451172	0.52365047	Yes	
+row_4	ENSG00000232810	TNF	TNF	protein_coding_tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	1328	3.728156089782715	0.57022834	Yes	
+row_5	ENSG00000231389	HLA-DPA1	HLA-DPA1	protein_coding_major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	1483	3.518709182739258	0.6070418	Yes	
+row_6	ENSG00000234745	HLA-B	HLA-B	protein_coding_major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	1756	2.8971481323242188	0.63039976	Yes	
+row_7	ENSG00000204592	HLA-E	HLA-E	protein_coding_major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	2176	2.607774496078491	0.6430853	Yes	
+row_8	ENSG00000204642	HLA-F	HLA-F	protein_coding_major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	2352	2.351137399673462	0.6642311	Yes	
+row_9	ENSG00000204257	HLA-DMA	HLA-DMA	protein_coding_major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	2489	2.2223427295684814	0.6856269	Yes	
+row_10	ENSG00000179344	HLA-DQB1	HLA-DQB1	protein_coding_major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	2580	2.1968157291412354	0.7089047	Yes	
+row_11	ENSG00000204525	HLA-C	HLA-C	protein_coding_major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	2781	2.0318291187286377	0.7248436	Yes	
+row_12	ENSG00000128683	GAD1	GAD1	protein_coding_glutamate decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:4092]	2831	1.9939353466033936	0.74753684	Yes	
+row_13	ENSG00000206503	HLA-A	HLA-A	protein_coding_major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	3141	1.7766597270965576	0.7550524	Yes	
+row_14	ENSG00000155093	PTPRN2	PTPRN2	protein_coding_protein tyrosine phosphatase, receptor type N2 [Source:HGNC Symbol;Acc:HGNC:9677]	4598	1.4294755458831787	0.7032883	No	
+row_15	ENSG00000241106	HLA-DOB	HLA-DOB	protein_coding_major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	5115	1.3195160627365112	0.69515175	No	
+row_16	ENSG00000109472	CPE	CPE	protein_coding_carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	5629	1.2524219751358032	0.68631625	No	
+row_17	ENSG00000026103	FAS	FAS	protein_coding_Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	7387	1.0413626432418823	0.6152661	No	
+row_18	ENSG00000144381	HSPD1	HSPD1	protein_coding_heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	12373	0.6985915899276733	0.38535076	No	
+row_19	ENSG00000114013	CD86	CD86	protein_coding_CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	13650	0.6018844842910767	0.33181262	No	
+row_20	ENSG00000168811	IL12A	IL12A	protein_coding_interleukin 12A [Source:HGNC Symbol;Acc:HGNC:5969]	15150	0.5026727318763733	0.26635104	No	
+row_21	ENSG00000196126	HLA-DRB1	HLA-DRB1	protein_coding_major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	16014	0.4398386478424072	0.23055291	No	
+row_22	ENSG00000196735	HLA-DQA1	HLA-DQA1	protein_coding_major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	17967	0.29322579503059387	0.14077097	No	

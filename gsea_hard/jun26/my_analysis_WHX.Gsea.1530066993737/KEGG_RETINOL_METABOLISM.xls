@@ -1,0 +1,39 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000140505	CYP1A2	CYP1A2	protein_coding_cytochrome P450 family 1 subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:2596]	208	15.834192276000977	0.2240703	Yes	
+row_1	ENSG00000140465	CYP1A1	CYP1A1	protein_coding_cytochrome P450 family 1 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2595]	352	11.681736946105957	0.38987988	Yes	
+row_2	ENSG00000171234	UGT2B7	UGT2B7	protein_coding_UDP glucuronosyltransferase family 2 member B7 [Source:HGNC Symbol;Acc:HGNC:12554]	808	6.157741546630859	0.45909256	Yes	
+row_3	ENSG00000073737	DHRS9	DHRS9	protein_coding_dehydrogenase/reductase 9 [Source:HGNC Symbol;Acc:HGNC:16888]	1353	3.617983341217041	0.4865019	Yes	
+row_4	ENSG00000160870	CYP3A7	CYP3A7	protein_coding_cytochrome P450 family 3 subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:2640]	1930	2.6390321254730225	0.49790862	Yes	
+row_5	ENSG00000135697	BCO1	BCO1	protein_coding_beta-carotene oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:13815]	2122	2.6390318870544434	0.52776283	Yes	
+row_6	ENSG00000109181	UGT2B10	UGT2B10	protein_coding_UDP glucuronosyltransferase family 2 member B10 [Source:HGNC Symbol;Acc:HGNC:12544]	3172	1.759354829788208	0.5035034	No	
+row_7	ENSG00000121207	LRAT	LRAT	protein_coding_lecithin retinol acyltransferase [Source:HGNC Symbol;Acc:HGNC:6685]	3954	1.607686161994934	0.4898436	No	
+row_8	ENSG00000003137	CYP26B1	CYP26B1	protein_coding_cytochrome P450 family 26 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:20581]	4155	1.5414530038833618	0.5030439	No	
+row_9	ENSG00000172955	ADH6	ADH6	protein_coding_alcohol dehydrogenase 6 (class V) [Source:HGNC Symbol;Acc:HGNC:255]	4293	1.5080183744430542	0.51876867	No	
+row_10	ENSG00000240224	UGT1A5	UGT1A5	protein_coding_UDP glucuronosyltransferase family 1 member A5 [Source:HGNC Symbol;Acc:HGNC:12537]	5154	1.3195159435272217	0.49706423	No	
+row_11	ENSG00000255974	CYP2A6	CYP2A6	protein_coding_cytochrome P450 family 2 subfamily A member 6 [Source:HGNC Symbol;Acc:HGNC:2610]	7248	1.0556128025054932	0.41237918	No	
+row_12	ENSG00000165092	ALDH1A1	ALDH1A1	protein_coding_aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	7818	0.9969676733016968	0.39985082	No	
+row_13	ENSG00000162496	DHRS3	DHRS3	protein_coding_dehydrogenase/reductase 3 [Source:HGNC Symbol;Acc:HGNC:17693]	8393	0.9433233141899109	0.38628998	No	
+row_14	ENSG00000197894	ADH5	ADH5	protein_coding_alcohol dehydrogenase 5 (class III), chi polypeptide [Source:HGNC Symbol;Acc:HGNC:253]	8417	0.9408928155899048	0.39909476	No	
+row_15	ENSG00000139547	RDH16	RDH16	protein_coding_retinol dehydrogenase 16 (all-trans) [Source:HGNC Symbol;Acc:HGNC:29674]	8662	0.9179242253303528	0.40097067	No	
+row_16	ENSG00000062282	DGAT2	DGAT2	protein_coding_diacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16940]	8925	0.8911017179489136	0.40158767	No	
+row_17	ENSG00000185000	DGAT1	DGAT1	protein_coding_diacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2843]	8986	0.8847622275352478	0.41178992	No	
+row_18	ENSG00000042445	RETSAT	RETSAT	protein_coding_retinol saturase [Source:HGNC Symbol;Acc:HGNC:25991]	11063	0.7882372736930847	0.32396752	No	
+row_19	ENSG00000187630	DHRS4L2	DHRS4L2	protein_coding_dehydrogenase/reductase 4 like 2 [Source:HGNC Symbol;Acc:HGNC:19731]	11964	0.7244401574134827	0.29155096	No	
+row_20	ENSG00000197888	UGT2B17	UGT2B17	protein_coding_UDP glucuronosyltransferase family 2 member B17 [Source:HGNC Symbol;Acc:HGNC:12547]	12278	0.7037419080734253	0.286955	No	
+row_21	ENSG00000106258	CYP3A5	CYP3A5	protein_coding_cytochrome P450 family 3 subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:2638]	12310	0.7037418484687805	0.29587126	No	
+row_22	ENSG00000072042	RDH11	RDH11	protein_coding_retinol dehydrogenase 11 (all-trans/9-cis/11-cis) [Source:HGNC Symbol;Acc:HGNC:17964]	12779	0.6661790013313293	0.28329316	No	
+row_23	ENSG00000157326	DHRS4	DHRS4	protein_coding_dehydrogenase/reductase 4 [Source:HGNC Symbol;Acc:HGNC:16985]	13515	0.613728404045105	0.25714633	No	
+row_24	ENSG00000095596	CYP26A1	CYP26A1	protein_coding_cytochrome P450 family 26 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2603]	13831	0.5864515900611877	0.25072092	No	
+row_25	ENSG00000241635	UGT1A1	UGT1A1	protein_coding_UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	14308	0.5605787038803101	0.23619868	No	
+row_26	ENSG00000006757	PNPLA4	PNPLA4	protein_coding_patatin like phospholipase domain containing 4 [Source:HGNC Symbol;Acc:HGNC:24887]	14832	0.5255579948425293	0.21890678	No	
+row_27	ENSG00000167165	UGT1A6	UGT1A6	protein_coding_UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	14904	0.5193275809288025	0.22318067	No	
+row_28	ENSG00000248144	ADH1C	ADH1C	protein_coding_alcohol dehydrogenase 1C (class I), gamma polypeptide [Source:HGNC Symbol;Acc:HGNC:251]	14995	0.5126953721046448	0.22644614	No	
+row_29	ENSG00000121039	RDH10	RDH10	protein_coding_retinol dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:19975]	15280	0.4889577031135559	0.22006512	No	
+row_30	ENSG00000135437	RDH5	RDH5	protein_coding_retinol dehydrogenase 5 [Source:HGNC Symbol;Acc:HGNC:9940]	15848	0.4398386478424072	0.19939795	No	
+row_31	ENSG00000196620	UGT2B15	UGT2B15	protein_coding_UDP glucuronosyltransferase family 2 member B15 [Source:HGNC Symbol;Acc:HGNC:12546]	15861	0.4398386478424072	0.20532398	No	
+row_32	ENSG00000243135	UGT1A3	UGT1A3	protein_coding_UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	15901	0.4398386478424072	0.20995629	No	
+row_33	ENSG00000147160	AWAT2	AWAT2	protein_coding_acyl-CoA wax alcohol acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:23251]	16261	0.4398386478424072	0.19925559	No	
+row_34	ENSG00000244474	UGT1A4	UGT1A4	protein_coding_UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	16285	0.4398386478424072	0.20465454	No	
+row_35	ENSG00000244122	UGT1A7	UGT1A7	protein_coding_UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	16809	0.3909677267074585	0.18537334	No	
+row_36	ENSG00000128918	ALDH1A2	ALDH1A2	protein_coding_aldehyde dehydrogenase 1 family member A2 [Source:HGNC Symbol;Acc:HGNC:15472]	16876	0.3848588168621063	0.18789929	No	
+row_37	ENSG00000139988	RDH12	RDH12	protein_coding_retinol dehydrogenase 12 (all-trans/9-cis/11-cis) [Source:HGNC Symbol;Acc:HGNC:19977]	17236	0.35187095403671265	0.17589839	No	

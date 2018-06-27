@@ -1,0 +1,20 @@
+Package: NGCHM
+Type: Package
+Title: Utilities for Creating Next Generation Clustered Heat Maps
+Version: 0.11.13
+Date: 2018-03-21
+Author: Bradley Broom
+Maintainer: Bradley Broom <bmbroom@mdanderson.org>
+Depends: R (>= 3.2.0)
+Imports: methods, utils, stats, grDevices, tsvio, digest, httr,
+        jsonlite
+Description: Utilities for creating Next Generation Clustered Heat Maps.
+License: GPL-3
+Collate: 'allClasses.R' 'allGenerics.R' 'allMethods.R' 'functions.R'
+        'dendrogram-fixes.R' 'shaidy.R' 'ngchmshaidy.R' 'zzz.R'
+        'package.R'
+Suggests: testthat
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2018-06-25 10:59:51 UTC; john
+Built: R 3.4.1; ; 2018-06-25 11:02:59 UTC; windows

@@ -1,0 +1,134 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000271503	CCL5	CCL5	protein_coding_C-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10632]	100	24.337739944458008	0.093936436	Yes	
+row_1	ENSG00000169248	CXCL11	CXCL11	protein_coding_C-X-C motif chemokine ligand 11 [Source:HGNC Symbol;Acc:HGNC:10638]	106	22.871612548828125	0.1864969	Yes	
+row_2	ENSG00000141968	VAV1	VAV1	protein_coding_vav guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:12657]	233	14.95451545715332	0.24110956	Yes	
+row_3	ENSG00000169429	CXCL8	CXCL8	protein_coding_C-X-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:6025]	286	13.635000228881836	0.29393032	Yes	
+row_4	ENSG00000015285	WAS	WAS	protein_coding_Wiskott-Aldrich syndrome [Source:HGNC Symbol;Acc:HGNC:12731]	390	10.556127548217773	0.3318037	Yes	
+row_5	ENSG00000173578	XCR1	XCR1	protein_coding_X-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:1625]	782	6.157742023468018	0.33796793	Yes	
+row_6	ENSG00000172215	CXCR6	CXCR6	protein_coding_C-X-C motif chemokine receptor 6 [Source:HGNC Symbol;Acc:HGNC:16647]	858	5.717902660369873	0.3575581	Yes	
+row_7	ENSG00000102962	CCL22	CCL22	protein_coding_C-C motif chemokine ligand 22 [Source:HGNC Symbol;Acc:HGNC:10621]	1075	4.47169303894043	0.3653048	Yes	
+row_8	ENSG00000006606	CCL26	CCL26	protein_coding_C-C motif chemokine ligand 26 [Source:HGNC Symbol;Acc:HGNC:10625]	1154	4.3983869552612305	0.37939668	Yes	
+row_9	ENSG00000134516	DOCK2	DOCK2	protein_coding_dedicator of cytokinesis 2 [Source:HGNC Symbol;Acc:HGNC:2988]	1236	4.105160713195801	0.39215437	Yes	
+row_10	ENSG00000115009	CCL20	CCL20	protein_coding_C-C motif chemokine ligand 20 [Source:HGNC Symbol;Acc:HGNC:10619]	1584	3.2154524326324463	0.38849822	Yes	
+row_11	ENSG00000183625	CCR3	CCR3	protein_coding_C-C motif chemokine receptor 3 [Source:HGNC Symbol;Acc:HGNC:1604]	1788	2.842034339904785	0.39025837	Yes	
+row_12	ENSG00000128340	RAC2	RAC2	protein_coding_Rac family small GTPase 2 [Source:HGNC Symbol;Acc:HGNC:9802]	1836	2.7656872272491455	0.39921775	Yes	
+row_13	ENSG00000120899	PTK2B	PTK2B	protein_coding_protein tyrosine kinase 2 beta [Source:HGNC Symbol;Acc:HGNC:9612]	2343	2.366311550140381	0.38446283	Yes	
+row_14	ENSG00000163823	CCR1	CCR1	protein_coding_C-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:1602]	2358	2.345806360244751	0.393307	Yes	
+row_15	ENSG00000151882	CCL28	CCL28	protein_coding_C-C motif chemokine ligand 28 [Source:HGNC Symbol;Acc:HGNC:17700]	2424	2.291252613067627	0.39947495	Yes	
+row_16	ENSG00000198873	GRK5	GRK5	protein_coding_G protein-coupled receptor kinase 5 [Source:HGNC Symbol;Acc:HGNC:4544]	2459	2.2605042457580566	0.40701032	Yes	
+row_17	ENSG00000254087	LYN	LYN	protein_coding_LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	2493	2.216062068939209	0.4144135	Yes	
+row_18	ENSG00000129946	SHC2	SHC2	protein_coding_SHC adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:29869]	2501	2.1991934776306152	0.42299974	Yes	
+row_19	ENSG00000149269	PAK1	PAK1	protein_coding_p21 (RAC1) activated kinase 1 [Source:HGNC Symbol;Acc:HGNC:8590]	2621	2.141986131668091	0.42596278	Yes	
+row_20	ENSG00000117020	AKT3	AKT3	protein_coding_AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	2681	2.094277858734131	0.43162033	Yes	
+row_21	ENSG00000105639	JAK3	JAK3	protein_coding_Janus kinase 3 [Source:HGNC Symbol;Acc:HGNC:6193]	2697	2.0834462642669678	0.43935183	Yes	
+row_22	ENSG00000186469	GNG2	GNG2	protein_coding_G protein subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:4404]	2713	2.0735251903533936	0.44704312	Yes	
+row_23	ENSG00000124126	PREX1	PREX1	protein_coding_phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:32594]	2825	1.9992667436599731	0.44981214	Yes	
+row_24	ENSG00000096968	JAK2	JAK2	protein_coding_Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	2870	1.96793794631958	0.45567906	Yes	
+row_25	ENSG00000168610	STAT3	STAT3	protein_coding_signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	2967	1.8985520601272583	0.45876148	Yes	
+row_26	ENSG00000100906	NFKBIA	NFKBIA	protein_coding_NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	3135	1.779835820198059	0.4579446	Yes	
+row_27	ENSG00000242616	GNG10	GNG10	protein_coding_G protein subunit gamma 10 [Source:HGNC Symbol;Acc:HGNC:4402]	3333	1.759354829788208	0.45560062	Yes	
+row_28	ENSG00000114124	GRK7	GRK7	protein_coding_G protein-coupled receptor kinase 7 [Source:HGNC Symbol;Acc:HGNC:17031]	3493	1.759354591369629	0.45508572	Yes	
+row_29	ENSG00000065135	GNAI3	GNAI3	protein_coding_G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387]	3806	1.6601275205612183	0.4468036	Yes	
+row_30	ENSG00000118689	FOXO3	FOXO3	protein_coding_forkhead box O3 [Source:HGNC Symbol;Acc:HGNC:3821]	3815	1.6571398973464966	0.45314234	Yes	
+row_31	ENSG00000127955	GNAI1	GNAI1	protein_coding_G protein subunit alpha i1 [Source:HGNC Symbol;Acc:HGNC:4384]	3819	1.6553993225097656	0.45971468	Yes	
+row_32	ENSG00000173039	RELA	RELA	protein_coding_RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	3924	1.6148666143417358	0.46126097	Yes	
+row_33	ENSG00000146426	TIAM2	TIAM2	protein_coding_T cell lymphoma invasion and metastasis 2 [Source:HGNC Symbol;Acc:HGNC:11806]	3992	1.593870759010315	0.46450305	Yes	
+row_34	ENSG00000169032	MAP2K1	MAP2K1	protein_coding_mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	3996	1.5930595397949219	0.47082245	Yes	
+row_35	ENSG00000161921	CXCL16	CXCL16	protein_coding_C-X-C motif chemokine ligand 16 [Source:HGNC Symbol;Acc:HGNC:16642]	3998	1.592436671257019	0.4772356	Yes	
+row_36	ENSG00000155849	ELMO1	ELMO1	protein_coding_engulfment and cell motility 1 [Source:HGNC Symbol;Acc:HGNC:16286]	4065	1.570852518081665	0.4804324	Yes	
+row_37	ENSG00000160293	VAV2	VAV2	protein_coding_vav guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:12658]	4278	1.5118924379348755	0.4763623	Yes	
+row_38	ENSG00000070831	CDC42	CDC42	protein_coding_cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	4357	1.489254117012024	0.47865042	Yes	
+row_39	ENSG00000089159	PXN	PXN	protein_coding_paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	4568	1.4368174076080322	0.47437197	Yes	
+row_40	ENSG00000106299	WASL	WASL	protein_coding_Wiskott-Aldrich syndrome like [Source:HGNC Symbol;Acc:HGNC:12735]	4578	1.4326889514923096	0.47975186	Yes	
+row_41	ENSG00000172380	GNG12	GNG12	protein_coding_G protein subunit gamma 12 [Source:HGNC Symbol;Acc:HGNC:19663]	4670	1.4141221046447754	0.48110938	Yes	
+row_42	ENSG00000127314	RAP1B	RAP1B	protein_coding_RAP1B, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9857]	4763	1.3908957242965698	0.4823245	Yes	
+row_43	ENSG00000104365	IKBKB	IKBKB	protein_coding_inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	4902	1.3615702390670776	0.48120645	Yes	
+row_44	ENSG00000156299	TIAM1	TIAM1	protein_coding_T cell lymphoma invasion and metastasis 1 [Source:HGNC Symbol;Acc:HGNC:11805]	4944	1.3549869060516357	0.48473075	Yes	
+row_45	ENSG00000172354	GNB2	GNB2	protein_coding_G protein subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:4398]	5001	1.34478759765625	0.48749167	Yes	
+row_46	ENSG00000078369	GNB1	GNB1	protein_coding_G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	5016	1.3387645483016968	0.4922498	Yes	
+row_47	ENSG00000170581	STAT2	STAT2	protein_coding_signal transducer and activator of transcription 2 [Source:HGNC Symbol;Acc:HGNC:11363]	5020	1.3380100727081299	0.49753433	Yes	
+row_48	ENSG00000173757	STAT5B	STAT5B	protein_coding_signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	5069	1.3272324800491333	0.5006091	Yes	
+row_49	ENSG00000185634	SHC4	SHC4	protein_coding_SHC adaptor protein 4 [Source:HGNC Symbol;Acc:HGNC:16743]	5137	1.3195159435272217	0.50273794	Yes	
+row_50	ENSG00000069966	GNB5	GNB5	protein_coding_G protein subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:4401]	5412	1.2885414361953735	0.49477726	No	
+row_51	ENSG00000050820	BCAR1	BCAR1	protein_coding_BCAR1, Cas family scaffolding protein [Source:HGNC Symbol;Acc:HGNC:971]	5542	1.2646780014038086	0.49369928	No	
+row_52	ENSG00000171608	PIK3CD	PIK3CD	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	5681	1.2452574968338013	0.4921093	No	
+row_53	ENSG00000160691	SHC1	SHC1	protein_coding_SHC adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:10840]	5988	1.1984580755233765	0.48224276	No	
+row_54	ENSG00000136238	RAC1	RAC1	protein_coding_Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	5992	1.1978157758712769	0.48695847	No	
+row_55	ENSG00000269335	IKBKG	IKBKG	protein_coding_inhibitor of nuclear factor kappa B kinase subunit gamma [Source:HGNC Symbol;Acc:HGNC:5961]	6050	1.1901516914367676	0.4890438	No	
+row_56	ENSG00000213281	NRAS	NRAS	protein_coding_NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	6101	1.180024266242981	0.491425	No	
+row_57	ENSG00000174021	GNG5	GNG5	protein_coding_G protein subunit gamma 5 [Source:HGNC Symbol;Acc:HGNC:4408]	6127	1.1758280992507935	0.49499252	No	
+row_58	ENSG00000169245	CXCL10	CXCL10	protein_coding_C-X-C motif chemokine ligand 10 [Source:HGNC Symbol;Acc:HGNC:10637]	6146	1.1729031801223755	0.49888512	No	
+row_59	ENSG00000125388	GRK4	GRK4	protein_coding_G protein-coupled receptor kinase 4 [Source:HGNC Symbol;Acc:HGNC:4543]	6307	1.1611740589141846	0.49589503	No	
+row_60	ENSG00000157764	BRAF	BRAF	protein_coding_B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	6422	1.1464534997940063	0.49505937	No	
+row_61	ENSG00000148498	PARD3	PARD3	protein_coding_par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	6729	1.110330581665039	0.48483527	No	
+row_62	ENSG00000149782	PLCB3	PLCB3	protein_coding_phospholipase C beta 3 [Source:HGNC Symbol;Acc:HGNC:9056]	6746	1.1084376573562622	0.48856258	No	
+row_63	ENSG00000148082	SHC3	SHC3	protein_coding_SHC adaptor protein 3 [Source:HGNC Symbol;Acc:HGNC:18181]	6810	1.0995967388153076	0.48999166	No	
+row_64	ENSG00000182621	PLCB1	PLCB1	protein_coding_phospholipase C beta 1 [Source:HGNC Symbol;Acc:HGNC:15917]	6959	1.0866602659225464	0.48727682	No	
+row_65	ENSG00000141480	ARRB2	ARRB2	protein_coding_arrestin beta 2 [Source:HGNC Symbol;Acc:HGNC:712]	7059	1.0756148099899292	0.48687577	No	
+row_66	ENSG00000121879	PIK3CA	PIK3CA	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	7182	1.060787320137024	0.48530746	No	
+row_67	ENSG00000100030	MAPK1	MAPK1	protein_coding_mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	7297	1.051760196685791	0.4840876	No	
+row_68	ENSG00000169398	PTK2	PTK2	protein_coding_protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	7318	1.0488567352294922	0.48738062	No	
+row_69	ENSG00000116473	RAP1A	RAP1A	protein_coding_RAP1A, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9855]	7361	1.0446168184280396	0.48959747	No	
+row_70	ENSG00000067560	RHOA	RHOA	protein_coding_ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	7444	1.033935546875	0.48984557	No	
+row_71	ENSG00000102882	MAPK3	MAPK3	protein_coding_mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	7578	1.0207451581954956	0.4875853	No	
+row_72	ENSG00000114353	GNAI2	GNAI2	protein_coding_G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	7610	1.0169737339019775	0.49021947	No	
+row_73	ENSG00000132155	RAF1	RAF1	protein_coding_Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	7683	1.0098867416381836	0.49085137	No	
+row_74	ENSG00000109320	NFKB1	NFKB1	protein_coding_nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	7914	0.9882400035858154	0.48379013	No	
+row_75	ENSG00000105723	GSK3A	GSK3A	protein_coding_glycogen synthase kinase 3 alpha [Source:HGNC Symbol;Acc:HGNC:4616]	7924	0.9874257445335388	0.4873634	No	
+row_76	ENSG00000102970	CCL17	CCL17	protein_coding_C-C motif chemokine ligand 17 [Source:HGNC Symbol;Acc:HGNC:10615]	8016	0.977419376373291	0.486949	No	
+row_77	ENSG00000162104	ADCY9	ADCY9	protein_coding_adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	8193	0.9596480131149292	0.48237103	No	
+row_78	ENSG00000174775	HRAS	HRAS	protein_coding_HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	8238	0.9561710953712463	0.48413274	No	
+row_79	ENSG00000134318	ROCK2	ROCK2	protein_coding_Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	8276	0.9529837965965271	0.48621845	No	
+row_80	ENSG00000104825	NFKBIB	NFKBIB	protein_coding_NFKB inhibitor beta [Source:HGNC Symbol;Acc:HGNC:7798]	8379	0.9444251656532288	0.4851407	No	
+row_81	ENSG00000198055	GRK6	GRK6	protein_coding_G protein-coupled receptor kinase 6 [Source:HGNC Symbol;Acc:HGNC:4545]	8597	0.9245094060897827	0.47844663	No	
+row_82	ENSG00000142208	AKT1	AKT1	protein_coding_AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	8917	0.8920513391494751	0.46671113	No	
+row_83	ENSG00000168243	GNG4	GNG4	protein_coding_G protein subunit gamma 4 [Source:HGNC Symbol;Acc:HGNC:4407]	8921	0.8914588093757629	0.4701838	No	
+row_84	ENSG00000067900	ROCK1	ROCK1	protein_coding_Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	8943	0.8897885084152222	0.47278327	No	
+row_85	ENSG00000000938	FGR	FGR	protein_coding_FGR proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3697]	9025	0.879677414894104	0.47245362	No	
+row_86	ENSG00000164742	ADCY1	ADCY1	protein_coding_adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	9528	0.879677414894104	0.45185924	No	
+row_87	ENSG00000142875	PRKACB	PRKACB	protein_coding_protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	9619	0.8796773552894592	0.4510964	No	
+row_88	ENSG00000121281	ADCY7	ADCY7	protein_coding_adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238]	10190	0.8589790463447571	0.42714486	No	
+row_89	ENSG00000173020	GRK2	GRK2	protein_coding_G protein-coupled receptor kinase 2 [Source:HGNC Symbol;Acc:HGNC:289]	10706	0.814304530620575	0.40565947	No	
+row_90	ENSG00000115415	STAT1	STAT1	protein_coding_signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	10713	0.813635528087616	0.40867198	No	
+row_91	ENSG00000167193	CRK	CRK	protein_coding_CRK proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2362]	10724	0.812715470790863	0.4114882	No	
+row_92	ENSG00000143184	XCL1	XCL1	protein_coding_X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10645]	10913	0.7986544370651245	0.40567937	No	
+row_93	ENSG00000051382	PIK3CB	PIK3CB	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	10985	0.7928824424743652	0.40547892	No	
+row_94	ENSG00000127920	GNG11	GNG11	protein_coding_G protein subunit gamma 11 [Source:HGNC Symbol;Acc:HGNC:4403]	11610	0.7513910531997681	0.37849158	No	
+row_95	ENSG00000067606	PRKCZ	PRKCZ	protein_coding_protein kinase C zeta [Source:HGNC Symbol;Acc:HGNC:9412]	11647	0.7484973669052124	0.37979573	No	
+row_96	ENSG00000105221	AKT2	AKT2	protein_coding_AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	11720	0.7430493235588074	0.37934494	No	
+row_97	ENSG00000114450	GNB4	GNB4	protein_coding_G protein subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:20731]	11960	0.7249458432197571	0.37078217	No	
+row_98	ENSG00000072062	PRKACA	PRKACA	protein_coding_protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	12228	0.7046963572502136	0.36078948	No	
+row_99	ENSG00000099942	CRKL	CRKL	protein_coding_CRK like proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2363]	12308	0.7037419080734253	0.35984224	No	
+row_100	ENSG00000183943	PRKX	PRKX	protein_coding_protein kinase, X-linked [Source:HGNC Symbol;Acc:HGNC:9441]	12428	0.6928732395172119	0.35692555	No	
+row_101	ENSG00000163932	PRKCD	PRKCD	protein_coding_protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	12615	0.6780846118927002	0.35072377	No	
+row_102	ENSG00000163735	CXCL5	CXCL5	protein_coding_C-X-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10642]	12875	0.6597579717636108	0.34093383	No	
+row_103	ENSG00000133703	KRAS	KRAS	protein_coding_KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	13028	0.6490823030471802	0.336251	No	
+row_104	ENSG00000177885	GRB2	GRB2	protein_coding_growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	13462	0.616715669631958	0.31791094	No	
+row_105	ENSG00000127588	GNG13	GNG13	protein_coding_G protein subunit gamma 13 [Source:HGNC Symbol;Acc:HGNC:14131]	13867	0.5864515900611877	0.300844	No	
+row_106	ENSG00000173175	ADCY5	ADCY5	protein_coding_adenylate cyclase 5 [Source:HGNC Symbol;Acc:HGNC:236]	13876	0.5864515900611877	0.30283844	No	
+row_107	ENSG00000082701	GSK3B	GSK3B	protein_coding_glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	14201	0.5684126615524292	0.28954908	No	
+row_108	ENSG00000180871	CXCR2	CXCR2	protein_coding_C-X-C motif chemokine receptor 2 [Source:HGNC Symbol;Acc:HGNC:6027]	14323	0.5597946643829346	0.28599614	No	
+row_109	ENSG00000127928	GNGT1	GNGT1	protein_coding_G protein subunit gamma transducin 1 [Source:HGNC Symbol;Acc:HGNC:4411]	15049	0.5077332258224487	0.25315854	No	
+row_110	ENSG00000176533	GNG7	GNG7	protein_coding_G protein subunit gamma 7 [Source:HGNC Symbol;Acc:HGNC:4410]	15290	0.4887096881866455	0.24358913	No	
+row_111	ENSG00000213341	CHUK	CHUK	protein_coding_conserved helix-loop-helix ubiquitous kinase [Source:HGNC Symbol;Acc:HGNC:1974]	15529	0.46890291571617126	0.23403563	No	
+row_112	ENSG00000137486	ARRB1	ARRB1	protein_coding_arrestin beta 1 [Source:HGNC Symbol;Acc:HGNC:711]	15557	0.4657115638256073	0.2346256	No	
+row_113	ENSG00000100077	GRK3	GRK3	protein_coding_G protein-coupled receptor kinase 3 [Source:HGNC Symbol;Acc:HGNC:290]	15658	0.4552176594734192	0.23165916	No	
+row_114	ENSG00000184451	CCR10	CCR10	protein_coding_C-C motif chemokine receptor 10 [Source:HGNC Symbol;Acc:HGNC:4474]	16006	0.4398386478424072	0.21674103	No	
+row_115	ENSG00000103653	CSK	CSK	protein_coding_C-terminal Src kinase [Source:HGNC Symbol;Acc:HGNC:2444]	16367	0.4336932301521301	0.2011722	No	
+row_116	ENSG00000174233	ADCY6	ADCY6	protein_coding_adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	16382	0.43238377571105957	0.2022527	No	
+row_117	ENSG00000137841	PLCB2	PLCB2	protein_coding_phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	16644	0.4060049057006836	0.19133689	No	
+row_118	ENSG00000143185	XCL2	XCL2	protein_coding_X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:10646]	16945	0.37700459361076355	0.17842615	No	
+row_119	ENSG00000068831	RASGRP2	RASGRP2	protein_coding_RAS guanyl releasing protein 2 [Source:HGNC Symbol;Acc:HGNC:9879]	17296	0.35187092423439026	0.16300668	No	
+row_120	ENSG00000138031	ADCY3	ADCY3	protein_coding_adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	17329	0.34830689430236816	0.16287962	No	
+row_121	ENSG00000115904	SOS1	SOS1	protein_coding_SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	17791	0.29867497086524963	0.14190136	No	
+row_122	ENSG00000163739	CXCL1	CXCL1	protein_coding_C-X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:4602]	18252	0.2730705738067627	0.120867334	No	
+row_123	ENSG00000145675	PIK3R1	PIK3R1	protein_coding_phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	18278	0.2699635922908783	0.12075934	No	
+row_124	ENSG00000100485	SOS2	SOS2	protein_coding_SOS Ras/Rho guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:11188]	18283	0.26936328411102295	0.12165973	No	
+row_125	ENSG00000134215	VAV3	VAV3	protein_coding_vav guanine nucleotide exchange factor 3 [Source:HGNC Symbol;Acc:HGNC:12659]	18376	0.2592658996582031	0.1182833	No	
+row_126	ENSG00000105851	PIK3CG	PIK3CG	protein_coding_phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]	18993	0.2030024528503418	0.089455955	No	
+row_127	ENSG00000162188	GNG3	GNG3	protein_coding_G protein subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:4405]	19231	0.17593547701835632	0.07876187	No	
+row_128	ENSG00000126353	CCR7	CCR7	protein_coding_C-C motif chemokine receptor 7 [Source:HGNC Symbol;Acc:HGNC:1608]	19803	0.11995600163936615	0.051763628	No	
+row_129	ENSG00000163734	CXCL3	CXCL3	protein_coding_C-X-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:4604]	19844	0.11111713945865631	0.050289094	No	
+row_130	ENSG00000081041	CXCL2	CXCL2	protein_coding_C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	20194	0.08377879858016968	0.033829987	No	
+row_131	ENSG00000117461	PIK3R3	PIK3R3	protein_coding_phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	20570	0.05307254195213318	0.015994785	No	
+row_132	ENSG00000111664	GNB3	GNB3	protein_coding_G protein subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:4400]	20659	0.04398386552929878	0.011937388	No	

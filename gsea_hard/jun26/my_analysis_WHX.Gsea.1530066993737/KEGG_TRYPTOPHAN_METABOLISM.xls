@@ -1,0 +1,29 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENSG00000138356	AOX1	AOX1	protein_coding_aldehyde oxidase 1 [Source:HGNC Symbol;Acc:HGNC:553]	60	28.89401626586914	0.35280445	Yes	
+row_1	ENSG00000140505	CYP1A2	CYP1A2	protein_coding_cytochrome P450 family 1 subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:2596]	208	15.834192276000977	0.5406791	Yes	
+row_2	ENSG00000140465	CYP1A1	CYP1A1	protein_coding_cytochrome P450 family 1 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2595]	352	11.681736946105957	0.67762965	Yes	
+row_3	ENSG00000131203	IDO1	IDO1	protein_coding_indoleamine 2,3-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:6059]	1501	3.518709182739258	0.66596323	Yes	
+row_4	ENSG00000137124	ALDH1B1	ALDH1B1	protein_coding_aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	1616	3.1254820823669434	0.69897735	Yes	
+row_5	ENSG00000183077	AFMID	AFMID	protein_coding_arylformamidase [Source:HGNC Symbol;Acc:HGNC:20910]	2634	2.1292190551757812	0.6764806	No	
+row_6	ENSG00000164904	ALDH7A1	ALDH7A1	protein_coding_aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	4355	1.4896934032440186	0.6124429	No	
+row_7	ENSG00000138796	HADH	HADH	protein_coding_hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	5958	1.2011719942092896	0.55050486	No	
+row_8	ENSG00000104951	IL4I1	IL4I1	protein_coding_interleukin 4 induced 1 [Source:HGNC Symbol;Acc:HGNC:19094]	6175	1.1729031801223755	0.55459815	No	
+row_9	ENSG00000127884	ECHS1	ECHS1	protein_coding_enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]	6336	1.1573599576950073	0.56118214	No	
+row_10	ENSG00000116874	WARS2	WARS2	protein_coding_tryptophanyl tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12730]	6896	1.0943186283111572	0.5478809	No	
+row_11	ENSG00000138061	CYP1B1	CYP1B1	protein_coding_cytochrome P450 family 1 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2597]	7466	1.0320775508880615	0.53333455	No	
+row_12	ENSG00000084754	HADHA	HADHA	protein_coding_hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	8188	0.9601296782493591	0.51062286	No	
+row_13	ENSG00000121691	CAT	CAT	protein_coding_catalase [Source:HGNC Symbol;Acc:HGNC:1516]	8981	0.8859161138534546	0.48359722	No	
+row_14	ENSG00000189221	MAOA	MAOA	protein_coding_monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	11129	0.7830738425254822	0.390411	No	
+row_15	ENSG00000105953	OGDH	OGDH	protein_coding_oxoglutarate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8124]	11172	0.7806327939033508	0.39800888	No	
+row_16	ENSG00000143149	ALDH9A1	ALDH9A1	protein_coding_aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	11430	0.7636088728904724	0.3951003	No	
+row_17	ENSG00000113790	EHHADH	EHHADH	protein_coding_enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3247]	12087	0.7164382338523865	0.37250185	No	
+row_18	ENSG00000111275	ALDH2	ALDH2	protein_coding_aldehyde dehydrogenase 2 family (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:404]	12187	0.7092465162277222	0.3764911	No	
+row_19	ENSG00000197444	OGDHL	OGDHL	protein_coding_oxoglutarate dehydrogenase like [Source:HGNC Symbol;Acc:HGNC:25590]	13569	0.6090074181556702	0.317848	No	
+row_20	ENSG00000188676	IDO2	IDO2	protein_coding_indoleamine 2,3-dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:27269]	13882	0.5864515900611877	0.31012452	No	
+row_21	ENSG00000115919	KYNU	KYNU	protein_coding_kynureninase [Source:HGNC Symbol;Acc:HGNC:6469]	14555	0.5423181056976318	0.2846164	No	
+row_22	ENSG00000117009	KMO	KMO	protein_coding_kynurenine 3-monooxygenase [Source:HGNC Symbol;Acc:HGNC:6381]	15161	0.5010820627212524	0.26180953	No	
+row_23	ENSG00000072210	ALDH3A2	ALDH3A2	protein_coding_aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	17024	0.37290263175964355	0.17722361	No	
+row_24	ENSG00000105607	GCDH	GCDH	protein_coding_glutaryl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4189]	17439	0.3359474241733551	0.16153145	No	
+row_25	ENSG00000140105	WARS	WARS	protein_coding_tryptophanyl-tRNA synthetase [Source:HGNC Symbol;Acc:HGNC:12729]	18965	0.20587797462940216	0.09102935	No	
+row_26	ENSG00000151790	TDO2	TDO2	protein_coding_tryptophan 2,3-dioxygenase [Source:HGNC Symbol;Acc:HGNC:11708]	19901	0.10662756115198135	0.047562215	No	
+row_27	ENSG00000129167	TPH1	TPH1	protein_coding_tryptophan hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:12008]	20644	0.046298809349536896	0.012595743	No	

@@ -1,0 +1,298 @@
+$.shaidyRepo            Provide a simpler method for accessing repo
+                        methods
+NGCHM                   Next Generation Clustered Heat Map (NGCHM)
+                        Construction Library
+NGCHM-functions         Javascript extensions for the Next Generation
+                        Clustered Heat Map (NGCHM) Construction Library
+NGCHM-initialization    Initialization of the NGCHM library.
+TCGA.GBM.EXPR           Sample dataset containing RNA expression data
+                        from Affymetrix U133A chips for TCGA
+                        Glioblastoma Multiforme samples.
+chmAdd                  Add a list of objects to a NGCHM.
+chmAddAxisType          Add an axis type to a NGCHM.
+chmAddCSS               Add custom CSS to a NGCHM.
+chmAddColormap          Add a colormap to a NGCHM.
+chmAddCovariate         Add a covariate to an auxiliary dataset.
+chmAddCovariateBar      Add a covariate bar to a NGCHM.
+chmAddDataset           Add an auxiliary dataset to a NGCHM.
+chmAddDialog            Add an extra dialog to a NGCHM.
+chmAddLayer             Add a Layer to a NGCHM.
+chmAddMenuItem          Add a menu entry to a NGCHM.
+chmAddMetaData          Add meta data.
+chmAddOverview          Generate an overview image of the NGCHM when
+                        making it.
+chmAddProperty          Add custom property to a NGCHM.
+chmAddRelated           Add a link to related information to the NGCHM.
+chmAddRelatedGroup      Add a group of related links to the NGCHM.
+chmAddSpecificAxisTypeFunction
+                        Add a CHM-specific axis type function to a
+                        NGCHM.
+chmAddTag               Add tags to a NGCHM.
+chmAddTemplate          Add a file template to the NGCHM.
+chmAddToolboxR          Add standard toolbox to an axis
+chmAddToolboxR2         Add standard toolbox to an element
+chmAddToolboxRC         Add standard toolbox to an element
+chmAxis                 Create a new Axis for adding to an NG-CHM.
+chmAxisType             Create a new AxisType for adding to an
+                        ngchmAxis.
+chmBindFunction         Bind values to an existing JS function.
+chmBrowse               Browse the NGCHMs on the specified server in
+                        the viewer.
+chmColOrder<-           Set the column order of data shown in a NGCHM.
+chmCreateCollection     Create a new collection
+chmCreateManagedServer
+                        Create an ngchmServer object for a managed
+                        NG-CHM server
+chmCreateServer         Create an ngchmServer object from a
+                        specification.
+chmCurrentCollection    Get the user's current collection
+chmCurrentServer        Get the user's current server
+chmDefaultColOrder      Return default column order of an NGCHM
+chmDefaultRowOrder      Return default row order of an NGCHM
+chmDeployServer         Get the name of a NGCHM server.
+chmExportToFile         Export a standalone NGCHM to a file.
+chmExportToPDF          Export a PDF of the NGCHM to a file.
+chmFieldAccessFunction
+                        Get Javascript function name for accessing a
+                        specific string field in each element of string
+                        vector.
+chmGetDataset           Get the dataset from an NG-CHM object
+chmGetDeployServerConfig
+                        Get per-user configuration for a specific
+                        deploy Server.
+chmGetFunction          Get a predefined Javascript function for use in
+                        NGCHM menus
+chmGetOverview          Get the file path to the specified overview
+                        file.
+chmGetProperty          Get a property value from an NG-CHM object
+chmGetTypeInfo          Get information about a type name.
+chmGetURL               Get the URL for an installed NGCHM.
+chmHasProperty          Determine if the NG-CHM has the given property.
+chmInstall              Add an NG-CHM to an NG-CHM collection.
+chmListFunctions        List the predefined Javascript functions
+                        available for use in NGCHM menus.
+chmListServers          Return the names of the NGCHM servers defined
+                        to date in this session.
+chmListTypes            List known axis types.
+chmLoadCHM              Load CHM from NG-CHM server
+chmMake                 Compile a NGCHM.
+chmMakePrivate          Make an installed NGCHM private.
+chmMakePublic           Make an installed NGCHM public.
+chmManager              Manage the NGCHMs on the specified server in
+                        the viewer.
+chmName                 Get the name of a NGCHM.
+chmNew                  Create a new NGCHM.
+chmNewColorMap          Create a new Color Map for use in constructing
+                        a NGCHM
+chmNewCovariate         Create a new Covariate for adding to an NGCHM
+                        auxilary dataset.
+chmNewCovariateBar      Create a new covariate Bar for a NGCHM
+chmNewDataLayer         Create a new Data Layer for a NGCHM.
+chmNewDataset           Create a new Dataset for a NGCHM.
+chmNewDialog            Create a new Dialog for a NGCHM.
+chmNewFunction          Create a new Javascript function for adding to
+                        a NGCHM menu.
+chmNewProperty          Create a new Property for adding to a NGCHM.
+chmNewServer            Create a new object representing a NGCHM
+                        server.
+chmOriginalColOrder     Return original column order of an NGCHM
+chmOriginalRowOrder     Return original row order of an NGCHM
+chmProperties           Create a list of NGCHM properties.
+chmRandomColOrder       Return random column order of an NGCHM
+chmRandomRowOrder       Return random row order of an NGCHM
+chmRegisterAxisFunction
+                        Register a predefined Javascript function for
+                        use in NGCHM Axis menus.
+chmRegisterFunction     Register a predefined Javascript function for
+                        use in NGCHM menus.
+chmRegisterGetMetadataFunction
+                        Define and register a Javascript function for
+                        obtaining a specific metadata value.
+chmRegisterMatrixFunction
+                        Register a predefined Javascript function for
+                        use in NGCHM Matrix menus.
+chmRegisterToolboxFunction
+                        Register a Javascript function for use in the
+                        NGCHM toolbox.
+chmRegisterType         Register a type name.
+chmRegisterTypeMapper   Register a predefined Javascript function for
+                        converting values from one type to another.
+chmRegisterTypeSplitter
+                        Define and register a Javascript function for
+                        converting a lists of type values into single
+                        values.
+chmRowOrder<-           Set the row order of data shown in a NGCHM.
+chmServer               Get a registered ngchmServer object for use in
+                        making and installing NGCHMs
+chmSetCollection        Set the user's current server and/or collection
+chmSetCredentials       Set access credentials.
+chmSetDeployServerConfig
+                        Specify per-user configuration for a specific
+                        deploy Server.
+chmStringopFunction     Get Javascript function name for performing a
+                        specific string operation on each element of a
+                        string vector.
+chmUninstall            Remove an installed NGCHM.
+chmUrlBase              Get the base URL for a NGCHM installed on a
+                        NGCHM server.
+chmUserDendrogramToShaid
+                        Convert a user specified dendrogram to a shaid
+chmUserLabelsToShaid    Convert user specified labels to a shaid
+chmWriteCustomJS        Output Javascript code required to customize an
+                        NGCHM.
+cos.dist1               Compute cosine (angular) distance matrix
+gitHashObject           Obtain the git hash of an existing file.
+ngchm-class             Class representing a Next Generation Clustered
+                        Heat Map (NGCHM) under construction.
+ngchmAddDatasetBlob     Add a data file to a local shaidy repository
+ngchmAddMatrixToCollection
+                        Add a matrix reference to a collection
+ngchmAddObjectToCollection
+                        Add an object reference to a collection
+ngchmAxis-class         Class representing an axis of a Next Generation
+                        Clustered Heat Map (NG-CHM).
+ngchmAxisFunction-class
+                        Class representing an axis function for Next
+                        Generation Clustered Heat Map (NGCHM).
+ngchmAxisType-class     Class representing a type attached to an axis
+                        in a Next Generation Clustered Heat Map
+                        (NGCHM).
+ngchmBar-class          Class representing a Covariate Bar on a Next
+                        Generation Clustered Heat Map (NGCHM).
+ngchmCSS-class          Class representing custom CSS for a Next
+                        Generation Clustered Heat Map (NGCHM).
+ngchmCollectionInCollection
+                        Recursively determine if collection uuid is
+                        contained in collection A collecton always
+                        contains itself.
+ngchmCollectionTree     Create a recursive description of a collection
+ngchmColormap-class     Class representing a Color Map on a Next
+                        Generation Clustered Heat Map (NGCHM).
+ngchmCovariate-class    Class representing a Covariate attached to a
+                        Dataset
+ngchmCreateServerProtocol
+                        Create and register an NGCHM server protocol
+                        implementation.
+ngchmDataset-class      Class representing a Dataset attached to a
+                        NGCHM
+ngchmDialog-class       Class representing an addon dialog
+ngchmFindRepo           Find a repository, if any, that contains the
+                        requested shaid
+ngchmGetDataFileShaid   Compute shaid for a data file
+ngchmGetEnv             Get the ngchm environment (for debugging only).
+ngchmGetHandleHTTR      Get a HTTR handle for the server's view/WS URL
+ngchmGetLabels          Get the axis labels of a shaidy dataset or
+                        dendrogram
+ngchmGetLabelsStr       Get the axis labels of a shaidy dataset or
+                        dendrogram
+ngchmGetProtoParam      Get a server protocol parameter
+ngchmGetServerProtocol
+                        Lookup a Server Protocol
+ngchmInitShaidyRepository
+                        Create a shaidy repository for NG-CHMS
+ngchmJS-class           Class representing a custom Javascript function
+                        for a Next Generation Clustered Heat Map
+                        (NGCHM).
+ngchmLayer-class        Class representing a Layer on a Next Generation
+                        Clustered Heat Map (NGCHM).
+ngchmListServerProtocols
+                        List defined server protocols
+ngchmLoadDatasetBlob    Load a data matrix from a local shaidy
+                        repository
+ngchmMakeFormat.original
+                        Make an original format NGCHM.
+ngchmMakeFormat.shaidy
+                        Make a shaidy format NGCHM.
+ngchmMatrixFunction-class
+                        Class representing a matrix function for Next
+                        Generation Clustered Heat Map (NGCHM).
+ngchmMenuItem-class     Class representing a Menu Item for a Next
+                        Generation Clustered Heat Map (NGCHM).
+ngchmMetaData-class     Class representing meta data attached to an
+                        NG-CHM
+ngchmNewBar             Create a new Classification Bar for a NGCHM
+ngchmNewCollection      Create a new collection in a local shaidy
+                        repository
+ngchmOverview-class     Class representing an overview of a Next
+                        Generation Clustered Heat Map (NGCHM).
+ngchmProperty-class     Class representing a Generic Property for a
+                        Next Generation Clustered Heat Map (NGCHM).
+ngchmProtoParamCheck    Check that all required parameters are
+                        specified, and all specified parameters are
+                        either required or optional.
+ngchmPushSourceRepository
+                        Push a shaidy repository onto the stack of
+                        source repositories
+ngchmPushTempRepository
+                        Push a shaidy repository onto the stack of
+                        temporary repositories
+ngchmRegisterServer     Register an ngchmServer.
+ngchmRelated-class      Class representing a link related to a NGCHM
+ngchmRelatedGroup-class
+                        Class representing a group of related links to
+                        a NGCHM
+ngchmRenderChm          Render a shaidy NGCHM
+ngchmResponseJSON       Return response content interpreted as JSON
+ngchmRowCenter          Row center a shaidy dataset
+ngchmSaveAsDatasetBlob
+                        Save a numeric matrix as a blob in a shaidy
+                        repository
+ngchmSaveAsDendrogramBlob
+                        Save a dendrogram as a blob in a shaidy
+                        repository
+ngchmSaveChmAsBlob      Save an NGCHM as a shaidy blob
+ngchmServer-class       Class representing a Next Generation Clustered
+                        Heat Map (NGCHM) server.
+ngchmServerProtocol-class
+                        Class representing a deployment method for a
+                        Next Generation Clustered Heat Map (NGCHM)
+                        server.
+ngchmShaidyInit         Initialize shaidy subsystem for NGCHMs
+ngchmTemplate-class     Class representing a Template attached to a
+                        NGCHM
+ngchmTileDataset        Get the tiles for a shaidy dataset
+ngchmTypeMapper-class   Class representing a type mapper function for
+                        Next Generation Clustered Heat Map (NGCHM).
+ngchmUnregisterServer   Unregister ngchmServer(s).
+ngchmValueProp-class    Class representing the properties of a data
+                        point in a Next Generation Clustered Heat Map
+                        (NGCHM).
+optDendrogram-class     Optional Dendrogram
+plot.ngchmVersion2      Open the NG-CHM on the specified server in the
+                        viewer.
+print.ngchm.type.info   Pretty print the result returned by
+                        chmGetTypeInfo.
+print.shaidyRepo        Print a shaidy repository
+readTile                Read a binary viewer tile as a matrix
+shaid-class             Class representing the shaid of an object
+shaidyAddFileBlob       Add data file(s) and properties to a local
+                        shaidy repository
+shaidyBlobExists        Determine if one more blobs exist in a shaidy
+                        repository
+shaidyCopyBlob          Copy a blob from one repository to another
+shaidyCreateProtoBlob   Create a prototype blob in a shaidy repository
+shaidyFinalizeProtoBlob
+                        Finalize a prototype blob
+shaidyFindRepo          Find the first repository, if any, that
+                        contains the requested shaid
+shaidyGetComponents     Get an object's component shaids
+shaidyGetShaid          Get shaid for an object
+shaidyHashProtoBlob     Compute the shaid to assign a protoblob
+shaidyInit              Initialize the shaidy subsystem
+shaidyInitRepository    Create and initialize a local shaidy
+                        repository.
+shaidyLoadProvenanceDB
+                        Load the provid -> shaid DB for a local shaidy
+                        repository
+shaidyLoadProvidDB      Load the provid -> labels DB for a local shaidy
+                        repository.
+shaidyLoadRepository    Load a shaidy repository
+shaidyNewCache          Create in memory shaid cache
+shaidyProvenance        Create a provid from a list of label values
+shaidyRegisterRepoAPI   Set the methods for the repository API called
+                        api
+shaidyRepoAPI           Get the methods for the repository API called
+                        api
+validateNewLayer        Check that the specified layer can be added to
+                        the specificed NGCHM.
+writeTile               Write a matrix as a binary viewer tile
